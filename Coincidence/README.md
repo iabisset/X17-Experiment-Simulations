@@ -1,1 +1,0 @@
-This directory contains the code for the coincidence simulations, as well as the mathematica file for processing the data. Data files for the detectors and weights resulting from the simulation are also given.
