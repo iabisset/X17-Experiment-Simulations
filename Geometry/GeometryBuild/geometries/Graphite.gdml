@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Graphite_v0" unit="mm" x="235.7641" y="269.6677" z="744.2832"/>
+        <position name="Graphite_v1" unit="mm" x="235.6339" y="270.5728" z="744.2832"/>
+        <position name="Graphite_v2" unit="mm" x="227.5857" y="267.2663" z="744.2832"/>
+        <position name="Graphite_v3" unit="mm" x="227.2058" y="268.0981" z="744.2832"/>
+        <position name="Graphite_v4" unit="mm" x="220.4151" y="262.6581" z="744.2832"/>
+        <position name="Graphite_v5" unit="mm" x="219.8163" y="263.3491" z="744.2832"/>
+        <position name="Graphite_v6" unit="mm" x="214.8332" y="256.2163" z="744.2832"/>
+        <position name="Graphite_v7" unit="mm" x="214.064" y="256.7106" z="744.2832"/>
+        <position name="Graphite_v8" unit="mm" x="211.2924" y="248.4629" z="744.2832"/>
+        <position name="Graphite_v9" unit="mm" x="210.415" y="248.7205" z="744.2832"/>
+        <position name="Graphite_v10" unit="mm" x="210.0793" y="240.0259" z="744.2832"/>
+        <position name="Graphite_v11" unit="mm" x="209.1649" y="240.0259" z="744.2832"/>
+        <position name="Graphite_v12" unit="mm" x="211.2924" y="231.589" z="744.2832"/>
+        <position name="Graphite_v13" unit="mm" x="210.415" y="231.3314" z="744.2832"/>
+        <position name="Graphite_v14" unit="mm" x="214.8332" y="223.8356" z="744.2832"/>
+        <position name="Graphite_v15" unit="mm" x="214.064" y="223.3412" z="744.2832"/>
+        <position name="Graphite_v16" unit="mm" x="220.4151" y="217.3938" z="744.2832"/>
+        <position name="Graphite_v17" unit="mm" x="219.8163" y="216.7027" z="744.2832"/>
+        <position name="Graphite_v18" unit="mm" x="227.5857" y="212.7855" z="744.2832"/>
+        <position name="Graphite_v19" unit="mm" x="227.2058" y="211.9538" z="744.2832"/>
+        <position name="Graphite_v20" unit="mm" x="235.7641" y="210.3841" z="744.2832"/>
+        <position name="Graphite_v21" unit="mm" x="235.6339" y="209.479" z="744.2832"/>
+        <position name="Graphite_v22" unit="mm" x="244.2878" y="210.3841" z="744.2832"/>
+        <position name="Graphite_v23" unit="mm" x="244.4179" y="209.479" z="744.2832"/>
+        <position name="Graphite_v24" unit="mm" x="252.4662" y="212.7855" z="744.2832"/>
+        <position name="Graphite_v25" unit="mm" x="252.846" y="211.9538" z="744.2832"/>
+        <position name="Graphite_v26" unit="mm" x="259.6368" y="217.3938" z="744.2832"/>
+        <position name="Graphite_v27" unit="mm" x="260.2356" y="216.7027" z="744.2832"/>
+        <position name="Graphite_v28" unit="mm" x="265.2186" y="223.8356" z="744.2832"/>
+        <position name="Graphite_v29" unit="mm" x="265.9878" y="223.3412" z="744.2832"/>
+        <position name="Graphite_v30" unit="mm" x="268.7595" y="231.589" z="744.2832"/>
+        <position name="Graphite_v31" unit="mm" x="269.6368" y="231.3314" z="744.2832"/>
+        <position name="Graphite_v32" unit="mm" x="269.9725" y="240.0259" z="744.2832"/>
+        <position name="Graphite_v33" unit="mm" x="270.8869" y="240.0259" z="744.2832"/>
+        <position name="Graphite_v34" unit="mm" x="268.7595" y="248.4629" z="744.2832"/>
+        <position name="Graphite_v35" unit="mm" x="269.6368" y="248.7205" z="744.2832"/>
+        <position name="Graphite_v36" unit="mm" x="265.2186" y="256.2163" z="744.2832"/>
+        <position name="Graphite_v37" unit="mm" x="265.9878" y="256.7106" z="744.2832"/>
+        <position name="Graphite_v38" unit="mm" x="259.6368" y="262.6581" z="744.2832"/>
+        <position name="Graphite_v39" unit="mm" x="260.2356" y="263.3491" z="744.2832"/>
+        <position name="Graphite_v40" unit="mm" x="252.4662" y="267.2663" z="744.2832"/>
+        <position name="Graphite_v41" unit="mm" x="252.846" y="268.0981" z="744.2832"/>
+        <position name="Graphite_v42" unit="mm" x="244.2878" y="269.6677" z="744.2832"/>
+        <position name="Graphite_v43" unit="mm" x="244.4179" y="270.5728" z="744.2832"/>
+        <position name="Graphite_v44" unit="mm" x="227.5857" y="267.2663" z="493.4582"/>
+        <position name="Graphite_v45" unit="mm" x="227.2058" y="268.0981" z="493.4582"/>
+        <position name="Graphite_v46" unit="mm" x="235.7641" y="269.6677" z="493.4582"/>
+        <position name="Graphite_v47" unit="mm" x="235.6339" y="270.5728" z="493.4582"/>
+        <position name="Graphite_v48" unit="mm" x="244.2878" y="269.6677" z="493.4582"/>
+        <position name="Graphite_v49" unit="mm" x="244.4179" y="270.5728" z="493.4582"/>
+        <position name="Graphite_v50" unit="mm" x="252.4662" y="267.2663" z="493.4582"/>
+        <position name="Graphite_v51" unit="mm" x="252.846" y="268.0981" z="493.4582"/>
+        <position name="Graphite_v52" unit="mm" x="259.6368" y="262.6581" z="493.4582"/>
+        <position name="Graphite_v53" unit="mm" x="260.2356" y="263.3491" z="493.4582"/>
+        <position name="Graphite_v54" unit="mm" x="265.2186" y="256.2163" z="493.4582"/>
+        <position name="Graphite_v55" unit="mm" x="265.9878" y="256.7106" z="493.4582"/>
+        <position name="Graphite_v56" unit="mm" x="268.7595" y="248.4629" z="493.4582"/>
+        <position name="Graphite_v57" unit="mm" x="269.6368" y="248.7205" z="493.4582"/>
+        <position name="Graphite_v58" unit="mm" x="269.9725" y="240.0259" z="493.4582"/>
+        <position name="Graphite_v59" unit="mm" x="270.8869" y="240.0259" z="493.4582"/>
+        <position name="Graphite_v60" unit="mm" x="268.7595" y="231.589" z="493.4582"/>
+        <position name="Graphite_v61" unit="mm" x="269.6368" y="231.3314" z="493.4582"/>
+        <position name="Graphite_v62" unit="mm" x="265.2186" y="223.8356" z="493.4582"/>
+        <position name="Graphite_v63" unit="mm" x="265.9878" y="223.3412" z="493.4582"/>
+        <position name="Graphite_v64" unit="mm" x="259.6368" y="217.3938" z="493.4582"/>
+        <position name="Graphite_v65" unit="mm" x="260.2356" y="216.7027" z="493.4582"/>
+        <position name="Graphite_v66" unit="mm" x="252.4662" y="212.7855" z="493.4582"/>
+        <position name="Graphite_v67" unit="mm" x="252.846" y="211.9538" z="493.4582"/>
+        <position name="Graphite_v68" unit="mm" x="244.2878" y="210.3841" z="493.4582"/>
+        <position name="Graphite_v69" unit="mm" x="244.4179" y="209.479" z="493.4582"/>
+        <position name="Graphite_v70" unit="mm" x="235.7641" y="210.3841" z="493.4582"/>
+        <position name="Graphite_v71" unit="mm" x="235.6339" y="209.479" z="493.4582"/>
+        <position name="Graphite_v72" unit="mm" x="227.5857" y="212.7855" z="493.4582"/>
+        <position name="Graphite_v73" unit="mm" x="227.2058" y="211.9538" z="493.4582"/>
+        <position name="Graphite_v74" unit="mm" x="220.4151" y="217.3938" z="493.4582"/>
+        <position name="Graphite_v75" unit="mm" x="219.8163" y="216.7027" z="493.4582"/>
+        <position name="Graphite_v76" unit="mm" x="214.8332" y="223.8356" z="493.4582"/>
+        <position name="Graphite_v77" unit="mm" x="214.064" y="223.3412" z="493.4582"/>
+        <position name="Graphite_v78" unit="mm" x="211.2924" y="231.589" z="493.4582"/>
+        <position name="Graphite_v79" unit="mm" x="210.415" y="231.3314" z="493.4582"/>
+        <position name="Graphite_v80" unit="mm" x="210.0793" y="240.0259" z="493.4582"/>
+        <position name="Graphite_v81" unit="mm" x="209.1649" y="240.0259" z="493.4582"/>
+        <position name="Graphite_v82" unit="mm" x="211.2924" y="248.4629" z="493.4582"/>
+        <position name="Graphite_v83" unit="mm" x="210.415" y="248.7205" z="493.4582"/>
+        <position name="Graphite_v84" unit="mm" x="214.8332" y="256.2163" z="493.4582"/>
+        <position name="Graphite_v85" unit="mm" x="214.064" y="256.7106" z="493.4582"/>
+        <position name="Graphite_v86" unit="mm" x="220.4151" y="262.6581" z="493.4582"/>
+        <position name="Graphite_v87" unit="mm" x="219.8163" y="263.3491" z="493.4582"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Graphite-SOL">
+             <triangular vertex1="Graphite_v0" vertex2="Graphite_v1" vertex3="Graphite_v2"/>
+             <triangular vertex1="Graphite_v2" vertex2="Graphite_v1" vertex3="Graphite_v3"/>
+             <triangular vertex1="Graphite_v2" vertex2="Graphite_v3" vertex3="Graphite_v4"/>
+             <triangular vertex1="Graphite_v4" vertex2="Graphite_v3" vertex3="Graphite_v5"/>
+             <triangular vertex1="Graphite_v4" vertex2="Graphite_v5" vertex3="Graphite_v6"/>
+             <triangular vertex1="Graphite_v6" vertex2="Graphite_v5" vertex3="Graphite_v7"/>
+             <triangular vertex1="Graphite_v6" vertex2="Graphite_v7" vertex3="Graphite_v8"/>
+             <triangular vertex1="Graphite_v8" vertex2="Graphite_v7" vertex3="Graphite_v9"/>
+             <triangular vertex1="Graphite_v8" vertex2="Graphite_v9" vertex3="Graphite_v10"/>
+             <triangular vertex1="Graphite_v10" vertex2="Graphite_v9" vertex3="Graphite_v11"/>
+             <triangular vertex1="Graphite_v10" vertex2="Graphite_v11" vertex3="Graphite_v12"/>
+             <triangular vertex1="Graphite_v12" vertex2="Graphite_v11" vertex3="Graphite_v13"/>
+             <triangular vertex1="Graphite_v12" vertex2="Graphite_v13" vertex3="Graphite_v14"/>
+             <triangular vertex1="Graphite_v14" vertex2="Graphite_v13" vertex3="Graphite_v15"/>
+             <triangular vertex1="Graphite_v14" vertex2="Graphite_v15" vertex3="Graphite_v16"/>
+             <triangular vertex1="Graphite_v16" vertex2="Graphite_v15" vertex3="Graphite_v17"/>
+             <triangular vertex1="Graphite_v16" vertex2="Graphite_v17" vertex3="Graphite_v18"/>
+             <triangular vertex1="Graphite_v18" vertex2="Graphite_v17" vertex3="Graphite_v19"/>
+             <triangular vertex1="Graphite_v18" vertex2="Graphite_v19" vertex3="Graphite_v20"/>
+             <triangular vertex1="Graphite_v20" vertex2="Graphite_v19" vertex3="Graphite_v21"/>
+             <triangular vertex1="Graphite_v20" vertex2="Graphite_v21" vertex3="Graphite_v22"/>
+             <triangular vertex1="Graphite_v22" vertex2="Graphite_v21" vertex3="Graphite_v23"/>
+             <triangular vertex1="Graphite_v22" vertex2="Graphite_v23" vertex3="Graphite_v24"/>
+             <triangular vertex1="Graphite_v24" vertex2="Graphite_v23" vertex3="Graphite_v25"/>
+             <triangular vertex1="Graphite_v24" vertex2="Graphite_v25" vertex3="Graphite_v26"/>
+             <triangular vertex1="Graphite_v26" vertex2="Graphite_v25" vertex3="Graphite_v27"/>
+             <triangular vertex1="Graphite_v26" vertex2="Graphite_v27" vertex3="Graphite_v28"/>
+             <triangular vertex1="Graphite_v28" vertex2="Graphite_v27" vertex3="Graphite_v29"/>
+             <triangular vertex1="Graphite_v28" vertex2="Graphite_v29" vertex3="Graphite_v30"/>
+             <triangular vertex1="Graphite_v30" vertex2="Graphite_v29" vertex3="Graphite_v31"/>
+             <triangular vertex1="Graphite_v30" vertex2="Graphite_v31" vertex3="Graphite_v32"/>
+             <triangular vertex1="Graphite_v32" vertex2="Graphite_v31" vertex3="Graphite_v33"/>
+             <triangular vertex1="Graphite_v32" vertex2="Graphite_v33" vertex3="Graphite_v34"/>
+             <triangular vertex1="Graphite_v34" vertex2="Graphite_v33" vertex3="Graphite_v35"/>
+             <triangular vertex1="Graphite_v34" vertex2="Graphite_v35" vertex3="Graphite_v36"/>
+             <triangular vertex1="Graphite_v36" vertex2="Graphite_v35" vertex3="Graphite_v37"/>
+             <triangular vertex1="Graphite_v36" vertex2="Graphite_v37" vertex3="Graphite_v38"/>
+             <triangular vertex1="Graphite_v38" vertex2="Graphite_v37" vertex3="Graphite_v39"/>
+             <triangular vertex1="Graphite_v38" vertex2="Graphite_v39" vertex3="Graphite_v40"/>
+             <triangular vertex1="Graphite_v40" vertex2="Graphite_v39" vertex3="Graphite_v41"/>
+             <triangular vertex1="Graphite_v40" vertex2="Graphite_v41" vertex3="Graphite_v42"/>
+             <triangular vertex1="Graphite_v42" vertex2="Graphite_v41" vertex3="Graphite_v43"/>
+             <triangular vertex1="Graphite_v42" vertex2="Graphite_v43" vertex3="Graphite_v0"/>
+             <triangular vertex1="Graphite_v0" vertex2="Graphite_v43" vertex3="Graphite_v1"/>
+             <triangular vertex1="Graphite_v44" vertex2="Graphite_v45" vertex3="Graphite_v46"/>
+             <triangular vertex1="Graphite_v46" vertex2="Graphite_v45" vertex3="Graphite_v47"/>
+             <triangular vertex1="Graphite_v46" vertex2="Graphite_v47" vertex3="Graphite_v48"/>
+             <triangular vertex1="Graphite_v48" vertex2="Graphite_v47" vertex3="Graphite_v49"/>
+             <triangular vertex1="Graphite_v48" vertex2="Graphite_v49" vertex3="Graphite_v50"/>
+             <triangular vertex1="Graphite_v50" vertex2="Graphite_v49" vertex3="Graphite_v51"/>
+             <triangular vertex1="Graphite_v50" vertex2="Graphite_v51" vertex3="Graphite_v52"/>
+             <triangular vertex1="Graphite_v52" vertex2="Graphite_v51" vertex3="Graphite_v53"/>
+             <triangular vertex1="Graphite_v52" vertex2="Graphite_v53" vertex3="Graphite_v54"/>
+             <triangular vertex1="Graphite_v54" vertex2="Graphite_v53" vertex3="Graphite_v55"/>
+             <triangular vertex1="Graphite_v54" vertex2="Graphite_v55" vertex3="Graphite_v56"/>
+             <triangular vertex1="Graphite_v56" vertex2="Graphite_v55" vertex3="Graphite_v57"/>
+             <triangular vertex1="Graphite_v56" vertex2="Graphite_v57" vertex3="Graphite_v58"/>
+             <triangular vertex1="Graphite_v58" vertex2="Graphite_v57" vertex3="Graphite_v59"/>
+             <triangular vertex1="Graphite_v58" vertex2="Graphite_v59" vertex3="Graphite_v60"/>
+             <triangular vertex1="Graphite_v60" vertex2="Graphite_v59" vertex3="Graphite_v61"/>
+             <triangular vertex1="Graphite_v60" vertex2="Graphite_v61" vertex3="Graphite_v62"/>
+             <triangular vertex1="Graphite_v62" vertex2="Graphite_v61" vertex3="Graphite_v63"/>
+             <triangular vertex1="Graphite_v62" vertex2="Graphite_v63" vertex3="Graphite_v64"/>
+             <triangular vertex1="Graphite_v64" vertex2="Graphite_v63" vertex3="Graphite_v65"/>
+             <triangular vertex1="Graphite_v64" vertex2="Graphite_v65" vertex3="Graphite_v66"/>
+             <triangular vertex1="Graphite_v66" vertex2="Graphite_v65" vertex3="Graphite_v67"/>
+             <triangular vertex1="Graphite_v66" vertex2="Graphite_v67" vertex3="Graphite_v68"/>
+             <triangular vertex1="Graphite_v68" vertex2="Graphite_v67" vertex3="Graphite_v69"/>
+             <triangular vertex1="Graphite_v68" vertex2="Graphite_v69" vertex3="Graphite_v70"/>
+             <triangular vertex1="Graphite_v70" vertex2="Graphite_v69" vertex3="Graphite_v71"/>
+             <triangular vertex1="Graphite_v70" vertex2="Graphite_v71" vertex3="Graphite_v72"/>
+             <triangular vertex1="Graphite_v72" vertex2="Graphite_v71" vertex3="Graphite_v73"/>
+             <triangular vertex1="Graphite_v72" vertex2="Graphite_v73" vertex3="Graphite_v74"/>
+             <triangular vertex1="Graphite_v74" vertex2="Graphite_v73" vertex3="Graphite_v75"/>
+             <triangular vertex1="Graphite_v74" vertex2="Graphite_v75" vertex3="Graphite_v76"/>
+             <triangular vertex1="Graphite_v76" vertex2="Graphite_v75" vertex3="Graphite_v77"/>
+             <triangular vertex1="Graphite_v76" vertex2="Graphite_v77" vertex3="Graphite_v78"/>
+             <triangular vertex1="Graphite_v78" vertex2="Graphite_v77" vertex3="Graphite_v79"/>
+             <triangular vertex1="Graphite_v78" vertex2="Graphite_v79" vertex3="Graphite_v80"/>
+             <triangular vertex1="Graphite_v80" vertex2="Graphite_v79" vertex3="Graphite_v81"/>
+             <triangular vertex1="Graphite_v80" vertex2="Graphite_v81" vertex3="Graphite_v82"/>
+             <triangular vertex1="Graphite_v82" vertex2="Graphite_v81" vertex3="Graphite_v83"/>
+             <triangular vertex1="Graphite_v82" vertex2="Graphite_v83" vertex3="Graphite_v84"/>
+             <triangular vertex1="Graphite_v84" vertex2="Graphite_v83" vertex3="Graphite_v85"/>
+             <triangular vertex1="Graphite_v84" vertex2="Graphite_v85" vertex3="Graphite_v86"/>
+             <triangular vertex1="Graphite_v86" vertex2="Graphite_v85" vertex3="Graphite_v87"/>
+             <triangular vertex1="Graphite_v86" vertex2="Graphite_v87" vertex3="Graphite_v44"/>
+             <triangular vertex1="Graphite_v44" vertex2="Graphite_v87" vertex3="Graphite_v45"/>
+             <triangular vertex1="Graphite_v81" vertex2="Graphite_v9" vertex3="Graphite_v83"/>
+             <triangular vertex1="Graphite_v83" vertex2="Graphite_v9" vertex3="Graphite_v7"/>
+             <triangular vertex1="Graphite_v83" vertex2="Graphite_v7" vertex3="Graphite_v85"/>
+             <triangular vertex1="Graphite_v85" vertex2="Graphite_v7" vertex3="Graphite_v5"/>
+             <triangular vertex1="Graphite_v85" vertex2="Graphite_v5" vertex3="Graphite_v87"/>
+             <triangular vertex1="Graphite_v87" vertex2="Graphite_v5" vertex3="Graphite_v3"/>
+             <triangular vertex1="Graphite_v87" vertex2="Graphite_v3" vertex3="Graphite_v45"/>
+             <triangular vertex1="Graphite_v45" vertex2="Graphite_v3" vertex3="Graphite_v1"/>
+             <triangular vertex1="Graphite_v45" vertex2="Graphite_v1" vertex3="Graphite_v47"/>
+             <triangular vertex1="Graphite_v47" vertex2="Graphite_v1" vertex3="Graphite_v43"/>
+             <triangular vertex1="Graphite_v47" vertex2="Graphite_v43" vertex3="Graphite_v49"/>
+             <triangular vertex1="Graphite_v49" vertex2="Graphite_v43" vertex3="Graphite_v41"/>
+             <triangular vertex1="Graphite_v49" vertex2="Graphite_v41" vertex3="Graphite_v51"/>
+             <triangular vertex1="Graphite_v51" vertex2="Graphite_v41" vertex3="Graphite_v39"/>
+             <triangular vertex1="Graphite_v51" vertex2="Graphite_v39" vertex3="Graphite_v53"/>
+             <triangular vertex1="Graphite_v53" vertex2="Graphite_v39" vertex3="Graphite_v37"/>
+             <triangular vertex1="Graphite_v53" vertex2="Graphite_v37" vertex3="Graphite_v55"/>
+             <triangular vertex1="Graphite_v55" vertex2="Graphite_v37" vertex3="Graphite_v35"/>
+             <triangular vertex1="Graphite_v55" vertex2="Graphite_v35" vertex3="Graphite_v57"/>
+             <triangular vertex1="Graphite_v57" vertex2="Graphite_v35" vertex3="Graphite_v33"/>
+             <triangular vertex1="Graphite_v57" vertex2="Graphite_v33" vertex3="Graphite_v59"/>
+             <triangular vertex1="Graphite_v59" vertex2="Graphite_v33" vertex3="Graphite_v31"/>
+             <triangular vertex1="Graphite_v59" vertex2="Graphite_v31" vertex3="Graphite_v61"/>
+             <triangular vertex1="Graphite_v61" vertex2="Graphite_v31" vertex3="Graphite_v29"/>
+             <triangular vertex1="Graphite_v61" vertex2="Graphite_v29" vertex3="Graphite_v63"/>
+             <triangular vertex1="Graphite_v63" vertex2="Graphite_v29" vertex3="Graphite_v27"/>
+             <triangular vertex1="Graphite_v63" vertex2="Graphite_v27" vertex3="Graphite_v65"/>
+             <triangular vertex1="Graphite_v65" vertex2="Graphite_v27" vertex3="Graphite_v25"/>
+             <triangular vertex1="Graphite_v65" vertex2="Graphite_v25" vertex3="Graphite_v67"/>
+             <triangular vertex1="Graphite_v67" vertex2="Graphite_v25" vertex3="Graphite_v23"/>
+             <triangular vertex1="Graphite_v67" vertex2="Graphite_v23" vertex3="Graphite_v69"/>
+             <triangular vertex1="Graphite_v69" vertex2="Graphite_v23" vertex3="Graphite_v21"/>
+             <triangular vertex1="Graphite_v69" vertex2="Graphite_v21" vertex3="Graphite_v71"/>
+             <triangular vertex1="Graphite_v71" vertex2="Graphite_v21" vertex3="Graphite_v19"/>
+             <triangular vertex1="Graphite_v71" vertex2="Graphite_v19" vertex3="Graphite_v73"/>
+             <triangular vertex1="Graphite_v73" vertex2="Graphite_v19" vertex3="Graphite_v17"/>
+             <triangular vertex1="Graphite_v73" vertex2="Graphite_v17" vertex3="Graphite_v75"/>
+             <triangular vertex1="Graphite_v75" vertex2="Graphite_v17" vertex3="Graphite_v15"/>
+             <triangular vertex1="Graphite_v75" vertex2="Graphite_v15" vertex3="Graphite_v77"/>
+             <triangular vertex1="Graphite_v77" vertex2="Graphite_v15" vertex3="Graphite_v13"/>
+             <triangular vertex1="Graphite_v77" vertex2="Graphite_v13" vertex3="Graphite_v79"/>
+             <triangular vertex1="Graphite_v79" vertex2="Graphite_v13" vertex3="Graphite_v11"/>
+             <triangular vertex1="Graphite_v79" vertex2="Graphite_v11" vertex3="Graphite_v81"/>
+             <triangular vertex1="Graphite_v81" vertex2="Graphite_v11" vertex3="Graphite_v9"/>
+             <triangular vertex1="Graphite_v10" vertex2="Graphite_v80" vertex3="Graphite_v8"/>
+             <triangular vertex1="Graphite_v8" vertex2="Graphite_v80" vertex3="Graphite_v82"/>
+             <triangular vertex1="Graphite_v8" vertex2="Graphite_v82" vertex3="Graphite_v6"/>
+             <triangular vertex1="Graphite_v6" vertex2="Graphite_v82" vertex3="Graphite_v84"/>
+             <triangular vertex1="Graphite_v6" vertex2="Graphite_v84" vertex3="Graphite_v4"/>
+             <triangular vertex1="Graphite_v4" vertex2="Graphite_v84" vertex3="Graphite_v86"/>
+             <triangular vertex1="Graphite_v4" vertex2="Graphite_v86" vertex3="Graphite_v2"/>
+             <triangular vertex1="Graphite_v2" vertex2="Graphite_v86" vertex3="Graphite_v44"/>
+             <triangular vertex1="Graphite_v2" vertex2="Graphite_v44" vertex3="Graphite_v0"/>
+             <triangular vertex1="Graphite_v0" vertex2="Graphite_v44" vertex3="Graphite_v46"/>
+             <triangular vertex1="Graphite_v0" vertex2="Graphite_v46" vertex3="Graphite_v42"/>
+             <triangular vertex1="Graphite_v42" vertex2="Graphite_v46" vertex3="Graphite_v48"/>
+             <triangular vertex1="Graphite_v42" vertex2="Graphite_v48" vertex3="Graphite_v40"/>
+             <triangular vertex1="Graphite_v40" vertex2="Graphite_v48" vertex3="Graphite_v50"/>
+             <triangular vertex1="Graphite_v40" vertex2="Graphite_v50" vertex3="Graphite_v38"/>
+             <triangular vertex1="Graphite_v38" vertex2="Graphite_v50" vertex3="Graphite_v52"/>
+             <triangular vertex1="Graphite_v38" vertex2="Graphite_v52" vertex3="Graphite_v36"/>
+             <triangular vertex1="Graphite_v36" vertex2="Graphite_v52" vertex3="Graphite_v54"/>
+             <triangular vertex1="Graphite_v36" vertex2="Graphite_v54" vertex3="Graphite_v34"/>
+             <triangular vertex1="Graphite_v34" vertex2="Graphite_v54" vertex3="Graphite_v56"/>
+             <triangular vertex1="Graphite_v34" vertex2="Graphite_v56" vertex3="Graphite_v32"/>
+             <triangular vertex1="Graphite_v32" vertex2="Graphite_v56" vertex3="Graphite_v58"/>
+             <triangular vertex1="Graphite_v32" vertex2="Graphite_v58" vertex3="Graphite_v30"/>
+             <triangular vertex1="Graphite_v30" vertex2="Graphite_v58" vertex3="Graphite_v60"/>
+             <triangular vertex1="Graphite_v30" vertex2="Graphite_v60" vertex3="Graphite_v28"/>
+             <triangular vertex1="Graphite_v28" vertex2="Graphite_v60" vertex3="Graphite_v62"/>
+             <triangular vertex1="Graphite_v28" vertex2="Graphite_v62" vertex3="Graphite_v26"/>
+             <triangular vertex1="Graphite_v26" vertex2="Graphite_v62" vertex3="Graphite_v64"/>
+             <triangular vertex1="Graphite_v26" vertex2="Graphite_v64" vertex3="Graphite_v24"/>
+             <triangular vertex1="Graphite_v24" vertex2="Graphite_v64" vertex3="Graphite_v66"/>
+             <triangular vertex1="Graphite_v24" vertex2="Graphite_v66" vertex3="Graphite_v22"/>
+             <triangular vertex1="Graphite_v22" vertex2="Graphite_v66" vertex3="Graphite_v68"/>
+             <triangular vertex1="Graphite_v22" vertex2="Graphite_v68" vertex3="Graphite_v20"/>
+             <triangular vertex1="Graphite_v20" vertex2="Graphite_v68" vertex3="Graphite_v70"/>
+             <triangular vertex1="Graphite_v20" vertex2="Graphite_v70" vertex3="Graphite_v18"/>
+             <triangular vertex1="Graphite_v18" vertex2="Graphite_v70" vertex3="Graphite_v72"/>
+             <triangular vertex1="Graphite_v18" vertex2="Graphite_v72" vertex3="Graphite_v16"/>
+             <triangular vertex1="Graphite_v16" vertex2="Graphite_v72" vertex3="Graphite_v74"/>
+             <triangular vertex1="Graphite_v16" vertex2="Graphite_v74" vertex3="Graphite_v14"/>
+             <triangular vertex1="Graphite_v14" vertex2="Graphite_v74" vertex3="Graphite_v76"/>
+             <triangular vertex1="Graphite_v14" vertex2="Graphite_v76" vertex3="Graphite_v12"/>
+             <triangular vertex1="Graphite_v12" vertex2="Graphite_v76" vertex3="Graphite_v78"/>
+             <triangular vertex1="Graphite_v12" vertex2="Graphite_v78" vertex3="Graphite_v10"/>
+             <triangular vertex1="Graphite_v10" vertex2="Graphite_v78" vertex3="Graphite_v80"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Graphite">
+            <materialref ref="Vacuum"/>
+            <solidref ref="Graphite-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Graphite"/>
+    </setup>
+</gdml>

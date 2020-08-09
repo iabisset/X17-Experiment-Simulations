@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="stuff_PMT_2_v0" unit="mm" x="212.6859" y="227.2861" z="15.17618"/>
+        <position name="stuff_PMT_2_v1" unit="mm" x="212.6859" y="227.2861" z="10.09618"/>
+        <position name="stuff_PMT_2_v2" unit="mm" x="210.6811" y="233.0504" z="15.17618"/>
+        <position name="stuff_PMT_2_v3" unit="mm" x="210.6811" y="233.0504" z="10.09618"/>
+        <position name="stuff_PMT_2_v4" unit="mm" x="209.8776" y="239.1003" z="15.17618"/>
+        <position name="stuff_PMT_2_v5" unit="mm" x="209.8776" y="239.1003" z="10.09618"/>
+        <position name="stuff_PMT_2_v6" unit="mm" x="210.3084" y="245.188" z="15.17618"/>
+        <position name="stuff_PMT_2_v7" unit="mm" x="210.3084" y="245.188" z="10.09618"/>
+        <position name="stuff_PMT_2_v8" unit="mm" x="211.9559" y="251.0645" z="15.17618"/>
+        <position name="stuff_PMT_2_v9" unit="mm" x="211.9559" y="251.0645" z="10.09618"/>
+        <position name="stuff_PMT_2_v10" unit="mm" x="214.7525" y="256.4889" z="15.17618"/>
+        <position name="stuff_PMT_2_v11" unit="mm" x="214.7525" y="256.4889" z="10.09618"/>
+        <position name="stuff_PMT_2_v12" unit="mm" x="218.5838" y="261.2394" z="15.17618"/>
+        <position name="stuff_PMT_2_v13" unit="mm" x="218.5838" y="261.2394" z="10.09618"/>
+        <position name="stuff_PMT_2_v14" unit="mm" x="223.293" y="265.1215" z="15.17618"/>
+        <position name="stuff_PMT_2_v15" unit="mm" x="223.293" y="265.1215" z="10.09618"/>
+        <position name="stuff_PMT_2_v16" unit="mm" x="228.6872" y="267.9761" z="15.17618"/>
+        <position name="stuff_PMT_2_v17" unit="mm" x="228.6872" y="267.9761" z="10.09618"/>
+        <position name="stuff_PMT_2_v18" unit="mm" x="234.5457" y="269.6864" z="15.17618"/>
+        <position name="stuff_PMT_2_v19" unit="mm" x="234.5457" y="269.6864" z="10.09618"/>
+        <position name="stuff_PMT_2_v20" unit="mm" x="240.6285" y="270.1824" z="15.17618"/>
+        <position name="stuff_PMT_2_v21" unit="mm" x="240.6285" y="270.1824" z="10.09618"/>
+        <position name="stuff_PMT_2_v22" unit="mm" x="246.6866" y="269.4438" z="15.17618"/>
+        <position name="stuff_PMT_2_v23" unit="mm" x="246.6866" y="269.4438" z="10.09618"/>
+        <position name="stuff_PMT_2_v24" unit="mm" x="252.472" y="267.5008" z="15.17618"/>
+        <position name="stuff_PMT_2_v25" unit="mm" x="252.472" y="267.5008" z="10.09618"/>
+        <position name="stuff_PMT_2_v26" unit="mm" x="257.7479" y="264.4331" z="15.17618"/>
+        <position name="stuff_PMT_2_v27" unit="mm" x="257.7479" y="264.4331" z="10.09618"/>
+        <position name="stuff_PMT_2_v28" unit="mm" x="262.2982" y="260.366" z="15.17618"/>
+        <position name="stuff_PMT_2_v29" unit="mm" x="262.2982" y="260.366" z="10.09618"/>
+        <position name="stuff_PMT_2_v30" unit="mm" x="265.9368" y="255.4663" z="15.17618"/>
+        <position name="stuff_PMT_2_v31" unit="mm" x="265.9368" y="255.4663" z="10.09618"/>
+        <position name="stuff_PMT_2_v32" unit="mm" x="267.3659" y="252.7657" z="15.17618"/>
+        <position name="stuff_PMT_2_v33" unit="mm" x="267.3659" y="252.7657" z="10.09618"/>
+        <position name="stuff_PMT_2_v34" unit="mm" x="268.5145" y="249.9344" z="15.17618"/>
+        <position name="stuff_PMT_2_v35" unit="mm" x="268.5145" y="249.9344" z="10.09618"/>
+        <position name="stuff_PMT_2_v36" unit="mm" x="269.9259" y="243.9969" z="15.17618"/>
+        <position name="stuff_PMT_2_v37" unit="mm" x="269.9259" y="243.9969" z="10.09618"/>
+        <position name="stuff_PMT_2_v38" unit="mm" x="270.1132" y="237.8968" z="15.17618"/>
+        <position name="stuff_PMT_2_v39" unit="mm" x="270.1132" y="237.8968" z="10.09618"/>
+        <position name="stuff_PMT_2_v40" unit="mm" x="269.0687" y="231.8838" z="15.17618"/>
+        <position name="stuff_PMT_2_v41" unit="mm" x="269.0687" y="231.8838" z="10.09618"/>
+        <position name="stuff_PMT_2_v42" unit="mm" x="266.8352" y="226.2042" z="15.17618"/>
+        <position name="stuff_PMT_2_v43" unit="mm" x="266.8352" y="226.2042" z="10.09618"/>
+        <position name="stuff_PMT_2_v44" unit="mm" x="263.5041" y="221.0905" z="15.17618"/>
+        <position name="stuff_PMT_2_v45" unit="mm" x="263.5041" y="221.0905" z="10.09618"/>
+        <position name="stuff_PMT_2_v46" unit="mm" x="259.2119" y="216.752" z="15.17618"/>
+        <position name="stuff_PMT_2_v47" unit="mm" x="259.2119" y="216.752" z="10.09618"/>
+        <position name="stuff_PMT_2_v48" unit="mm" x="254.1341" y="213.3663" z="15.17618"/>
+        <position name="stuff_PMT_2_v49" unit="mm" x="254.1341" y="213.3663" z="10.09618"/>
+        <position name="stuff_PMT_2_v50" unit="mm" x="248.4788" y="211.0721" z="15.17618"/>
+        <position name="stuff_PMT_2_v51" unit="mm" x="248.4788" y="211.0721" z="10.09618"/>
+        <position name="stuff_PMT_2_v52" unit="mm" x="242.4774" y="209.9632" z="15.17618"/>
+        <position name="stuff_PMT_2_v53" unit="mm" x="242.4774" y="209.9632" z="10.09618"/>
+        <position name="stuff_PMT_2_v54" unit="mm" x="236.3756" y="210.0851" z="15.17618"/>
+        <position name="stuff_PMT_2_v55" unit="mm" x="236.3756" y="210.0851" z="10.09618"/>
+        <position name="stuff_PMT_2_v56" unit="mm" x="230.4233" y="211.4328" z="15.17618"/>
+        <position name="stuff_PMT_2_v57" unit="mm" x="230.4233" y="211.4328" z="10.09618"/>
+        <position name="stuff_PMT_2_v58" unit="mm" x="224.8641" y="213.9511" z="15.17618"/>
+        <position name="stuff_PMT_2_v59" unit="mm" x="224.8641" y="213.9511" z="10.09618"/>
+        <position name="stuff_PMT_2_v60" unit="mm" x="219.9256" y="217.5369" z="15.17618"/>
+        <position name="stuff_PMT_2_v61" unit="mm" x="219.9256" y="217.5369" z="10.09618"/>
+        <position name="stuff_PMT_2_v62" unit="mm" x="215.8101" y="222.0434" z="15.17618"/>
+        <position name="stuff_PMT_2_v63" unit="mm" x="215.8101" y="222.0434" z="10.09618"/>
+        <position name="stuff_PMT_2_v64" unit="mm" x="268.9716" y="217.5655" z="10.09618"/>
+        <position name="stuff_PMT_2_v65" unit="mm" x="269.2922" y="215.7446" z="10.09618"/>
+        <position name="stuff_PMT_2_v66" unit="mm" x="261.4315" y="216.3732" z="10.09618"/>
+        <position name="stuff_PMT_2_v67" unit="mm" x="224.6294" y="194.9583" z="10.09618"/>
+        <position name="stuff_PMT_2_v68" unit="mm" x="224.8099" y="199.3084" z="10.09618"/>
+        <position name="stuff_PMT_2_v69" unit="mm" x="227.0992" y="194.1888" z="10.09618"/>
+        <position name="stuff_PMT_2_v70" unit="mm" x="200.8361" y="250.7569" z="10.09618"/>
+        <position name="stuff_PMT_2_v71" unit="mm" x="193.4311" y="249.8778" z="10.09618"/>
+        <position name="stuff_PMT_2_v72" unit="mm" x="197.5892" y="257.7247" z="10.09618"/>
+        <position name="stuff_PMT_2_v73" unit="mm" x="195.6148" y="257.2246" z="10.09618"/>
+        <position name="stuff_PMT_2_v74" unit="mm" x="198.9488" y="264.1259" z="10.09618"/>
+        <position name="stuff_PMT_2_v75" unit="mm" x="217.1479" y="266.8386" z="10.09618"/>
+        <position name="stuff_PMT_2_v76" unit="mm" x="207.5298" y="236.3919" z="10.09618"/>
+        <position name="stuff_PMT_2_v77" unit="mm" x="244.3685" y="208.4222" z="10.09618"/>
+        <position name="stuff_PMT_2_v78" unit="mm" x="277.2476" y="235.478" z="10.09618"/>
+        <position name="stuff_PMT_2_v79" unit="mm" x="278.0967" y="234.4655" z="10.09618"/>
+        <position name="stuff_PMT_2_v80" unit="mm" x="277.1822" y="223.7126" z="10.09618"/>
+        <position name="stuff_PMT_2_v81" unit="mm" x="279.3383" y="234.0132" z="10.09618"/>
+        <position name="stuff_PMT_2_v82" unit="mm" x="283.6882" y="226.7443" z="10.09618"/>
+        <position name="stuff_PMT_2_v83" unit="mm" x="287.2624" y="233.9553" z="10.09618"/>
+        <position name="stuff_PMT_2_v84" unit="mm" x="281.6521" y="235.0914" z="10.09618"/>
+        <position name="stuff_PMT_2_v85" unit="mm" x="282.1044" y="236.333" z="10.09618"/>
+        <position name="stuff_PMT_2_v86" unit="mm" x="277.0185" y="236.7793" z="10.09618"/>
+        <position name="stuff_PMT_2_v87" unit="mm" x="277.4708" y="238.0209" z="10.09618"/>
+        <position name="stuff_PMT_2_v88" unit="mm" x="278.4833" y="238.87" z="10.09618"/>
+        <position name="stuff_PMT_2_v89" unit="mm" x="275.22" y="244.9172" z="10.09618"/>
+        <position name="stuff_PMT_2_v90" unit="mm" x="279.7846" y="239.0991" z="10.09618"/>
+        <position name="stuff_PMT_2_v91" unit="mm" x="280.7715" y="247.504" z="10.09618"/>
+        <position name="stuff_PMT_2_v92" unit="mm" x="281.0262" y="238.6468" z="10.09618"/>
+        <position name="stuff_PMT_2_v93" unit="mm" x="281.8753" y="237.6344" z="10.09618"/>
+        <position name="stuff_PMT_2_v94" unit="mm" x="286.0509" y="227.7848" z="10.09618"/>
+        <position name="stuff_PMT_2_v95" unit="mm" x="280.6396" y="234.2423" z="10.09618"/>
+        <position name="stuff_PMT_2_v96" unit="mm" x="266.4081" y="263.8278" z="10.09618"/>
+        <position name="stuff_PMT_2_v97" unit="mm" x="216.3418" y="217.4813" z="10.09618"/>
+        <position name="stuff_PMT_2_v98" unit="mm" x="207.2097" y="259.2404" z="10.09618"/>
+        <position name="stuff_PMT_2_v99" unit="mm" x="253.2084" y="275.1612" z="10.09618"/>
+        <position name="stuff_PMT_2_v100" unit="mm" x="261.7204" y="274.8436" z="10.09618"/>
+        <position name="stuff_PMT_2_v101" unit="mm" x="260.7079" y="273.9946" z="10.09618"/>
+        <position name="stuff_PMT_2_v102" unit="mm" x="260.2557" y="272.753" z="10.09618"/>
+        <position name="stuff_PMT_2_v103" unit="mm" x="277.126" y="269.8877" z="10.09618"/>
+        <position name="stuff_PMT_2_v104" unit="mm" x="271.9596" y="266.4146" z="10.09618"/>
+        <position name="stuff_PMT_2_v105" unit="mm" x="271.8554" y="275.4523" z="10.09618"/>
+        <position name="stuff_PMT_2_v106" unit="mm" x="265.7604" y="280.0993" z="10.09618"/>
+        <position name="stuff_PMT_2_v107" unit="mm" x="260.4848" y="271.4516" z="10.09618"/>
+        <position name="stuff_PMT_2_v108" unit="mm" x="261.3338" y="270.4392" z="10.09618"/>
+        <position name="stuff_PMT_2_v109" unit="mm" x="262.5754" y="269.9869" z="10.09618"/>
+        <position name="stuff_PMT_2_v110" unit="mm" x="263.8768" y="270.216" z="10.09618"/>
+        <position name="stuff_PMT_2_v111" unit="mm" x="264.8892" y="271.0651" z="10.09618"/>
+        <position name="stuff_PMT_2_v112" unit="mm" x="258.9989" y="283.7085" z="10.09618"/>
+        <position name="stuff_PMT_2_v113" unit="mm" x="259.7144" y="278.1928" z="10.09618"/>
+        <position name="stuff_PMT_2_v114" unit="mm" x="263.0218" y="275.0727" z="10.09618"/>
+        <position name="stuff_PMT_2_v115" unit="mm" x="265.3415" y="272.3067" z="10.09618"/>
+        <position name="stuff_PMT_2_v116" unit="mm" x="265.1124" y="273.608" z="10.09618"/>
+        <position name="stuff_PMT_2_v117" unit="mm" x="264.2633" y="274.6205" z="10.09618"/>
+        <position name="stuff_PMT_2_v118" unit="mm" x="249.9616" y="282.129" z="10.09618"/>
+        <position name="stuff_PMT_2_v119" unit="mm" x="251.746" y="286.1863" z="10.09618"/>
+        <position name="stuff_PMT_2_v120" unit="mm" x="243.808" y="283.1197" z="10.09618"/>
+        <position name="stuff_PMT_2_v121" unit="mm" x="244.1896" y="287.4686" z="10.09618"/>
+        <position name="stuff_PMT_2_v122" unit="mm" x="245.5452" y="282.4868" z="10.09618"/>
+        <position name="stuff_PMT_2_v123" unit="mm" x="246.7333" y="281.0701" z="10.09618"/>
+        <position name="stuff_PMT_2_v124" unit="mm" x="247.0539" y="279.2492" z="10.09618"/>
+        <position name="stuff_PMT_2_v125" unit="mm" x="246.421" y="277.5119" z="10.09618"/>
+        <position name="stuff_PMT_2_v126" unit="mm" x="241.987" y="282.7991" z="10.09618"/>
+        <position name="stuff_PMT_2_v127" unit="mm" x="240.5703" y="281.611" z="10.09618"/>
+        <position name="stuff_PMT_2_v128" unit="mm" x="231.624" y="280.341" z="10.09618"/>
+        <position name="stuff_PMT_2_v129" unit="mm" x="239.9375" y="279.8737" z="10.09618"/>
+        <position name="stuff_PMT_2_v130" unit="mm" x="234.2109" y="274.7896" z="10.09618"/>
+        <position name="stuff_PMT_2_v131" unit="mm" x="240.258" y="278.0528" z="10.09618"/>
+        <position name="stuff_PMT_2_v132" unit="mm" x="241.4461" y="276.6361" z="10.09618"/>
+        <position name="stuff_PMT_2_v133" unit="mm" x="243.1834" y="276.0033" z="10.09618"/>
+        <position name="stuff_PMT_2_v134" unit="mm" x="245.0043" y="276.3238" z="10.09618"/>
+        <position name="stuff_PMT_2_v135" unit="mm" x="236.5254" y="287.5221" z="10.09618"/>
+        <position name="stuff_PMT_2_v136" unit="mm" x="228.9518" y="286.3455" z="10.09618"/>
+        <position name="stuff_PMT_2_v137" unit="mm" x="214.8538" y="280.4549" z="10.09618"/>
+        <position name="stuff_PMT_2_v138" unit="mm" x="221.665" y="283.9693" z="10.09618"/>
+        <position name="stuff_PMT_2_v139" unit="mm" x="222.1849" y="278.3134" z="10.09618"/>
+        <position name="stuff_PMT_2_v140" unit="mm" x="203.3466" y="270.4031" z="10.09618"/>
+        <position name="stuff_PMT_2_v141" unit="mm" x="214.561" y="272.39" z="10.09618"/>
+        <position name="stuff_PMT_2_v142" unit="mm" x="208.6945" y="275.8935" z="10.09618"/>
+        <position name="stuff_PMT_2_v143" unit="mm" x="203.9638" y="263.1109" z="10.09618"/>
+        <position name="stuff_PMT_2_v144" unit="mm" x="204.2844" y="261.2899" z="10.09618"/>
+        <position name="stuff_PMT_2_v145" unit="mm" x="205.4725" y="259.8732" z="10.09618"/>
+        <position name="stuff_PMT_2_v146" unit="mm" x="209.0307" y="259.561" z="10.09618"/>
+        <position name="stuff_PMT_2_v147" unit="mm" x="210.4474" y="260.749" z="10.09618"/>
+        <position name="stuff_PMT_2_v148" unit="mm" x="211.0802" y="262.4863" z="10.09618"/>
+        <position name="stuff_PMT_2_v149" unit="mm" x="210.7597" y="264.3072" z="10.09618"/>
+        <position name="stuff_PMT_2_v150" unit="mm" x="209.5716" y="265.7239" z="10.09618"/>
+        <position name="stuff_PMT_2_v151" unit="mm" x="207.8343" y="266.3568" z="10.09618"/>
+        <position name="stuff_PMT_2_v152" unit="mm" x="206.0134" y="266.0362" z="10.09618"/>
+        <position name="stuff_PMT_2_v153" unit="mm" x="204.5967" y="264.8481" z="10.09618"/>
+        <position name="stuff_PMT_2_v154" unit="mm" x="202.581" y="242.0309" z="10.09618"/>
+        <position name="stuff_PMT_2_v155" unit="mm" x="203.0333" y="243.2725" z="10.09618"/>
+        <position name="stuff_PMT_2_v156" unit="mm" x="198.1766" y="242.4175" z="10.09618"/>
+        <position name="stuff_PMT_2_v157" unit="mm" x="199.0256" y="241.405" z="10.09618"/>
+        <position name="stuff_PMT_2_v158" unit="mm" x="199.2804" y="232.5478" z="10.09618"/>
+        <position name="stuff_PMT_2_v159" unit="mm" x="200.2672" y="240.9527" z="10.09618"/>
+        <position name="stuff_PMT_2_v160" unit="mm" x="201.5686" y="241.1818" z="10.09618"/>
+        <position name="stuff_PMT_2_v161" unit="mm" x="202.8042" y="244.5739" z="10.09618"/>
+        <position name="stuff_PMT_2_v162" unit="mm" x="197.9475" y="243.7188" z="10.09618"/>
+        <position name="stuff_PMT_2_v163" unit="mm" x="192.4541" y="242.2759" z="10.09618"/>
+        <position name="stuff_PMT_2_v164" unit="mm" x="198.3997" y="244.9604" z="10.09618"/>
+        <position name="stuff_PMT_2_v165" unit="mm" x="201.9551" y="245.5863" z="10.09618"/>
+        <position name="stuff_PMT_2_v166" unit="mm" x="200.7136" y="246.0386" z="10.09618"/>
+        <position name="stuff_PMT_2_v167" unit="mm" x="199.4122" y="245.8095" z="10.09618"/>
+        <position name="stuff_PMT_2_v168" unit="mm" x="192.7092" y="234.6157" z="10.09618"/>
+        <position name="stuff_PMT_2_v169" unit="mm" x="194.1898" y="227.0957" z="10.09618"/>
+        <position name="stuff_PMT_2_v170" unit="mm" x="200.4941" y="223.5753" z="10.09618"/>
+        <position name="stuff_PMT_2_v171" unit="mm" x="196.8575" y="219.9105" z="10.09618"/>
+        <position name="stuff_PMT_2_v172" unit="mm" x="200.8146" y="221.7544" z="10.09618"/>
+        <position name="stuff_PMT_2_v173" unit="mm" x="200.6433" y="213.2463" z="10.09618"/>
+        <position name="stuff_PMT_2_v174" unit="mm" x="219.5671" y="208.6002" z="10.09618"/>
+        <position name="stuff_PMT_2_v175" unit="mm" x="218.718" y="209.6127" z="10.09618"/>
+        <position name="stuff_PMT_2_v176" unit="mm" x="214.7103" y="207.7452" z="10.09618"/>
+        <position name="stuff_PMT_2_v177" unit="mm" x="211.1503" y="202.1532" z="10.09618"/>
+        <position name="stuff_PMT_2_v178" unit="mm" x="208.0923" y="213.6372" z="10.09618"/>
+        <position name="stuff_PMT_2_v179" unit="mm" x="205.4491" y="207.2756" z="10.09618"/>
+        <position name="stuff_PMT_2_v180" unit="mm" x="219.7962" y="207.2988" z="10.09618"/>
+        <position name="stuff_PMT_2_v181" unit="mm" x="217.4764" y="210.0649" z="10.09618"/>
+        <position name="stuff_PMT_2_v182" unit="mm" x="216.1751" y="209.8358" z="10.09618"/>
+        <position name="stuff_PMT_2_v183" unit="mm" x="215.1626" y="208.9868" z="10.09618"/>
+        <position name="stuff_PMT_2_v184" unit="mm" x="214.9394" y="206.4438" z="10.09618"/>
+        <position name="stuff_PMT_2_v185" unit="mm" x="215.7885" y="205.4314" z="10.09618"/>
+        <position name="stuff_PMT_2_v186" unit="mm" x="217.5995" y="198.0117" z="10.09618"/>
+        <position name="stuff_PMT_2_v187" unit="mm" x="217.0301" y="204.9791" z="10.09618"/>
+        <position name="stuff_PMT_2_v188" unit="mm" x="218.3315" y="205.2082" z="10.09618"/>
+        <position name="stuff_PMT_2_v189" unit="mm" x="219.3439" y="206.0573" z="10.09618"/>
+        <position name="stuff_PMT_2_v190" unit="mm" x="238.6057" y="203.4157" z="10.09618"/>
+        <position name="stuff_PMT_2_v191" unit="mm" x="236.8685" y="204.0486" z="10.09618"/>
+        <position name="stuff_PMT_2_v192" unit="mm" x="239.6933" y="192.4021" z="10.09618"/>
+        <position name="stuff_PMT_2_v193" unit="mm" x="232.0582" y="193.0722" z="10.09618"/>
+        <position name="stuff_PMT_2_v194" unit="mm" x="236.2439" y="196.9322" z="10.09618"/>
+        <position name="stuff_PMT_2_v195" unit="mm" x="235.0475" y="203.728" z="10.09618"/>
+        <position name="stuff_PMT_2_v196" unit="mm" x="233.6308" y="202.5399" z="10.09618"/>
+        <position name="stuff_PMT_2_v197" unit="mm" x="232.998" y="200.8027" z="10.09618"/>
+        <position name="stuff_PMT_2_v198" unit="mm" x="233.3185" y="198.9817" z="10.09618"/>
+        <position name="stuff_PMT_2_v199" unit="mm" x="234.5066" y="197.565" z="10.09618"/>
+        <position name="stuff_PMT_2_v200" unit="mm" x="238.0648" y="197.2528" z="10.09618"/>
+        <position name="stuff_PMT_2_v201" unit="mm" x="239.4815" y="198.4408" z="10.09618"/>
+        <position name="stuff_PMT_2_v202" unit="mm" x="248.4278" y="199.7108" z="10.09618"/>
+        <position name="stuff_PMT_2_v203" unit="mm" x="240.1144" y="200.1781" z="10.09618"/>
+        <position name="stuff_PMT_2_v204" unit="mm" x="239.7938" y="201.999" z="10.09618"/>
+        <position name="stuff_PMT_2_v205" unit="mm" x="247.337" y="192.9654" z="10.09618"/>
+        <position name="stuff_PMT_2_v206" unit="mm" x="254.7913" y="194.7476" z="10.09618"/>
+        <position name="stuff_PMT_2_v207" unit="mm" x="261.8633" y="197.7025" z="10.09618"/>
+        <position name="stuff_PMT_2_v208" unit="mm" x="256.5656" y="201.5093" z="10.09618"/>
+        <position name="stuff_PMT_2_v209" unit="mm" x="268.3696" y="201.7536" z="10.09618"/>
+        <position name="stuff_PMT_2_v210" unit="mm" x="265.4908" y="207.6618" z="10.09618"/>
+        <position name="stuff_PMT_2_v211" unit="mm" x="274.1419" y="206.7958" z="10.09618"/>
+        <position name="stuff_PMT_2_v212" unit="mm" x="279.0306" y="212.6987" z="10.09618"/>
+        <position name="stuff_PMT_2_v213" unit="mm" x="270.4803" y="214.3279" z="10.09618"/>
+        <position name="stuff_PMT_2_v214" unit="mm" x="272.2175" y="213.6951" z="10.09618"/>
+        <position name="stuff_PMT_2_v215" unit="mm" x="274.5794" y="220.1786" z="10.09618"/>
+        <position name="stuff_PMT_2_v216" unit="mm" x="272.8421" y="220.8115" z="10.09618"/>
+        <position name="stuff_PMT_2_v217" unit="mm" x="271.0212" y="220.4909" z="10.09618"/>
+        <position name="stuff_PMT_2_v218" unit="mm" x="269.6045" y="219.3028" z="10.09618"/>
+        <position name="stuff_PMT_2_v219" unit="mm" x="274.0385" y="214.0156" z="10.09618"/>
+        <position name="stuff_PMT_2_v220" unit="mm" x="275.4552" y="215.2037" z="10.09618"/>
+        <position name="stuff_PMT_2_v221" unit="mm" x="282.9091" y="219.3094" z="10.09618"/>
+        <position name="stuff_PMT_2_v222" unit="mm" x="276.088" y="216.941" z="10.09618"/>
+        <position name="stuff_PMT_2_v223" unit="mm" x="275.7675" y="218.7619" z="10.09618"/>
+        <position name="stuff_PMT_2_v224" unit="mm" x="285.6769" y="226.4566" z="10.09618"/>
+        <position name="stuff_PMT_2_v225" unit="mm" x="287.6245" y="241.6112" z="10.09618"/>
+        <position name="stuff_PMT_2_v226" unit="mm" x="286.7539" y="249.226" z="10.09618"/>
+        <position name="stuff_PMT_2_v227" unit="mm" x="204.3645" y="226.8212" z="10.09618"/>
+        <position name="stuff_PMT_2_v228" unit="mm" x="202.5436" y="226.5007" z="10.09618"/>
+        <position name="stuff_PMT_2_v229" unit="mm" x="201.1269" y="225.3126" z="10.09618"/>
+        <position name="stuff_PMT_2_v230" unit="mm" x="202.0027" y="220.3377" z="10.09618"/>
+        <position name="stuff_PMT_2_v231" unit="mm" x="203.74" y="219.7049" z="10.09618"/>
+        <position name="stuff_PMT_2_v232" unit="mm" x="205.5609" y="220.0254" z="10.09618"/>
+        <position name="stuff_PMT_2_v233" unit="mm" x="206.9776" y="221.2135" z="10.09618"/>
+        <position name="stuff_PMT_2_v234" unit="mm" x="207.6105" y="222.9508" z="10.09618"/>
+        <position name="stuff_PMT_2_v235" unit="mm" x="207.2899" y="224.7717" z="10.09618"/>
+        <position name="stuff_PMT_2_v236" unit="mm" x="206.1018" y="226.1884" z="10.09618"/>
+        <position name="stuff_PMT_2_v237" unit="mm" x="254.2459" y="204.2754" z="10.09618"/>
+        <position name="stuff_PMT_2_v238" unit="mm" x="254.475" y="202.9741" z="10.09618"/>
+        <position name="stuff_PMT_2_v239" unit="mm" x="255.3241" y="201.9616" z="10.09618"/>
+        <position name="stuff_PMT_2_v240" unit="mm" x="257.867" y="201.7384" z="10.09618"/>
+        <position name="stuff_PMT_2_v241" unit="mm" x="258.8794" y="202.5875" z="10.09618"/>
+        <position name="stuff_PMT_2_v242" unit="mm" x="259.3317" y="203.8291" z="10.09618"/>
+        <position name="stuff_PMT_2_v243" unit="mm" x="259.1026" y="205.1305" z="10.09618"/>
+        <position name="stuff_PMT_2_v244" unit="mm" x="258.2535" y="206.1429" z="10.09618"/>
+        <position name="stuff_PMT_2_v245" unit="mm" x="257.012" y="206.5952" z="10.09618"/>
+        <position name="stuff_PMT_2_v246" unit="mm" x="255.7106" y="206.3661" z="10.09618"/>
+        <position name="stuff_PMT_2_v247" unit="mm" x="254.6981" y="205.517" z="10.09618"/>
+        <position name="stuff_PMT_2_v248" unit="mm" x="273.0742" y="258.8383" z="10.09618"/>
+        <position name="stuff_PMT_2_v249" unit="mm" x="274.4909" y="260.0264" z="10.09618"/>
+        <position name="stuff_PMT_2_v250" unit="mm" x="276.3119" y="260.347" z="10.09618"/>
+        <position name="stuff_PMT_2_v251" unit="mm" x="278.0491" y="259.7141" z="10.09618"/>
+        <position name="stuff_PMT_2_v252" unit="mm" x="281.4357" y="263.5498" z="10.09618"/>
+        <position name="stuff_PMT_2_v253" unit="mm" x="279.2372" y="258.2975" z="10.09618"/>
+        <position name="stuff_PMT_2_v254" unit="mm" x="283.1943" y="260.1414" z="10.09618"/>
+        <position name="stuff_PMT_2_v255" unit="mm" x="279.5578" y="256.4765" z="10.09618"/>
+        <position name="stuff_PMT_2_v256" unit="mm" x="284.6729" y="256.6025" z="10.09618"/>
+        <position name="stuff_PMT_2_v257" unit="mm" x="278.9249" y="254.7393" z="10.09618"/>
+        <position name="stuff_PMT_2_v258" unit="mm" x="277.5082" y="253.5512" z="10.09618"/>
+        <position name="stuff_PMT_2_v259" unit="mm" x="275.6873" y="253.2306" z="10.09618"/>
+        <position name="stuff_PMT_2_v260" unit="mm" x="272.4414" y="257.1011" z="10.09618"/>
+        <position name="stuff_PMT_2_v261" unit="mm" x="272.7619" y="255.2801" z="10.09618"/>
+        <position name="stuff_PMT_2_v262" unit="mm" x="273.95" y="253.8634" z="10.09618"/>
+        <position name="stuff_PMT_2_v263" unit="mm" x="221.1724" y="277.4643" z="10.09618"/>
+        <position name="stuff_PMT_2_v264" unit="mm" x="220.7201" y="276.2228" z="10.09618"/>
+        <position name="stuff_PMT_2_v265" unit="mm" x="220.9492" y="274.9214" z="10.09618"/>
+        <position name="stuff_PMT_2_v266" unit="mm" x="221.7983" y="273.9089" z="10.09618"/>
+        <position name="stuff_PMT_2_v267" unit="mm" x="223.0399" y="273.4566" z="10.09618"/>
+        <position name="stuff_PMT_2_v268" unit="mm" x="224.3412" y="273.6858" z="10.09618"/>
+        <position name="stuff_PMT_2_v269" unit="mm" x="225.3537" y="274.5348" z="10.09618"/>
+        <position name="stuff_PMT_2_v270" unit="mm" x="225.806" y="275.7764" z="10.09618"/>
+        <position name="stuff_PMT_2_v271" unit="mm" x="225.5769" y="277.0778" z="10.09618"/>
+        <position name="stuff_PMT_2_v272" unit="mm" x="224.7278" y="278.0902" z="10.09618"/>
+        <position name="stuff_PMT_2_v273" unit="mm" x="223.4862" y="278.5425" z="10.09618"/>
+        <position name="stuff_PMT_2_v274" unit="mm" x="250.1219" y="206.592" z="22.79618"/>
+        <position name="stuff_PMT_2_v275" unit="mm" x="243.612" y="205.2855" z="22.79618"/>
+        <position name="stuff_PMT_2_v276" unit="mm" x="246.7124" y="203.3921" z="22.79618"/>
+        <position name="stuff_PMT_2_v277" unit="mm" x="224.2607" y="208.8616" z="22.79618"/>
+        <position name="stuff_PMT_2_v278" unit="mm" x="226.2276" y="204.2529" z="22.79618"/>
+        <position name="stuff_PMT_2_v279" unit="mm" x="230.4434" y="206.4412" z="22.79618"/>
+        <position name="stuff_PMT_2_v280" unit="mm" x="207.1103" y="228.3506" z="22.79618"/>
+        <position name="stuff_PMT_2_v281" unit="mm" x="205.4955" y="234.7909" z="22.79618"/>
+        <position name="stuff_PMT_2_v282" unit="mm" x="203.4236" y="234.4785" z="22.79618"/>
+        <position name="stuff_PMT_2_v283" unit="mm" x="208.1468" y="254.2905" z="22.79618"/>
+        <position name="stuff_PMT_2_v284" unit="mm" x="203.7595" y="252.47" z="22.79618"/>
+        <position name="stuff_PMT_2_v285" unit="mm" x="206.0233" y="247.9995" z="22.79618"/>
+        <position name="stuff_PMT_2_v286" unit="mm" x="240.258" y="278.0528" z="22.79618"/>
+        <position name="stuff_PMT_2_v287" unit="mm" x="239.9375" y="279.8737" z="22.79618"/>
+        <position name="stuff_PMT_2_v288" unit="mm" x="233.3394" y="276.6597" z="22.79618"/>
+        <position name="stuff_PMT_2_v289" unit="mm" x="258.9989" y="283.7085" z="22.79618"/>
+        <position name="stuff_PMT_2_v290" unit="mm" x="260.9883" y="279.1373" z="22.79618"/>
+        <position name="stuff_PMT_2_v291" unit="mm" x="265.7604" y="280.0993" z="22.79618"/>
+        <position name="stuff_PMT_2_v292" unit="mm" x="193.4311" y="249.8778" z="22.79618"/>
+        <position name="stuff_PMT_2_v293" unit="mm" x="196.5955" y="249.1317" z="22.79618"/>
+        <position name="stuff_PMT_2_v294" unit="mm" x="195.6148" y="257.2246" z="22.79618"/>
+        <position name="stuff_PMT_2_v295" unit="mm" x="192.7092" y="234.6157" z="22.79618"/>
+        <position name="stuff_PMT_2_v296" unit="mm" x="194.1898" y="227.0957" z="22.79618"/>
+        <position name="stuff_PMT_2_v297" unit="mm" x="199.2804" y="232.5478" z="22.79618"/>
+        <position name="stuff_PMT_2_v298" unit="mm" x="224.6294" y="194.9583" z="22.79618"/>
+        <position name="stuff_PMT_2_v299" unit="mm" x="219.0635" y="200.9146" z="22.79618"/>
+        <position name="stuff_PMT_2_v300" unit="mm" x="217.5995" y="198.0117" z="22.79618"/>
+        <position name="stuff_PMT_2_v301" unit="mm" x="283.4361" y="220.4377" z="22.79618"/>
+        <position name="stuff_PMT_2_v302" unit="mm" x="280.2763" y="219.0321" z="22.79618"/>
+        <position name="stuff_PMT_2_v303" unit="mm" x="282.9091" y="219.3094" z="22.79618"/>
+        <position name="stuff_PMT_2_v304" unit="mm" x="287.2624" y="233.9553" z="22.79618"/>
+        <position name="stuff_PMT_2_v305" unit="mm" x="283.4564" y="230.9201" z="22.79618"/>
+        <position name="stuff_PMT_2_v306" unit="mm" x="285.6769" y="226.4566" z="22.79618"/>
+        <position name="stuff_PMT_2_v307" unit="mm" x="275.7675" y="218.7619" z="22.79618"/>
+        <position name="stuff_PMT_2_v308" unit="mm" x="276.088" y="216.941" z="22.79618"/>
+        <position name="stuff_PMT_2_v309" unit="mm" x="218.3315" y="205.2082" z="22.79618"/>
+        <position name="stuff_PMT_2_v310" unit="mm" x="217.0301" y="204.9791" z="22.79618"/>
+        <position name="stuff_PMT_2_v311" unit="mm" x="274.6325" y="235.3206" z="22.79618"/>
+        <position name="stuff_PMT_2_v312" unit="mm" x="277.0185" y="236.7793" z="22.79618"/>
+        <position name="stuff_PMT_2_v313" unit="mm" x="274.8976" y="241.9549" z="22.79618"/>
+        <position name="stuff_PMT_2_v314" unit="mm" x="277.4708" y="238.0209" z="22.79618"/>
+        <position name="stuff_PMT_2_v315" unit="mm" x="276.6283" y="245.5734" z="22.79618"/>
+        <position name="stuff_PMT_2_v316" unit="mm" x="276.2923" y="227.5819" z="22.79618"/>
+        <position name="stuff_PMT_2_v317" unit="mm" x="280.6396" y="234.2423" z="22.79618"/>
+        <position name="stuff_PMT_2_v318" unit="mm" x="279.3383" y="234.0132" z="22.79618"/>
+        <position name="stuff_PMT_2_v319" unit="mm" x="278.0967" y="234.4655" z="22.79618"/>
+        <position name="stuff_PMT_2_v320" unit="mm" x="277.2476" y="235.478" z="22.79618"/>
+        <position name="stuff_PMT_2_v321" unit="mm" x="278.4833" y="238.87" z="22.79618"/>
+        <position name="stuff_PMT_2_v322" unit="mm" x="279.7846" y="239.0991" z="22.79618"/>
+        <position name="stuff_PMT_2_v323" unit="mm" x="286.7539" y="249.226" z="22.79618"/>
+        <position name="stuff_PMT_2_v324" unit="mm" x="281.0262" y="238.6468" z="22.79618"/>
+        <position name="stuff_PMT_2_v325" unit="mm" x="287.6245" y="241.6112" z="22.79618"/>
+        <position name="stuff_PMT_2_v326" unit="mm" x="281.8753" y="237.6344" z="22.79618"/>
+        <position name="stuff_PMT_2_v327" unit="mm" x="282.1044" y="236.333" z="22.79618"/>
+        <position name="stuff_PMT_2_v328" unit="mm" x="281.6521" y="235.0914" z="22.79618"/>
+        <position name="stuff_PMT_2_v329" unit="mm" x="198.3997" y="244.9604" z="22.79618"/>
+        <position name="stuff_PMT_2_v330" unit="mm" x="197.9475" y="243.7188" z="22.79618"/>
+        <position name="stuff_PMT_2_v331" unit="mm" x="198.1766" y="242.4175" z="22.79618"/>
+        <position name="stuff_PMT_2_v332" unit="mm" x="205.1288" y="241.4204" z="22.79618"/>
+        <position name="stuff_PMT_2_v333" unit="mm" x="202.581" y="242.0309" z="22.79618"/>
+        <position name="stuff_PMT_2_v334" unit="mm" x="201.5686" y="241.1818" z="22.79618"/>
+        <position name="stuff_PMT_2_v335" unit="mm" x="200.2672" y="240.9527" z="22.79618"/>
+        <position name="stuff_PMT_2_v336" unit="mm" x="199.0256" y="241.405" z="22.79618"/>
+        <position name="stuff_PMT_2_v337" unit="mm" x="199.4122" y="245.8095" z="22.79618"/>
+        <position name="stuff_PMT_2_v338" unit="mm" x="200.7136" y="246.0386" z="22.79618"/>
+        <position name="stuff_PMT_2_v339" unit="mm" x="201.9551" y="245.5863" z="22.79618"/>
+        <position name="stuff_PMT_2_v340" unit="mm" x="202.8042" y="244.5739" z="22.79618"/>
+        <position name="stuff_PMT_2_v341" unit="mm" x="203.0333" y="243.2725" z="22.79618"/>
+        <position name="stuff_PMT_2_v342" unit="mm" x="215.1626" y="208.9868" z="22.79618"/>
+        <position name="stuff_PMT_2_v343" unit="mm" x="212.2355" y="215.5678" z="22.79618"/>
+        <position name="stuff_PMT_2_v344" unit="mm" x="214.7103" y="207.7452" z="22.79618"/>
+        <position name="stuff_PMT_2_v345" unit="mm" x="208.0923" y="213.6372" z="22.79618"/>
+        <position name="stuff_PMT_2_v346" unit="mm" x="214.9394" y="206.4438" z="22.79618"/>
+        <position name="stuff_PMT_2_v347" unit="mm" x="211.1503" y="202.1532" z="22.79618"/>
+        <position name="stuff_PMT_2_v348" unit="mm" x="215.7885" y="205.4314" z="22.79618"/>
+        <position name="stuff_PMT_2_v349" unit="mm" x="218.6477" y="212.4084" z="22.79618"/>
+        <position name="stuff_PMT_2_v350" unit="mm" x="213.8074" y="216.9534" z="22.79618"/>
+        <position name="stuff_PMT_2_v351" unit="mm" x="216.1751" y="209.8358" z="22.79618"/>
+        <position name="stuff_PMT_2_v352" unit="mm" x="217.4764" y="210.0649" z="22.79618"/>
+        <position name="stuff_PMT_2_v353" unit="mm" x="218.718" y="209.6127" z="22.79618"/>
+        <position name="stuff_PMT_2_v354" unit="mm" x="219.5671" y="208.6002" z="22.79618"/>
+        <position name="stuff_PMT_2_v355" unit="mm" x="219.7962" y="207.2988" z="22.79618"/>
+        <position name="stuff_PMT_2_v356" unit="mm" x="219.3439" y="206.0573" z="22.79618"/>
+        <position name="stuff_PMT_2_v357" unit="mm" x="236.2439" y="196.9322" z="22.79618"/>
+        <position name="stuff_PMT_2_v358" unit="mm" x="234.5066" y="197.565" z="22.79618"/>
+        <position name="stuff_PMT_2_v359" unit="mm" x="230.2116" y="195.7031" z="22.79618"/>
+        <position name="stuff_PMT_2_v360" unit="mm" x="233.3185" y="198.9817" z="22.79618"/>
+        <position name="stuff_PMT_2_v361" unit="mm" x="232.998" y="200.8027" z="22.79618"/>
+        <position name="stuff_PMT_2_v362" unit="mm" x="233.6308" y="202.5399" z="22.79618"/>
+        <position name="stuff_PMT_2_v363" unit="mm" x="235.0475" y="203.728" z="22.79618"/>
+        <position name="stuff_PMT_2_v364" unit="mm" x="236.9725" y="205.2347" z="22.79618"/>
+        <position name="stuff_PMT_2_v365" unit="mm" x="236.8685" y="204.0486" z="22.79618"/>
+        <position name="stuff_PMT_2_v366" unit="mm" x="238.6057" y="203.4157" z="22.79618"/>
+        <position name="stuff_PMT_2_v367" unit="mm" x="232.0582" y="193.0722" z="22.79618"/>
+        <position name="stuff_PMT_2_v368" unit="mm" x="248.4278" y="199.7108" z="22.79618"/>
+        <position name="stuff_PMT_2_v369" unit="mm" x="238.0648" y="197.2528" z="22.79618"/>
+        <position name="stuff_PMT_2_v370" unit="mm" x="239.7938" y="201.999" z="22.79618"/>
+        <position name="stuff_PMT_2_v371" unit="mm" x="240.1144" y="200.1781" z="22.79618"/>
+        <position name="stuff_PMT_2_v372" unit="mm" x="239.4815" y="198.4408" z="22.79618"/>
+        <position name="stuff_PMT_2_v373" unit="mm" x="271.0212" y="220.4909" z="22.79618"/>
+        <position name="stuff_PMT_2_v374" unit="mm" x="272.8421" y="220.8115" z="22.79618"/>
+        <position name="stuff_PMT_2_v375" unit="mm" x="274.5794" y="220.1786" z="22.79618"/>
+        <position name="stuff_PMT_2_v376" unit="mm" x="266.5949" y="217.3578" z="22.79618"/>
+        <position name="stuff_PMT_2_v377" unit="mm" x="261.8248" y="212.7392" z="22.79618"/>
+        <position name="stuff_PMT_2_v378" unit="mm" x="269.2922" y="215.7446" z="22.79618"/>
+        <position name="stuff_PMT_2_v379" unit="mm" x="268.9716" y="217.5655" z="22.79618"/>
+        <position name="stuff_PMT_2_v380" unit="mm" x="269.6045" y="219.3028" z="22.79618"/>
+        <position name="stuff_PMT_2_v381" unit="mm" x="270.4048" y="222.7957" z="22.79618"/>
+        <position name="stuff_PMT_2_v382" unit="mm" x="270.4803" y="214.3279" z="22.79618"/>
+        <position name="stuff_PMT_2_v383" unit="mm" x="263.7754" y="211.3431" z="22.79618"/>
+        <position name="stuff_PMT_2_v384" unit="mm" x="272.2175" y="213.6951" z="22.79618"/>
+        <position name="stuff_PMT_2_v385" unit="mm" x="265.4908" y="207.6618" z="22.79618"/>
+        <position name="stuff_PMT_2_v386" unit="mm" x="274.0385" y="214.0156" z="22.79618"/>
+        <position name="stuff_PMT_2_v387" unit="mm" x="275.4552" y="215.2037" z="22.79618"/>
+        <position name="stuff_PMT_2_v388" unit="mm" x="279.0306" y="212.6987" z="22.79618"/>
+        <position name="stuff_PMT_2_v389" unit="mm" x="277.5082" y="253.5512" z="22.79618"/>
+        <position name="stuff_PMT_2_v390" unit="mm" x="275.6873" y="253.2306" z="22.79618"/>
+        <position name="stuff_PMT_2_v391" unit="mm" x="278.9249" y="254.7393" z="22.79618"/>
+        <position name="stuff_PMT_2_v392" unit="mm" x="279.5578" y="256.4765" z="22.79618"/>
+        <position name="stuff_PMT_2_v393" unit="mm" x="284.6729" y="256.6025" z="22.79618"/>
+        <position name="stuff_PMT_2_v394" unit="mm" x="279.2372" y="258.2975" z="22.79618"/>
+        <position name="stuff_PMT_2_v395" unit="mm" x="283.1943" y="260.1414" z="22.79618"/>
+        <position name="stuff_PMT_2_v396" unit="mm" x="278.0491" y="259.7141" z="22.79618"/>
+        <position name="stuff_PMT_2_v397" unit="mm" x="281.4357" y="263.5498" z="22.79618"/>
+        <position name="stuff_PMT_2_v398" unit="mm" x="276.3119" y="260.347" z="22.79618"/>
+        <position name="stuff_PMT_2_v399" unit="mm" x="277.126" y="269.8877" z="22.79618"/>
+        <position name="stuff_PMT_2_v400" unit="mm" x="274.4909" y="260.0264" z="22.79618"/>
+        <position name="stuff_PMT_2_v401" unit="mm" x="267.8164" y="264.484" z="22.79618"/>
+        <position name="stuff_PMT_2_v402" unit="mm" x="273.0742" y="258.8383" z="22.79618"/>
+        <position name="stuff_PMT_2_v403" unit="mm" x="273.95" y="253.8634" z="22.79618"/>
+        <position name="stuff_PMT_2_v404" unit="mm" x="272.7619" y="255.2801" z="22.79618"/>
+        <position name="stuff_PMT_2_v405" unit="mm" x="272.4414" y="257.1011" z="22.79618"/>
+        <position name="stuff_PMT_2_v406" unit="mm" x="274.1419" y="206.7958" z="22.79618"/>
+        <position name="stuff_PMT_2_v407" unit="mm" x="268.3696" y="201.7536" z="22.79618"/>
+        <position name="stuff_PMT_2_v408" unit="mm" x="254.7913" y="194.7476" z="22.79618"/>
+        <position name="stuff_PMT_2_v409" unit="mm" x="261.8633" y="197.7025" z="22.79618"/>
+        <position name="stuff_PMT_2_v410" unit="mm" x="257.867" y="201.7384" z="22.79618"/>
+        <position name="stuff_PMT_2_v411" unit="mm" x="239.6933" y="192.4021" z="22.79618"/>
+        <position name="stuff_PMT_2_v412" unit="mm" x="247.337" y="192.9654" z="22.79618"/>
+        <position name="stuff_PMT_2_v413" unit="mm" x="205.4491" y="207.2756" z="22.79618"/>
+        <position name="stuff_PMT_2_v414" unit="mm" x="200.6433" y="213.2463" z="22.79618"/>
+        <position name="stuff_PMT_2_v415" unit="mm" x="202.0027" y="220.3377" z="22.79618"/>
+        <position name="stuff_PMT_2_v416" unit="mm" x="196.8575" y="219.9105" z="22.79618"/>
+        <position name="stuff_PMT_2_v417" unit="mm" x="200.8146" y="221.7544" z="22.79618"/>
+        <position name="stuff_PMT_2_v418" unit="mm" x="192.4541" y="242.2759" z="22.79618"/>
+        <position name="stuff_PMT_2_v419" unit="mm" x="199.7756" y="261.0198" z="22.79618"/>
+        <position name="stuff_PMT_2_v420" unit="mm" x="198.9488" y="264.1259" z="22.79618"/>
+        <position name="stuff_PMT_2_v421" unit="mm" x="203.9638" y="263.1109" z="22.79618"/>
+        <position name="stuff_PMT_2_v422" unit="mm" x="204.5967" y="264.8481" z="22.79618"/>
+        <position name="stuff_PMT_2_v423" unit="mm" x="203.3466" y="270.4031" z="22.79618"/>
+        <position name="stuff_PMT_2_v424" unit="mm" x="206.0134" y="266.0362" z="22.79618"/>
+        <position name="stuff_PMT_2_v425" unit="mm" x="208.6945" y="275.8935" z="22.79618"/>
+        <position name="stuff_PMT_2_v426" unit="mm" x="207.8343" y="266.3568" z="22.79618"/>
+        <position name="stuff_PMT_2_v427" unit="mm" x="216.2764" y="268.7088" z="22.79618"/>
+        <position name="stuff_PMT_2_v428" unit="mm" x="221.665" y="283.9693" z="22.79618"/>
+        <position name="stuff_PMT_2_v429" unit="mm" x="223.4862" y="278.5425" z="22.79618"/>
+        <position name="stuff_PMT_2_v430" unit="mm" x="228.9518" y="286.3455" z="22.79618"/>
+        <position name="stuff_PMT_2_v431" unit="mm" x="224.7278" y="278.0902" z="22.79618"/>
+        <position name="stuff_PMT_2_v432" unit="mm" x="225.5769" y="277.0778" z="22.79618"/>
+        <position name="stuff_PMT_2_v433" unit="mm" x="225.806" y="275.7764" z="22.79618"/>
+        <position name="stuff_PMT_2_v434" unit="mm" x="223.0399" y="273.4566" z="22.79618"/>
+        <position name="stuff_PMT_2_v435" unit="mm" x="224.3412" y="273.6858" z="22.79618"/>
+        <position name="stuff_PMT_2_v436" unit="mm" x="225.3537" y="274.5348" z="22.79618"/>
+        <position name="stuff_PMT_2_v437" unit="mm" x="221.7983" y="273.9089" z="22.79618"/>
+        <position name="stuff_PMT_2_v438" unit="mm" x="220.9492" y="274.9214" z="22.79618"/>
+        <position name="stuff_PMT_2_v439" unit="mm" x="220.7201" y="276.2228" z="22.79618"/>
+        <position name="stuff_PMT_2_v440" unit="mm" x="214.8538" y="280.4549" z="22.79618"/>
+        <position name="stuff_PMT_2_v441" unit="mm" x="221.1724" y="277.4643" z="22.79618"/>
+        <position name="stuff_PMT_2_v442" unit="mm" x="222.1849" y="278.3134" z="22.79618"/>
+        <position name="stuff_PMT_2_v443" unit="mm" x="240.5703" y="281.611" z="22.79618"/>
+        <position name="stuff_PMT_2_v444" unit="mm" x="236.5254" y="287.5221" z="22.79618"/>
+        <position name="stuff_PMT_2_v445" unit="mm" x="241.987" y="282.7991" z="22.79618"/>
+        <position name="stuff_PMT_2_v446" unit="mm" x="244.1896" y="287.4686" z="22.79618"/>
+        <position name="stuff_PMT_2_v447" unit="mm" x="243.808" y="283.1197" z="22.79618"/>
+        <position name="stuff_PMT_2_v448" unit="mm" x="249.8403" y="284.3487" z="22.79618"/>
+        <position name="stuff_PMT_2_v449" unit="mm" x="200.4941" y="223.5753" z="22.79618"/>
+        <position name="stuff_PMT_2_v450" unit="mm" x="201.1269" y="225.3126" z="22.79618"/>
+        <position name="stuff_PMT_2_v451" unit="mm" x="202.5436" y="226.5007" z="22.79618"/>
+        <position name="stuff_PMT_2_v452" unit="mm" x="204.3645" y="226.8212" z="22.79618"/>
+        <position name="stuff_PMT_2_v453" unit="mm" x="206.1018" y="226.1884" z="22.79618"/>
+        <position name="stuff_PMT_2_v454" unit="mm" x="207.2899" y="224.7717" z="22.79618"/>
+        <position name="stuff_PMT_2_v455" unit="mm" x="207.6105" y="222.9508" z="22.79618"/>
+        <position name="stuff_PMT_2_v456" unit="mm" x="206.9776" y="221.2135" z="22.79618"/>
+        <position name="stuff_PMT_2_v457" unit="mm" x="205.5609" y="220.0254" z="22.79618"/>
+        <position name="stuff_PMT_2_v458" unit="mm" x="203.74" y="219.7049" z="22.79618"/>
+        <position name="stuff_PMT_2_v459" unit="mm" x="256.5656" y="201.5093" z="22.79618"/>
+        <position name="stuff_PMT_2_v460" unit="mm" x="255.3241" y="201.9616" z="22.79618"/>
+        <position name="stuff_PMT_2_v461" unit="mm" x="254.475" y="202.9741" z="22.79618"/>
+        <position name="stuff_PMT_2_v462" unit="mm" x="254.2459" y="204.2754" z="22.79618"/>
+        <position name="stuff_PMT_2_v463" unit="mm" x="254.6981" y="205.517" z="22.79618"/>
+        <position name="stuff_PMT_2_v464" unit="mm" x="255.7106" y="206.3661" z="22.79618"/>
+        <position name="stuff_PMT_2_v465" unit="mm" x="257.012" y="206.5952" z="22.79618"/>
+        <position name="stuff_PMT_2_v466" unit="mm" x="258.2535" y="206.1429" z="22.79618"/>
+        <position name="stuff_PMT_2_v467" unit="mm" x="259.1026" y="205.1305" z="22.79618"/>
+        <position name="stuff_PMT_2_v468" unit="mm" x="259.3317" y="203.8291" z="22.79618"/>
+        <position name="stuff_PMT_2_v469" unit="mm" x="258.8794" y="202.5875" z="22.79618"/>
+        <position name="stuff_PMT_2_v470" unit="mm" x="209.5716" y="265.7239" z="22.79618"/>
+        <position name="stuff_PMT_2_v471" unit="mm" x="210.7597" y="264.3072" z="22.79618"/>
+        <position name="stuff_PMT_2_v472" unit="mm" x="215.732" y="265.117" z="22.79618"/>
+        <position name="stuff_PMT_2_v473" unit="mm" x="211.0802" y="262.4863" z="22.79618"/>
+        <position name="stuff_PMT_2_v474" unit="mm" x="211.4225" y="260.0659" z="22.79618"/>
+        <position name="stuff_PMT_2_v475" unit="mm" x="210.4474" y="260.749" z="22.79618"/>
+        <position name="stuff_PMT_2_v476" unit="mm" x="209.0307" y="259.561" z="22.79618"/>
+        <position name="stuff_PMT_2_v477" unit="mm" x="207.2097" y="259.2404" z="22.79618"/>
+        <position name="stuff_PMT_2_v478" unit="mm" x="205.4725" y="259.8732" z="22.79618"/>
+        <position name="stuff_PMT_2_v479" unit="mm" x="204.2844" y="261.2899" z="22.79618"/>
+        <position name="stuff_PMT_2_v480" unit="mm" x="245.5452" y="282.4868" z="22.79618"/>
+        <position name="stuff_PMT_2_v481" unit="mm" x="246.7333" y="281.0701" z="22.79618"/>
+        <position name="stuff_PMT_2_v482" unit="mm" x="253.8243" y="275.799" z="22.79618"/>
+        <position name="stuff_PMT_2_v483" unit="mm" x="247.0539" y="279.2492" z="22.79618"/>
+        <position name="stuff_PMT_2_v484" unit="mm" x="246.421" y="277.5119" z="22.79618"/>
+        <position name="stuff_PMT_2_v485" unit="mm" x="246.3726" y="274.3694" z="22.79618"/>
+        <position name="stuff_PMT_2_v486" unit="mm" x="245.0043" y="276.3238" z="22.79618"/>
+        <position name="stuff_PMT_2_v487" unit="mm" x="243.1834" y="276.0033" z="22.79618"/>
+        <position name="stuff_PMT_2_v488" unit="mm" x="239.7584" y="274.9499" z="22.79618"/>
+        <position name="stuff_PMT_2_v489" unit="mm" x="241.4461" y="276.6361" z="22.79618"/>
+        <position name="stuff_PMT_2_v490" unit="mm" x="233.1538" y="274.2681" z="22.79618"/>
+        <position name="stuff_PMT_2_v491" unit="mm" x="260.4848" y="271.4516" z="22.79618"/>
+        <position name="stuff_PMT_2_v492" unit="mm" x="260.2557" y="272.753" z="22.79618"/>
+        <position name="stuff_PMT_2_v493" unit="mm" x="260.7079" y="273.9946" z="22.79618"/>
+        <position name="stuff_PMT_2_v494" unit="mm" x="251.746" y="286.1863" z="22.79618"/>
+        <position name="stuff_PMT_2_v495" unit="mm" x="261.7204" y="274.8436" z="22.79618"/>
+        <position name="stuff_PMT_2_v496" unit="mm" x="263.0218" y="275.0727" z="22.79618"/>
+        <position name="stuff_PMT_2_v497" unit="mm" x="264.2633" y="274.6205" z="22.79618"/>
+        <position name="stuff_PMT_2_v498" unit="mm" x="271.8554" y="275.4523" z="22.79618"/>
+        <position name="stuff_PMT_2_v499" unit="mm" x="265.1124" y="273.608" z="22.79618"/>
+        <position name="stuff_PMT_2_v500" unit="mm" x="265.3415" y="272.3067" z="22.79618"/>
+        <position name="stuff_PMT_2_v501" unit="mm" x="264.8892" y="271.0651" z="22.79618"/>
+        <position name="stuff_PMT_2_v502" unit="mm" x="263.8768" y="270.216" z="22.79618"/>
+        <position name="stuff_PMT_2_v503" unit="mm" x="263.9326" y="265.4862" z="22.79618"/>
+        <position name="stuff_PMT_2_v504" unit="mm" x="262.5754" y="269.9869" z="22.79618"/>
+        <position name="stuff_PMT_2_v505" unit="mm" x="258.6822" y="269.5505" z="22.79618"/>
+        <position name="stuff_PMT_2_v506" unit="mm" x="261.3338" y="270.4392" z="22.79618"/>
+        <position name="stuff_PMT_2_v507" unit="mm" x="268.319" y="260.5018" z="22.79618"/>
+        <position name="stuff_PMT_2_v508" unit="mm" x="271.6827" y="254.7773" z="22.79618"/>
+        <position name="stuff_PMT_2_v509" unit="mm" x="273.9024" y="248.5196" z="22.79618"/>
+        <position name="stuff_PMT_2_v510" unit="mm" x="252.7575" y="272.5477" z="22.79618"/>
+        <position name="stuff_PMT_2_v511" unit="mm" x="220.9195" y="269.2612" z="22.79618"/>
+        <position name="stuff_PMT_2_v512" unit="mm" x="226.7976" y="272.3488" z="22.79618"/>
+        <position name="stuff_PMT_2_v513" unit="mm" x="209.9147" y="222.3322" z="22.79618"/>
+        <position name="stuff_PMT_2_v514" unit="mm" x="256.2668" y="209.1069" z="22.79618"/>
+        <position name="stuff_PMT_2_v515" unit="mm" x="273.1166" y="228.8563" z="22.79618"/>
+        <position name="stuff_PMT_2_v516" unit="mm" x="271.6827" y="254.7773" z="15.17618"/>
+        <position name="stuff_PMT_2_v517" unit="mm" x="268.319" y="260.5018" z="15.17618"/>
+        <position name="stuff_PMT_2_v518" unit="mm" x="263.9326" y="265.4862" z="15.17618"/>
+        <position name="stuff_PMT_2_v519" unit="mm" x="258.6822" y="269.5505" z="15.17618"/>
+        <position name="stuff_PMT_2_v520" unit="mm" x="252.7575" y="272.5477" z="15.17618"/>
+        <position name="stuff_PMT_2_v521" unit="mm" x="246.3726" y="274.3694" z="15.17618"/>
+        <position name="stuff_PMT_2_v522" unit="mm" x="239.7584" y="274.9499" z="15.17618"/>
+        <position name="stuff_PMT_2_v523" unit="mm" x="233.1538" y="274.2681" z="15.17618"/>
+        <position name="stuff_PMT_2_v524" unit="mm" x="226.7976" y="272.3488" z="15.17618"/>
+        <position name="stuff_PMT_2_v525" unit="mm" x="220.9195" y="269.2612" z="15.17618"/>
+        <position name="stuff_PMT_2_v526" unit="mm" x="215.732" y="265.117" z="15.17618"/>
+        <position name="stuff_PMT_2_v527" unit="mm" x="211.4225" y="260.0659" z="15.17618"/>
+        <position name="stuff_PMT_2_v528" unit="mm" x="208.1468" y="254.2905" z="15.17618"/>
+        <position name="stuff_PMT_2_v529" unit="mm" x="206.0233" y="247.9995" z="15.17618"/>
+        <position name="stuff_PMT_2_v530" unit="mm" x="205.1288" y="241.4204" z="15.17618"/>
+        <position name="stuff_PMT_2_v531" unit="mm" x="205.4955" y="234.7909" z="15.17618"/>
+        <position name="stuff_PMT_2_v532" unit="mm" x="207.1103" y="228.3506" z="15.17618"/>
+        <position name="stuff_PMT_2_v533" unit="mm" x="209.9147" y="222.3322" z="15.17618"/>
+        <position name="stuff_PMT_2_v534" unit="mm" x="213.8074" y="216.9534" z="15.17618"/>
+        <position name="stuff_PMT_2_v535" unit="mm" x="218.6477" y="212.4084" z="15.17618"/>
+        <position name="stuff_PMT_2_v536" unit="mm" x="224.2607" y="208.8616" z="15.17618"/>
+        <position name="stuff_PMT_2_v537" unit="mm" x="230.4434" y="206.4412" z="15.17618"/>
+        <position name="stuff_PMT_2_v538" unit="mm" x="236.9725" y="205.2347" z="15.17618"/>
+        <position name="stuff_PMT_2_v539" unit="mm" x="243.612" y="205.2855" z="15.17618"/>
+        <position name="stuff_PMT_2_v540" unit="mm" x="250.1219" y="206.592" z="15.17618"/>
+        <position name="stuff_PMT_2_v541" unit="mm" x="256.2668" y="209.1069" z="15.17618"/>
+        <position name="stuff_PMT_2_v542" unit="mm" x="261.8248" y="212.7392" z="15.17618"/>
+        <position name="stuff_PMT_2_v543" unit="mm" x="266.5949" y="217.3578" z="15.17618"/>
+        <position name="stuff_PMT_2_v544" unit="mm" x="270.4048" y="222.7957" z="15.17618"/>
+        <position name="stuff_PMT_2_v545" unit="mm" x="273.1166" y="228.8563" z="15.17618"/>
+        <position name="stuff_PMT_2_v546" unit="mm" x="274.6325" y="235.3206" z="15.17618"/>
+        <position name="stuff_PMT_2_v547" unit="mm" x="274.8976" y="241.9549" z="15.17618"/>
+        <position name="stuff_PMT_2_v548" unit="mm" x="273.9024" y="248.5196" z="15.17618"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="stuff_PMT_2-SOL">
+             <triangular vertex1="stuff_PMT_2_v0" vertex2="stuff_PMT_2_v1" vertex3="stuff_PMT_2_v2"/>
+             <triangular vertex1="stuff_PMT_2_v2" vertex2="stuff_PMT_2_v1" vertex3="stuff_PMT_2_v3"/>
+             <triangular vertex1="stuff_PMT_2_v2" vertex2="stuff_PMT_2_v3" vertex3="stuff_PMT_2_v4"/>
+             <triangular vertex1="stuff_PMT_2_v4" vertex2="stuff_PMT_2_v3" vertex3="stuff_PMT_2_v5"/>
+             <triangular vertex1="stuff_PMT_2_v4" vertex2="stuff_PMT_2_v5" vertex3="stuff_PMT_2_v6"/>
+             <triangular vertex1="stuff_PMT_2_v6" vertex2="stuff_PMT_2_v5" vertex3="stuff_PMT_2_v7"/>
+             <triangular vertex1="stuff_PMT_2_v6" vertex2="stuff_PMT_2_v7" vertex3="stuff_PMT_2_v8"/>
+             <triangular vertex1="stuff_PMT_2_v8" vertex2="stuff_PMT_2_v7" vertex3="stuff_PMT_2_v9"/>
+             <triangular vertex1="stuff_PMT_2_v8" vertex2="stuff_PMT_2_v9" vertex3="stuff_PMT_2_v10"/>
+             <triangular vertex1="stuff_PMT_2_v10" vertex2="stuff_PMT_2_v9" vertex3="stuff_PMT_2_v11"/>
+             <triangular vertex1="stuff_PMT_2_v10" vertex2="stuff_PMT_2_v11" vertex3="stuff_PMT_2_v12"/>
+             <triangular vertex1="stuff_PMT_2_v12" vertex2="stuff_PMT_2_v11" vertex3="stuff_PMT_2_v13"/>
+             <triangular vertex1="stuff_PMT_2_v12" vertex2="stuff_PMT_2_v13" vertex3="stuff_PMT_2_v14"/>
+             <triangular vertex1="stuff_PMT_2_v14" vertex2="stuff_PMT_2_v13" vertex3="stuff_PMT_2_v15"/>
+             <triangular vertex1="stuff_PMT_2_v14" vertex2="stuff_PMT_2_v15" vertex3="stuff_PMT_2_v16"/>
+             <triangular vertex1="stuff_PMT_2_v16" vertex2="stuff_PMT_2_v15" vertex3="stuff_PMT_2_v17"/>
+             <triangular vertex1="stuff_PMT_2_v16" vertex2="stuff_PMT_2_v17" vertex3="stuff_PMT_2_v18"/>
+             <triangular vertex1="stuff_PMT_2_v18" vertex2="stuff_PMT_2_v17" vertex3="stuff_PMT_2_v19"/>
+             <triangular vertex1="stuff_PMT_2_v18" vertex2="stuff_PMT_2_v19" vertex3="stuff_PMT_2_v20"/>
+             <triangular vertex1="stuff_PMT_2_v20" vertex2="stuff_PMT_2_v19" vertex3="stuff_PMT_2_v21"/>
+             <triangular vertex1="stuff_PMT_2_v20" vertex2="stuff_PMT_2_v21" vertex3="stuff_PMT_2_v22"/>
+             <triangular vertex1="stuff_PMT_2_v22" vertex2="stuff_PMT_2_v21" vertex3="stuff_PMT_2_v23"/>
+             <triangular vertex1="stuff_PMT_2_v22" vertex2="stuff_PMT_2_v23" vertex3="stuff_PMT_2_v24"/>
+             <triangular vertex1="stuff_PMT_2_v24" vertex2="stuff_PMT_2_v23" vertex3="stuff_PMT_2_v25"/>
+             <triangular vertex1="stuff_PMT_2_v24" vertex2="stuff_PMT_2_v25" vertex3="stuff_PMT_2_v26"/>
+             <triangular vertex1="stuff_PMT_2_v26" vertex2="stuff_PMT_2_v25" vertex3="stuff_PMT_2_v27"/>
+             <triangular vertex1="stuff_PMT_2_v26" vertex2="stuff_PMT_2_v27" vertex3="stuff_PMT_2_v28"/>
+             <triangular vertex1="stuff_PMT_2_v28" vertex2="stuff_PMT_2_v27" vertex3="stuff_PMT_2_v29"/>
+             <triangular vertex1="stuff_PMT_2_v28" vertex2="stuff_PMT_2_v29" vertex3="stuff_PMT_2_v30"/>
+             <triangular vertex1="stuff_PMT_2_v30" vertex2="stuff_PMT_2_v29" vertex3="stuff_PMT_2_v31"/>
+             <triangular vertex1="stuff_PMT_2_v30" vertex2="stuff_PMT_2_v31" vertex3="stuff_PMT_2_v32"/>
+             <triangular vertex1="stuff_PMT_2_v32" vertex2="stuff_PMT_2_v31" vertex3="stuff_PMT_2_v33"/>
+             <triangular vertex1="stuff_PMT_2_v32" vertex2="stuff_PMT_2_v33" vertex3="stuff_PMT_2_v34"/>
+             <triangular vertex1="stuff_PMT_2_v34" vertex2="stuff_PMT_2_v33" vertex3="stuff_PMT_2_v35"/>
+             <triangular vertex1="stuff_PMT_2_v34" vertex2="stuff_PMT_2_v35" vertex3="stuff_PMT_2_v36"/>
+             <triangular vertex1="stuff_PMT_2_v36" vertex2="stuff_PMT_2_v35" vertex3="stuff_PMT_2_v37"/>
+             <triangular vertex1="stuff_PMT_2_v36" vertex2="stuff_PMT_2_v37" vertex3="stuff_PMT_2_v38"/>
+             <triangular vertex1="stuff_PMT_2_v38" vertex2="stuff_PMT_2_v37" vertex3="stuff_PMT_2_v39"/>
+             <triangular vertex1="stuff_PMT_2_v38" vertex2="stuff_PMT_2_v39" vertex3="stuff_PMT_2_v40"/>
+             <triangular vertex1="stuff_PMT_2_v40" vertex2="stuff_PMT_2_v39" vertex3="stuff_PMT_2_v41"/>
+             <triangular vertex1="stuff_PMT_2_v40" vertex2="stuff_PMT_2_v41" vertex3="stuff_PMT_2_v42"/>
+             <triangular vertex1="stuff_PMT_2_v42" vertex2="stuff_PMT_2_v41" vertex3="stuff_PMT_2_v43"/>
+             <triangular vertex1="stuff_PMT_2_v42" vertex2="stuff_PMT_2_v43" vertex3="stuff_PMT_2_v44"/>
+             <triangular vertex1="stuff_PMT_2_v44" vertex2="stuff_PMT_2_v43" vertex3="stuff_PMT_2_v45"/>
+             <triangular vertex1="stuff_PMT_2_v44" vertex2="stuff_PMT_2_v45" vertex3="stuff_PMT_2_v46"/>
+             <triangular vertex1="stuff_PMT_2_v46" vertex2="stuff_PMT_2_v45" vertex3="stuff_PMT_2_v47"/>
+             <triangular vertex1="stuff_PMT_2_v46" vertex2="stuff_PMT_2_v47" vertex3="stuff_PMT_2_v48"/>
+             <triangular vertex1="stuff_PMT_2_v48" vertex2="stuff_PMT_2_v47" vertex3="stuff_PMT_2_v49"/>
+             <triangular vertex1="stuff_PMT_2_v48" vertex2="stuff_PMT_2_v49" vertex3="stuff_PMT_2_v50"/>
+             <triangular vertex1="stuff_PMT_2_v50" vertex2="stuff_PMT_2_v49" vertex3="stuff_PMT_2_v51"/>
+             <triangular vertex1="stuff_PMT_2_v50" vertex2="stuff_PMT_2_v51" vertex3="stuff_PMT_2_v52"/>
+             <triangular vertex1="stuff_PMT_2_v52" vertex2="stuff_PMT_2_v51" vertex3="stuff_PMT_2_v53"/>
+             <triangular vertex1="stuff_PMT_2_v52" vertex2="stuff_PMT_2_v53" vertex3="stuff_PMT_2_v54"/>
+             <triangular vertex1="stuff_PMT_2_v54" vertex2="stuff_PMT_2_v53" vertex3="stuff_PMT_2_v55"/>
+             <triangular vertex1="stuff_PMT_2_v54" vertex2="stuff_PMT_2_v55" vertex3="stuff_PMT_2_v56"/>
+             <triangular vertex1="stuff_PMT_2_v56" vertex2="stuff_PMT_2_v55" vertex3="stuff_PMT_2_v57"/>
+             <triangular vertex1="stuff_PMT_2_v56" vertex2="stuff_PMT_2_v57" vertex3="stuff_PMT_2_v58"/>
+             <triangular vertex1="stuff_PMT_2_v58" vertex2="stuff_PMT_2_v57" vertex3="stuff_PMT_2_v59"/>
+             <triangular vertex1="stuff_PMT_2_v58" vertex2="stuff_PMT_2_v59" vertex3="stuff_PMT_2_v60"/>
+             <triangular vertex1="stuff_PMT_2_v60" vertex2="stuff_PMT_2_v59" vertex3="stuff_PMT_2_v61"/>
+             <triangular vertex1="stuff_PMT_2_v60" vertex2="stuff_PMT_2_v61" vertex3="stuff_PMT_2_v62"/>
+             <triangular vertex1="stuff_PMT_2_v62" vertex2="stuff_PMT_2_v61" vertex3="stuff_PMT_2_v63"/>
+             <triangular vertex1="stuff_PMT_2_v62" vertex2="stuff_PMT_2_v63" vertex3="stuff_PMT_2_v0"/>
+             <triangular vertex1="stuff_PMT_2_v0" vertex2="stuff_PMT_2_v63" vertex3="stuff_PMT_2_v1"/>
+             <triangular vertex1="stuff_PMT_2_v64" vertex2="stuff_PMT_2_v65" vertex3="stuff_PMT_2_v66"/>
+             <triangular vertex1="stuff_PMT_2_v67" vertex2="stuff_PMT_2_v68" vertex3="stuff_PMT_2_v69"/>
+             <triangular vertex1="stuff_PMT_2_v70" vertex2="stuff_PMT_2_v71" vertex3="stuff_PMT_2_v72"/>
+             <triangular vertex1="stuff_PMT_2_v72" vertex2="stuff_PMT_2_v71" vertex3="stuff_PMT_2_v73"/>
+             <triangular vertex1="stuff_PMT_2_v72" vertex2="stuff_PMT_2_v73" vertex3="stuff_PMT_2_v74"/>
+             <triangular vertex1="stuff_PMT_2_v15" vertex2="stuff_PMT_2_v13" vertex3="stuff_PMT_2_v75"/>
+             <triangular vertex1="stuff_PMT_2_v7" vertex2="stuff_PMT_2_v5" vertex3="stuff_PMT_2_v76"/>
+             <triangular vertex1="stuff_PMT_2_v55" vertex2="stuff_PMT_2_v53" vertex3="stuff_PMT_2_v77"/>
+             <triangular vertex1="stuff_PMT_2_v78" vertex2="stuff_PMT_2_v79" vertex3="stuff_PMT_2_v80"/>
+             <triangular vertex1="stuff_PMT_2_v80" vertex2="stuff_PMT_2_v79" vertex3="stuff_PMT_2_v81"/>
+             <triangular vertex1="stuff_PMT_2_v80" vertex2="stuff_PMT_2_v81" vertex3="stuff_PMT_2_v82"/>
+             <triangular vertex1="stuff_PMT_2_v83" vertex2="stuff_PMT_2_v84" vertex3="stuff_PMT_2_v85"/>
+             <triangular vertex1="stuff_PMT_2_v86" vertex2="stuff_PMT_2_v39" vertex3="stuff_PMT_2_v87"/>
+             <triangular vertex1="stuff_PMT_2_v87" vertex2="stuff_PMT_2_v39" vertex3="stuff_PMT_2_v37"/>
+             <triangular vertex1="stuff_PMT_2_v87" vertex2="stuff_PMT_2_v37" vertex3="stuff_PMT_2_v88"/>
+             <triangular vertex1="stuff_PMT_2_v88" vertex2="stuff_PMT_2_v37" vertex3="stuff_PMT_2_v89"/>
+             <triangular vertex1="stuff_PMT_2_v88" vertex2="stuff_PMT_2_v89" vertex3="stuff_PMT_2_v90"/>
+             <triangular vertex1="stuff_PMT_2_v90" vertex2="stuff_PMT_2_v89" vertex3="stuff_PMT_2_v91"/>
+             <triangular vertex1="stuff_PMT_2_v90" vertex2="stuff_PMT_2_v91" vertex3="stuff_PMT_2_v92"/>
+             <triangular vertex1="stuff_PMT_2_v92" vertex2="stuff_PMT_2_v91" vertex3="stuff_PMT_2_v93"/>
+             <triangular vertex1="stuff_PMT_2_v83" vertex2="stuff_PMT_2_v94" vertex3="stuff_PMT_2_v84"/>
+             <triangular vertex1="stuff_PMT_2_v84" vertex2="stuff_PMT_2_v94" vertex3="stuff_PMT_2_v82"/>
+             <triangular vertex1="stuff_PMT_2_v84" vertex2="stuff_PMT_2_v82" vertex3="stuff_PMT_2_v95"/>
+             <triangular vertex1="stuff_PMT_2_v95" vertex2="stuff_PMT_2_v82" vertex3="stuff_PMT_2_v81"/>
+             <triangular vertex1="stuff_PMT_2_v37" vertex2="stuff_PMT_2_v35" vertex3="stuff_PMT_2_v89"/>
+             <triangular vertex1="stuff_PMT_2_v89" vertex2="stuff_PMT_2_v35" vertex3="stuff_PMT_2_v33"/>
+             <triangular vertex1="stuff_PMT_2_v89" vertex2="stuff_PMT_2_v33" vertex3="stuff_PMT_2_v96"/>
+             <triangular vertex1="stuff_PMT_2_v96" vertex2="stuff_PMT_2_v33" vertex3="stuff_PMT_2_v31"/>
+             <triangular vertex1="stuff_PMT_2_v96" vertex2="stuff_PMT_2_v31" vertex3="stuff_PMT_2_v29"/>
+             <triangular vertex1="stuff_PMT_2_v86" vertex2="stuff_PMT_2_v78" vertex3="stuff_PMT_2_v39"/>
+             <triangular vertex1="stuff_PMT_2_v39" vertex2="stuff_PMT_2_v78" vertex3="stuff_PMT_2_v80"/>
+             <triangular vertex1="stuff_PMT_2_v39" vertex2="stuff_PMT_2_v80" vertex3="stuff_PMT_2_v41"/>
+             <triangular vertex1="stuff_PMT_2_v41" vertex2="stuff_PMT_2_v80" vertex3="stuff_PMT_2_v43"/>
+             <triangular vertex1="stuff_PMT_2_v53" vertex2="stuff_PMT_2_v51" vertex3="stuff_PMT_2_v77"/>
+             <triangular vertex1="stuff_PMT_2_v77" vertex2="stuff_PMT_2_v51" vertex3="stuff_PMT_2_v49"/>
+             <triangular vertex1="stuff_PMT_2_v77" vertex2="stuff_PMT_2_v49" vertex3="stuff_PMT_2_v66"/>
+             <triangular vertex1="stuff_PMT_2_v66" vertex2="stuff_PMT_2_v49" vertex3="stuff_PMT_2_v47"/>
+             <triangular vertex1="stuff_PMT_2_v66" vertex2="stuff_PMT_2_v47" vertex3="stuff_PMT_2_v80"/>
+             <triangular vertex1="stuff_PMT_2_v80" vertex2="stuff_PMT_2_v47" vertex3="stuff_PMT_2_v45"/>
+             <triangular vertex1="stuff_PMT_2_v80" vertex2="stuff_PMT_2_v45" vertex3="stuff_PMT_2_v43"/>
+             <triangular vertex1="stuff_PMT_2_v61" vertex2="stuff_PMT_2_v59" vertex3="stuff_PMT_2_v68"/>
+             <triangular vertex1="stuff_PMT_2_v68" vertex2="stuff_PMT_2_v59" vertex3="stuff_PMT_2_v57"/>
+             <triangular vertex1="stuff_PMT_2_v5" vertex2="stuff_PMT_2_v3" vertex3="stuff_PMT_2_v76"/>
+             <triangular vertex1="stuff_PMT_2_v76" vertex2="stuff_PMT_2_v3" vertex3="stuff_PMT_2_v1"/>
+             <triangular vertex1="stuff_PMT_2_v76" vertex2="stuff_PMT_2_v1" vertex3="stuff_PMT_2_v97"/>
+             <triangular vertex1="stuff_PMT_2_v97" vertex2="stuff_PMT_2_v1" vertex3="stuff_PMT_2_v63"/>
+             <triangular vertex1="stuff_PMT_2_v9" vertex2="stuff_PMT_2_v70" vertex3="stuff_PMT_2_v11"/>
+             <triangular vertex1="stuff_PMT_2_v11" vertex2="stuff_PMT_2_v70" vertex3="stuff_PMT_2_v98"/>
+             <triangular vertex1="stuff_PMT_2_v15" vertex2="stuff_PMT_2_v75" vertex3="stuff_PMT_2_v17"/>
+             <triangular vertex1="stuff_PMT_2_v27" vertex2="stuff_PMT_2_v25" vertex3="stuff_PMT_2_v99"/>
+             <triangular vertex1="stuff_PMT_2_v99" vertex2="stuff_PMT_2_v25" vertex3="stuff_PMT_2_v23"/>
+             <triangular vertex1="stuff_PMT_2_v99" vertex2="stuff_PMT_2_v23" vertex3="stuff_PMT_2_v21"/>
+             <triangular vertex1="stuff_PMT_2_v100" vertex2="stuff_PMT_2_v101" vertex3="stuff_PMT_2_v99"/>
+             <triangular vertex1="stuff_PMT_2_v99" vertex2="stuff_PMT_2_v101" vertex3="stuff_PMT_2_v102"/>
+             <triangular vertex1="stuff_PMT_2_v99" vertex2="stuff_PMT_2_v102" vertex3="stuff_PMT_2_v27"/>
+             <triangular vertex1="stuff_PMT_2_v103" vertex2="stuff_PMT_2_v104" vertex3="stuff_PMT_2_v105"/>
+             <triangular vertex1="stuff_PMT_2_v105" vertex2="stuff_PMT_2_v104" vertex3="stuff_PMT_2_v106"/>
+             <triangular vertex1="stuff_PMT_2_v102" vertex2="stuff_PMT_2_v107" vertex3="stuff_PMT_2_v27"/>
+             <triangular vertex1="stuff_PMT_2_v27" vertex2="stuff_PMT_2_v107" vertex3="stuff_PMT_2_v108"/>
+             <triangular vertex1="stuff_PMT_2_v27" vertex2="stuff_PMT_2_v108" vertex3="stuff_PMT_2_v29"/>
+             <triangular vertex1="stuff_PMT_2_v29" vertex2="stuff_PMT_2_v108" vertex3="stuff_PMT_2_v109"/>
+             <triangular vertex1="stuff_PMT_2_v29" vertex2="stuff_PMT_2_v109" vertex3="stuff_PMT_2_v96"/>
+             <triangular vertex1="stuff_PMT_2_v96" vertex2="stuff_PMT_2_v109" vertex3="stuff_PMT_2_v110"/>
+             <triangular vertex1="stuff_PMT_2_v96" vertex2="stuff_PMT_2_v110" vertex3="stuff_PMT_2_v104"/>
+             <triangular vertex1="stuff_PMT_2_v104" vertex2="stuff_PMT_2_v110" vertex3="stuff_PMT_2_v111"/>
+             <triangular vertex1="stuff_PMT_2_v112" vertex2="stuff_PMT_2_v106" vertex3="stuff_PMT_2_v113"/>
+             <triangular vertex1="stuff_PMT_2_v113" vertex2="stuff_PMT_2_v106" vertex3="stuff_PMT_2_v114"/>
+             <triangular vertex1="stuff_PMT_2_v111" vertex2="stuff_PMT_2_v115" vertex3="stuff_PMT_2_v104"/>
+             <triangular vertex1="stuff_PMT_2_v104" vertex2="stuff_PMT_2_v115" vertex3="stuff_PMT_2_v116"/>
+             <triangular vertex1="stuff_PMT_2_v104" vertex2="stuff_PMT_2_v116" vertex3="stuff_PMT_2_v106"/>
+             <triangular vertex1="stuff_PMT_2_v106" vertex2="stuff_PMT_2_v116" vertex3="stuff_PMT_2_v117"/>
+             <triangular vertex1="stuff_PMT_2_v106" vertex2="stuff_PMT_2_v117" vertex3="stuff_PMT_2_v114"/>
+             <triangular vertex1="stuff_PMT_2_v114" vertex2="stuff_PMT_2_v100" vertex3="stuff_PMT_2_v113"/>
+             <triangular vertex1="stuff_PMT_2_v113" vertex2="stuff_PMT_2_v100" vertex3="stuff_PMT_2_v99"/>
+             <triangular vertex1="stuff_PMT_2_v113" vertex2="stuff_PMT_2_v99" vertex3="stuff_PMT_2_v112"/>
+             <triangular vertex1="stuff_PMT_2_v112" vertex2="stuff_PMT_2_v99" vertex3="stuff_PMT_2_v118"/>
+             <triangular vertex1="stuff_PMT_2_v112" vertex2="stuff_PMT_2_v118" vertex3="stuff_PMT_2_v119"/>
+             <triangular vertex1="stuff_PMT_2_v120" vertex2="stuff_PMT_2_v121" vertex3="stuff_PMT_2_v122"/>
+             <triangular vertex1="stuff_PMT_2_v122" vertex2="stuff_PMT_2_v121" vertex3="stuff_PMT_2_v119"/>
+             <triangular vertex1="stuff_PMT_2_v122" vertex2="stuff_PMT_2_v119" vertex3="stuff_PMT_2_v123"/>
+             <triangular vertex1="stuff_PMT_2_v123" vertex2="stuff_PMT_2_v119" vertex3="stuff_PMT_2_v118"/>
+             <triangular vertex1="stuff_PMT_2_v123" vertex2="stuff_PMT_2_v118" vertex3="stuff_PMT_2_v124"/>
+             <triangular vertex1="stuff_PMT_2_v124" vertex2="stuff_PMT_2_v118" vertex3="stuff_PMT_2_v99"/>
+             <triangular vertex1="stuff_PMT_2_v124" vertex2="stuff_PMT_2_v99" vertex3="stuff_PMT_2_v125"/>
+             <triangular vertex1="stuff_PMT_2_v126" vertex2="stuff_PMT_2_v127" vertex3="stuff_PMT_2_v128"/>
+             <triangular vertex1="stuff_PMT_2_v128" vertex2="stuff_PMT_2_v127" vertex3="stuff_PMT_2_v129"/>
+             <triangular vertex1="stuff_PMT_2_v128" vertex2="stuff_PMT_2_v129" vertex3="stuff_PMT_2_v130"/>
+             <triangular vertex1="stuff_PMT_2_v130" vertex2="stuff_PMT_2_v129" vertex3="stuff_PMT_2_v131"/>
+             <triangular vertex1="stuff_PMT_2_v130" vertex2="stuff_PMT_2_v131" vertex3="stuff_PMT_2_v19"/>
+             <triangular vertex1="stuff_PMT_2_v19" vertex2="stuff_PMT_2_v131" vertex3="stuff_PMT_2_v132"/>
+             <triangular vertex1="stuff_PMT_2_v19" vertex2="stuff_PMT_2_v132" vertex3="stuff_PMT_2_v21"/>
+             <triangular vertex1="stuff_PMT_2_v21" vertex2="stuff_PMT_2_v132" vertex3="stuff_PMT_2_v133"/>
+             <triangular vertex1="stuff_PMT_2_v21" vertex2="stuff_PMT_2_v133" vertex3="stuff_PMT_2_v99"/>
+             <triangular vertex1="stuff_PMT_2_v99" vertex2="stuff_PMT_2_v133" vertex3="stuff_PMT_2_v134"/>
+             <triangular vertex1="stuff_PMT_2_v99" vertex2="stuff_PMT_2_v134" vertex3="stuff_PMT_2_v125"/>
+             <triangular vertex1="stuff_PMT_2_v120" vertex2="stuff_PMT_2_v126" vertex3="stuff_PMT_2_v121"/>
+             <triangular vertex1="stuff_PMT_2_v121" vertex2="stuff_PMT_2_v126" vertex3="stuff_PMT_2_v128"/>
+             <triangular vertex1="stuff_PMT_2_v121" vertex2="stuff_PMT_2_v128" vertex3="stuff_PMT_2_v135"/>
+             <triangular vertex1="stuff_PMT_2_v135" vertex2="stuff_PMT_2_v128" vertex3="stuff_PMT_2_v136"/>
+             <triangular vertex1="stuff_PMT_2_v137" vertex2="stuff_PMT_2_v138" vertex3="stuff_PMT_2_v139"/>
+             <triangular vertex1="stuff_PMT_2_v74" vertex2="stuff_PMT_2_v140" vertex3="stuff_PMT_2_v141"/>
+             <triangular vertex1="stuff_PMT_2_v141" vertex2="stuff_PMT_2_v140" vertex3="stuff_PMT_2_v142"/>
+             <triangular vertex1="stuff_PMT_2_v141" vertex2="stuff_PMT_2_v142" vertex3="stuff_PMT_2_v137"/>
+             <triangular vertex1="stuff_PMT_2_v74" vertex2="stuff_PMT_2_v143" vertex3="stuff_PMT_2_v72"/>
+             <triangular vertex1="stuff_PMT_2_v72" vertex2="stuff_PMT_2_v143" vertex3="stuff_PMT_2_v144"/>
+             <triangular vertex1="stuff_PMT_2_v72" vertex2="stuff_PMT_2_v144" vertex3="stuff_PMT_2_v70"/>
+             <triangular vertex1="stuff_PMT_2_v70" vertex2="stuff_PMT_2_v144" vertex3="stuff_PMT_2_v145"/>
+             <triangular vertex1="stuff_PMT_2_v70" vertex2="stuff_PMT_2_v145" vertex3="stuff_PMT_2_v98"/>
+             <triangular vertex1="stuff_PMT_2_v98" vertex2="stuff_PMT_2_v146" vertex3="stuff_PMT_2_v11"/>
+             <triangular vertex1="stuff_PMT_2_v11" vertex2="stuff_PMT_2_v146" vertex3="stuff_PMT_2_v147"/>
+             <triangular vertex1="stuff_PMT_2_v11" vertex2="stuff_PMT_2_v147" vertex3="stuff_PMT_2_v13"/>
+             <triangular vertex1="stuff_PMT_2_v13" vertex2="stuff_PMT_2_v147" vertex3="stuff_PMT_2_v148"/>
+             <triangular vertex1="stuff_PMT_2_v13" vertex2="stuff_PMT_2_v148" vertex3="stuff_PMT_2_v75"/>
+             <triangular vertex1="stuff_PMT_2_v75" vertex2="stuff_PMT_2_v148" vertex3="stuff_PMT_2_v149"/>
+             <triangular vertex1="stuff_PMT_2_v75" vertex2="stuff_PMT_2_v149" vertex3="stuff_PMT_2_v141"/>
+             <triangular vertex1="stuff_PMT_2_v141" vertex2="stuff_PMT_2_v149" vertex3="stuff_PMT_2_v150"/>
+             <triangular vertex1="stuff_PMT_2_v150" vertex2="stuff_PMT_2_v151" vertex3="stuff_PMT_2_v141"/>
+             <triangular vertex1="stuff_PMT_2_v141" vertex2="stuff_PMT_2_v151" vertex3="stuff_PMT_2_v152"/>
+             <triangular vertex1="stuff_PMT_2_v141" vertex2="stuff_PMT_2_v152" vertex3="stuff_PMT_2_v74"/>
+             <triangular vertex1="stuff_PMT_2_v74" vertex2="stuff_PMT_2_v152" vertex3="stuff_PMT_2_v153"/>
+             <triangular vertex1="stuff_PMT_2_v74" vertex2="stuff_PMT_2_v153" vertex3="stuff_PMT_2_v143"/>
+             <triangular vertex1="stuff_PMT_2_v154" vertex2="stuff_PMT_2_v155" vertex3="stuff_PMT_2_v76"/>
+             <triangular vertex1="stuff_PMT_2_v156" vertex2="stuff_PMT_2_v157" vertex3="stuff_PMT_2_v158"/>
+             <triangular vertex1="stuff_PMT_2_v158" vertex2="stuff_PMT_2_v157" vertex3="stuff_PMT_2_v159"/>
+             <triangular vertex1="stuff_PMT_2_v158" vertex2="stuff_PMT_2_v159" vertex3="stuff_PMT_2_v76"/>
+             <triangular vertex1="stuff_PMT_2_v76" vertex2="stuff_PMT_2_v159" vertex3="stuff_PMT_2_v160"/>
+             <triangular vertex1="stuff_PMT_2_v76" vertex2="stuff_PMT_2_v160" vertex3="stuff_PMT_2_v154"/>
+             <triangular vertex1="stuff_PMT_2_v9" vertex2="stuff_PMT_2_v7" vertex3="stuff_PMT_2_v70"/>
+             <triangular vertex1="stuff_PMT_2_v70" vertex2="stuff_PMT_2_v7" vertex3="stuff_PMT_2_v76"/>
+             <triangular vertex1="stuff_PMT_2_v70" vertex2="stuff_PMT_2_v76" vertex3="stuff_PMT_2_v161"/>
+             <triangular vertex1="stuff_PMT_2_v161" vertex2="stuff_PMT_2_v76" vertex3="stuff_PMT_2_v155"/>
+             <triangular vertex1="stuff_PMT_2_v162" vertex2="stuff_PMT_2_v163" vertex3="stuff_PMT_2_v164"/>
+             <triangular vertex1="stuff_PMT_2_v164" vertex2="stuff_PMT_2_v163" vertex3="stuff_PMT_2_v71"/>
+             <triangular vertex1="stuff_PMT_2_v161" vertex2="stuff_PMT_2_v165" vertex3="stuff_PMT_2_v70"/>
+             <triangular vertex1="stuff_PMT_2_v70" vertex2="stuff_PMT_2_v165" vertex3="stuff_PMT_2_v166"/>
+             <triangular vertex1="stuff_PMT_2_v70" vertex2="stuff_PMT_2_v166" vertex3="stuff_PMT_2_v71"/>
+             <triangular vertex1="stuff_PMT_2_v71" vertex2="stuff_PMT_2_v166" vertex3="stuff_PMT_2_v167"/>
+             <triangular vertex1="stuff_PMT_2_v71" vertex2="stuff_PMT_2_v167" vertex3="stuff_PMT_2_v164"/>
+             <triangular vertex1="stuff_PMT_2_v162" vertex2="stuff_PMT_2_v156" vertex3="stuff_PMT_2_v163"/>
+             <triangular vertex1="stuff_PMT_2_v163" vertex2="stuff_PMT_2_v156" vertex3="stuff_PMT_2_v158"/>
+             <triangular vertex1="stuff_PMT_2_v163" vertex2="stuff_PMT_2_v158" vertex3="stuff_PMT_2_v168"/>
+             <triangular vertex1="stuff_PMT_2_v168" vertex2="stuff_PMT_2_v158" vertex3="stuff_PMT_2_v169"/>
+             <triangular vertex1="stuff_PMT_2_v169" vertex2="stuff_PMT_2_v170" vertex3="stuff_PMT_2_v171"/>
+             <triangular vertex1="stuff_PMT_2_v171" vertex2="stuff_PMT_2_v170" vertex3="stuff_PMT_2_v172"/>
+             <triangular vertex1="stuff_PMT_2_v171" vertex2="stuff_PMT_2_v172" vertex3="stuff_PMT_2_v173"/>
+             <triangular vertex1="stuff_PMT_2_v174" vertex2="stuff_PMT_2_v175" vertex3="stuff_PMT_2_v97"/>
+             <triangular vertex1="stuff_PMT_2_v176" vertex2="stuff_PMT_2_v177" vertex3="stuff_PMT_2_v178"/>
+             <triangular vertex1="stuff_PMT_2_v178" vertex2="stuff_PMT_2_v177" vertex3="stuff_PMT_2_v179"/>
+             <triangular vertex1="stuff_PMT_2_v178" vertex2="stuff_PMT_2_v179" vertex3="stuff_PMT_2_v173"/>
+             <triangular vertex1="stuff_PMT_2_v63" vertex2="stuff_PMT_2_v61" vertex3="stuff_PMT_2_v97"/>
+             <triangular vertex1="stuff_PMT_2_v97" vertex2="stuff_PMT_2_v61" vertex3="stuff_PMT_2_v68"/>
+             <triangular vertex1="stuff_PMT_2_v97" vertex2="stuff_PMT_2_v68" vertex3="stuff_PMT_2_v174"/>
+             <triangular vertex1="stuff_PMT_2_v174" vertex2="stuff_PMT_2_v68" vertex3="stuff_PMT_2_v180"/>
+             <triangular vertex1="stuff_PMT_2_v175" vertex2="stuff_PMT_2_v181" vertex3="stuff_PMT_2_v97"/>
+             <triangular vertex1="stuff_PMT_2_v97" vertex2="stuff_PMT_2_v181" vertex3="stuff_PMT_2_v182"/>
+             <triangular vertex1="stuff_PMT_2_v97" vertex2="stuff_PMT_2_v182" vertex3="stuff_PMT_2_v178"/>
+             <triangular vertex1="stuff_PMT_2_v178" vertex2="stuff_PMT_2_v182" vertex3="stuff_PMT_2_v183"/>
+             <triangular vertex1="stuff_PMT_2_v178" vertex2="stuff_PMT_2_v183" vertex3="stuff_PMT_2_v176"/>
+             <triangular vertex1="stuff_PMT_2_v176" vertex2="stuff_PMT_2_v184" vertex3="stuff_PMT_2_v177"/>
+             <triangular vertex1="stuff_PMT_2_v177" vertex2="stuff_PMT_2_v184" vertex3="stuff_PMT_2_v185"/>
+             <triangular vertex1="stuff_PMT_2_v177" vertex2="stuff_PMT_2_v185" vertex3="stuff_PMT_2_v186"/>
+             <triangular vertex1="stuff_PMT_2_v186" vertex2="stuff_PMT_2_v185" vertex3="stuff_PMT_2_v187"/>
+             <triangular vertex1="stuff_PMT_2_v186" vertex2="stuff_PMT_2_v187" vertex3="stuff_PMT_2_v67"/>
+             <triangular vertex1="stuff_PMT_2_v67" vertex2="stuff_PMT_2_v187" vertex3="stuff_PMT_2_v188"/>
+             <triangular vertex1="stuff_PMT_2_v67" vertex2="stuff_PMT_2_v188" vertex3="stuff_PMT_2_v68"/>
+             <triangular vertex1="stuff_PMT_2_v68" vertex2="stuff_PMT_2_v188" vertex3="stuff_PMT_2_v189"/>
+             <triangular vertex1="stuff_PMT_2_v68" vertex2="stuff_PMT_2_v189" vertex3="stuff_PMT_2_v180"/>
+             <triangular vertex1="stuff_PMT_2_v190" vertex2="stuff_PMT_2_v191" vertex3="stuff_PMT_2_v77"/>
+             <triangular vertex1="stuff_PMT_2_v192" vertex2="stuff_PMT_2_v193" vertex3="stuff_PMT_2_v194"/>
+             <triangular vertex1="stuff_PMT_2_v191" vertex2="stuff_PMT_2_v195" vertex3="stuff_PMT_2_v77"/>
+             <triangular vertex1="stuff_PMT_2_v77" vertex2="stuff_PMT_2_v195" vertex3="stuff_PMT_2_v68"/>
+             <triangular vertex1="stuff_PMT_2_v77" vertex2="stuff_PMT_2_v68" vertex3="stuff_PMT_2_v55"/>
+             <triangular vertex1="stuff_PMT_2_v55" vertex2="stuff_PMT_2_v68" vertex3="stuff_PMT_2_v57"/>
+             <triangular vertex1="stuff_PMT_2_v195" vertex2="stuff_PMT_2_v196" vertex3="stuff_PMT_2_v68"/>
+             <triangular vertex1="stuff_PMT_2_v68" vertex2="stuff_PMT_2_v196" vertex3="stuff_PMT_2_v197"/>
+             <triangular vertex1="stuff_PMT_2_v68" vertex2="stuff_PMT_2_v197" vertex3="stuff_PMT_2_v69"/>
+             <triangular vertex1="stuff_PMT_2_v69" vertex2="stuff_PMT_2_v197" vertex3="stuff_PMT_2_v198"/>
+             <triangular vertex1="stuff_PMT_2_v69" vertex2="stuff_PMT_2_v198" vertex3="stuff_PMT_2_v193"/>
+             <triangular vertex1="stuff_PMT_2_v193" vertex2="stuff_PMT_2_v198" vertex3="stuff_PMT_2_v199"/>
+             <triangular vertex1="stuff_PMT_2_v193" vertex2="stuff_PMT_2_v199" vertex3="stuff_PMT_2_v194"/>
+             <triangular vertex1="stuff_PMT_2_v200" vertex2="stuff_PMT_2_v201" vertex3="stuff_PMT_2_v202"/>
+             <triangular vertex1="stuff_PMT_2_v202" vertex2="stuff_PMT_2_v201" vertex3="stuff_PMT_2_v203"/>
+             <triangular vertex1="stuff_PMT_2_v202" vertex2="stuff_PMT_2_v203" vertex3="stuff_PMT_2_v77"/>
+             <triangular vertex1="stuff_PMT_2_v77" vertex2="stuff_PMT_2_v203" vertex3="stuff_PMT_2_v204"/>
+             <triangular vertex1="stuff_PMT_2_v77" vertex2="stuff_PMT_2_v204" vertex3="stuff_PMT_2_v190"/>
+             <triangular vertex1="stuff_PMT_2_v194" vertex2="stuff_PMT_2_v200" vertex3="stuff_PMT_2_v192"/>
+             <triangular vertex1="stuff_PMT_2_v192" vertex2="stuff_PMT_2_v200" vertex3="stuff_PMT_2_v202"/>
+             <triangular vertex1="stuff_PMT_2_v192" vertex2="stuff_PMT_2_v202" vertex3="stuff_PMT_2_v205"/>
+             <triangular vertex1="stuff_PMT_2_v205" vertex2="stuff_PMT_2_v202" vertex3="stuff_PMT_2_v206"/>
+             <triangular vertex1="stuff_PMT_2_v207" vertex2="stuff_PMT_2_v206" vertex3="stuff_PMT_2_v208"/>
+             <triangular vertex1="stuff_PMT_2_v209" vertex2="stuff_PMT_2_v210" vertex3="stuff_PMT_2_v211"/>
+             <triangular vertex1="stuff_PMT_2_v211" vertex2="stuff_PMT_2_v210" vertex3="stuff_PMT_2_v212"/>
+             <triangular vertex1="stuff_PMT_2_v66" vertex2="stuff_PMT_2_v65" vertex3="stuff_PMT_2_v210"/>
+             <triangular vertex1="stuff_PMT_2_v65" vertex2="stuff_PMT_2_v213" vertex3="stuff_PMT_2_v210"/>
+             <triangular vertex1="stuff_PMT_2_v210" vertex2="stuff_PMT_2_v213" vertex3="stuff_PMT_2_v214"/>
+             <triangular vertex1="stuff_PMT_2_v210" vertex2="stuff_PMT_2_v214" vertex3="stuff_PMT_2_v212"/>
+             <triangular vertex1="stuff_PMT_2_v215" vertex2="stuff_PMT_2_v216" vertex3="stuff_PMT_2_v80"/>
+             <triangular vertex1="stuff_PMT_2_v80" vertex2="stuff_PMT_2_v216" vertex3="stuff_PMT_2_v217"/>
+             <triangular vertex1="stuff_PMT_2_v80" vertex2="stuff_PMT_2_v217" vertex3="stuff_PMT_2_v66"/>
+             <triangular vertex1="stuff_PMT_2_v66" vertex2="stuff_PMT_2_v217" vertex3="stuff_PMT_2_v218"/>
+             <triangular vertex1="stuff_PMT_2_v66" vertex2="stuff_PMT_2_v218" vertex3="stuff_PMT_2_v64"/>
+             <triangular vertex1="stuff_PMT_2_v214" vertex2="stuff_PMT_2_v219" vertex3="stuff_PMT_2_v212"/>
+             <triangular vertex1="stuff_PMT_2_v212" vertex2="stuff_PMT_2_v219" vertex3="stuff_PMT_2_v220"/>
+             <triangular vertex1="stuff_PMT_2_v212" vertex2="stuff_PMT_2_v220" vertex3="stuff_PMT_2_v221"/>
+             <triangular vertex1="stuff_PMT_2_v221" vertex2="stuff_PMT_2_v220" vertex3="stuff_PMT_2_v222"/>
+             <triangular vertex1="stuff_PMT_2_v221" vertex2="stuff_PMT_2_v222" vertex3="stuff_PMT_2_v223"/>
+             <triangular vertex1="stuff_PMT_2_v94" vertex2="stuff_PMT_2_v224" vertex3="stuff_PMT_2_v82"/>
+             <triangular vertex1="stuff_PMT_2_v82" vertex2="stuff_PMT_2_v224" vertex3="stuff_PMT_2_v221"/>
+             <triangular vertex1="stuff_PMT_2_v82" vertex2="stuff_PMT_2_v221" vertex3="stuff_PMT_2_v80"/>
+             <triangular vertex1="stuff_PMT_2_v80" vertex2="stuff_PMT_2_v221" vertex3="stuff_PMT_2_v223"/>
+             <triangular vertex1="stuff_PMT_2_v80" vertex2="stuff_PMT_2_v223" vertex3="stuff_PMT_2_v215"/>
+             <triangular vertex1="stuff_PMT_2_v85" vertex2="stuff_PMT_2_v93" vertex3="stuff_PMT_2_v83"/>
+             <triangular vertex1="stuff_PMT_2_v83" vertex2="stuff_PMT_2_v93" vertex3="stuff_PMT_2_v91"/>
+             <triangular vertex1="stuff_PMT_2_v83" vertex2="stuff_PMT_2_v91" vertex3="stuff_PMT_2_v225"/>
+             <triangular vertex1="stuff_PMT_2_v225" vertex2="stuff_PMT_2_v91" vertex3="stuff_PMT_2_v226"/>
+             <triangular vertex1="stuff_PMT_2_v76" vertex2="stuff_PMT_2_v227" vertex3="stuff_PMT_2_v158"/>
+             <triangular vertex1="stuff_PMT_2_v158" vertex2="stuff_PMT_2_v227" vertex3="stuff_PMT_2_v228"/>
+             <triangular vertex1="stuff_PMT_2_v158" vertex2="stuff_PMT_2_v228" vertex3="stuff_PMT_2_v169"/>
+             <triangular vertex1="stuff_PMT_2_v169" vertex2="stuff_PMT_2_v228" vertex3="stuff_PMT_2_v229"/>
+             <triangular vertex1="stuff_PMT_2_v169" vertex2="stuff_PMT_2_v229" vertex3="stuff_PMT_2_v170"/>
+             <triangular vertex1="stuff_PMT_2_v172" vertex2="stuff_PMT_2_v230" vertex3="stuff_PMT_2_v173"/>
+             <triangular vertex1="stuff_PMT_2_v173" vertex2="stuff_PMT_2_v230" vertex3="stuff_PMT_2_v231"/>
+             <triangular vertex1="stuff_PMT_2_v173" vertex2="stuff_PMT_2_v231" vertex3="stuff_PMT_2_v178"/>
+             <triangular vertex1="stuff_PMT_2_v178" vertex2="stuff_PMT_2_v231" vertex3="stuff_PMT_2_v232"/>
+             <triangular vertex1="stuff_PMT_2_v178" vertex2="stuff_PMT_2_v232" vertex3="stuff_PMT_2_v97"/>
+             <triangular vertex1="stuff_PMT_2_v97" vertex2="stuff_PMT_2_v232" vertex3="stuff_PMT_2_v233"/>
+             <triangular vertex1="stuff_PMT_2_v233" vertex2="stuff_PMT_2_v234" vertex3="stuff_PMT_2_v97"/>
+             <triangular vertex1="stuff_PMT_2_v97" vertex2="stuff_PMT_2_v234" vertex3="stuff_PMT_2_v235"/>
+             <triangular vertex1="stuff_PMT_2_v97" vertex2="stuff_PMT_2_v235" vertex3="stuff_PMT_2_v76"/>
+             <triangular vertex1="stuff_PMT_2_v76" vertex2="stuff_PMT_2_v235" vertex3="stuff_PMT_2_v236"/>
+             <triangular vertex1="stuff_PMT_2_v76" vertex2="stuff_PMT_2_v236" vertex3="stuff_PMT_2_v227"/>
+             <triangular vertex1="stuff_PMT_2_v77" vertex2="stuff_PMT_2_v237" vertex3="stuff_PMT_2_v202"/>
+             <triangular vertex1="stuff_PMT_2_v202" vertex2="stuff_PMT_2_v237" vertex3="stuff_PMT_2_v238"/>
+             <triangular vertex1="stuff_PMT_2_v202" vertex2="stuff_PMT_2_v238" vertex3="stuff_PMT_2_v206"/>
+             <triangular vertex1="stuff_PMT_2_v206" vertex2="stuff_PMT_2_v238" vertex3="stuff_PMT_2_v239"/>
+             <triangular vertex1="stuff_PMT_2_v206" vertex2="stuff_PMT_2_v239" vertex3="stuff_PMT_2_v208"/>
+             <triangular vertex1="stuff_PMT_2_v208" vertex2="stuff_PMT_2_v240" vertex3="stuff_PMT_2_v207"/>
+             <triangular vertex1="stuff_PMT_2_v207" vertex2="stuff_PMT_2_v240" vertex3="stuff_PMT_2_v241"/>
+             <triangular vertex1="stuff_PMT_2_v207" vertex2="stuff_PMT_2_v241" vertex3="stuff_PMT_2_v209"/>
+             <triangular vertex1="stuff_PMT_2_v209" vertex2="stuff_PMT_2_v241" vertex3="stuff_PMT_2_v242"/>
+             <triangular vertex1="stuff_PMT_2_v209" vertex2="stuff_PMT_2_v242" vertex3="stuff_PMT_2_v210"/>
+             <triangular vertex1="stuff_PMT_2_v210" vertex2="stuff_PMT_2_v242" vertex3="stuff_PMT_2_v243"/>
+             <triangular vertex1="stuff_PMT_2_v210" vertex2="stuff_PMT_2_v243" vertex3="stuff_PMT_2_v66"/>
+             <triangular vertex1="stuff_PMT_2_v66" vertex2="stuff_PMT_2_v243" vertex3="stuff_PMT_2_v244"/>
+             <triangular vertex1="stuff_PMT_2_v244" vertex2="stuff_PMT_2_v245" vertex3="stuff_PMT_2_v66"/>
+             <triangular vertex1="stuff_PMT_2_v66" vertex2="stuff_PMT_2_v245" vertex3="stuff_PMT_2_v246"/>
+             <triangular vertex1="stuff_PMT_2_v66" vertex2="stuff_PMT_2_v246" vertex3="stuff_PMT_2_v77"/>
+             <triangular vertex1="stuff_PMT_2_v77" vertex2="stuff_PMT_2_v246" vertex3="stuff_PMT_2_v247"/>
+             <triangular vertex1="stuff_PMT_2_v77" vertex2="stuff_PMT_2_v247" vertex3="stuff_PMT_2_v237"/>
+             <triangular vertex1="stuff_PMT_2_v248" vertex2="stuff_PMT_2_v96" vertex3="stuff_PMT_2_v249"/>
+             <triangular vertex1="stuff_PMT_2_v249" vertex2="stuff_PMT_2_v96" vertex3="stuff_PMT_2_v104"/>
+             <triangular vertex1="stuff_PMT_2_v249" vertex2="stuff_PMT_2_v104" vertex3="stuff_PMT_2_v250"/>
+             <triangular vertex1="stuff_PMT_2_v250" vertex2="stuff_PMT_2_v104" vertex3="stuff_PMT_2_v103"/>
+             <triangular vertex1="stuff_PMT_2_v250" vertex2="stuff_PMT_2_v103" vertex3="stuff_PMT_2_v251"/>
+             <triangular vertex1="stuff_PMT_2_v251" vertex2="stuff_PMT_2_v103" vertex3="stuff_PMT_2_v252"/>
+             <triangular vertex1="stuff_PMT_2_v251" vertex2="stuff_PMT_2_v252" vertex3="stuff_PMT_2_v253"/>
+             <triangular vertex1="stuff_PMT_2_v253" vertex2="stuff_PMT_2_v252" vertex3="stuff_PMT_2_v254"/>
+             <triangular vertex1="stuff_PMT_2_v253" vertex2="stuff_PMT_2_v254" vertex3="stuff_PMT_2_v255"/>
+             <triangular vertex1="stuff_PMT_2_v255" vertex2="stuff_PMT_2_v254" vertex3="stuff_PMT_2_v256"/>
+             <triangular vertex1="stuff_PMT_2_v255" vertex2="stuff_PMT_2_v256" vertex3="stuff_PMT_2_v257"/>
+             <triangular vertex1="stuff_PMT_2_v257" vertex2="stuff_PMT_2_v256" vertex3="stuff_PMT_2_v226"/>
+             <triangular vertex1="stuff_PMT_2_v257" vertex2="stuff_PMT_2_v226" vertex3="stuff_PMT_2_v258"/>
+             <triangular vertex1="stuff_PMT_2_v258" vertex2="stuff_PMT_2_v226" vertex3="stuff_PMT_2_v91"/>
+             <triangular vertex1="stuff_PMT_2_v258" vertex2="stuff_PMT_2_v91" vertex3="stuff_PMT_2_v259"/>
+             <triangular vertex1="stuff_PMT_2_v259" vertex2="stuff_PMT_2_v91" vertex3="stuff_PMT_2_v89"/>
+             <triangular vertex1="stuff_PMT_2_v248" vertex2="stuff_PMT_2_v260" vertex3="stuff_PMT_2_v96"/>
+             <triangular vertex1="stuff_PMT_2_v96" vertex2="stuff_PMT_2_v260" vertex3="stuff_PMT_2_v261"/>
+             <triangular vertex1="stuff_PMT_2_v96" vertex2="stuff_PMT_2_v261" vertex3="stuff_PMT_2_v89"/>
+             <triangular vertex1="stuff_PMT_2_v89" vertex2="stuff_PMT_2_v261" vertex3="stuff_PMT_2_v262"/>
+             <triangular vertex1="stuff_PMT_2_v89" vertex2="stuff_PMT_2_v262" vertex3="stuff_PMT_2_v259"/>
+             <triangular vertex1="stuff_PMT_2_v139" vertex2="stuff_PMT_2_v263" vertex3="stuff_PMT_2_v137"/>
+             <triangular vertex1="stuff_PMT_2_v137" vertex2="stuff_PMT_2_v263" vertex3="stuff_PMT_2_v264"/>
+             <triangular vertex1="stuff_PMT_2_v137" vertex2="stuff_PMT_2_v264" vertex3="stuff_PMT_2_v141"/>
+             <triangular vertex1="stuff_PMT_2_v141" vertex2="stuff_PMT_2_v264" vertex3="stuff_PMT_2_v265"/>
+             <triangular vertex1="stuff_PMT_2_v141" vertex2="stuff_PMT_2_v265" vertex3="stuff_PMT_2_v75"/>
+             <triangular vertex1="stuff_PMT_2_v75" vertex2="stuff_PMT_2_v265" vertex3="stuff_PMT_2_v266"/>
+             <triangular vertex1="stuff_PMT_2_v75" vertex2="stuff_PMT_2_v266" vertex3="stuff_PMT_2_v267"/>
+             <triangular vertex1="stuff_PMT_2_v19" vertex2="stuff_PMT_2_v17" vertex3="stuff_PMT_2_v130"/>
+             <triangular vertex1="stuff_PMT_2_v130" vertex2="stuff_PMT_2_v17" vertex3="stuff_PMT_2_v75"/>
+             <triangular vertex1="stuff_PMT_2_v130" vertex2="stuff_PMT_2_v75" vertex3="stuff_PMT_2_v268"/>
+             <triangular vertex1="stuff_PMT_2_v268" vertex2="stuff_PMT_2_v75" vertex3="stuff_PMT_2_v267"/>
+             <triangular vertex1="stuff_PMT_2_v268" vertex2="stuff_PMT_2_v269" vertex3="stuff_PMT_2_v130"/>
+             <triangular vertex1="stuff_PMT_2_v130" vertex2="stuff_PMT_2_v269" vertex3="stuff_PMT_2_v270"/>
+             <triangular vertex1="stuff_PMT_2_v130" vertex2="stuff_PMT_2_v270" vertex3="stuff_PMT_2_v128"/>
+             <triangular vertex1="stuff_PMT_2_v128" vertex2="stuff_PMT_2_v270" vertex3="stuff_PMT_2_v271"/>
+             <triangular vertex1="stuff_PMT_2_v128" vertex2="stuff_PMT_2_v271" vertex3="stuff_PMT_2_v136"/>
+             <triangular vertex1="stuff_PMT_2_v136" vertex2="stuff_PMT_2_v271" vertex3="stuff_PMT_2_v272"/>
+             <triangular vertex1="stuff_PMT_2_v136" vertex2="stuff_PMT_2_v272" vertex3="stuff_PMT_2_v138"/>
+             <triangular vertex1="stuff_PMT_2_v138" vertex2="stuff_PMT_2_v272" vertex3="stuff_PMT_2_v273"/>
+             <triangular vertex1="stuff_PMT_2_v138" vertex2="stuff_PMT_2_v273" vertex3="stuff_PMT_2_v139"/>
+             <triangular vertex1="stuff_PMT_2_v274" vertex2="stuff_PMT_2_v275" vertex3="stuff_PMT_2_v276"/>
+             <triangular vertex1="stuff_PMT_2_v277" vertex2="stuff_PMT_2_v278" vertex3="stuff_PMT_2_v279"/>
+             <triangular vertex1="stuff_PMT_2_v280" vertex2="stuff_PMT_2_v281" vertex3="stuff_PMT_2_v282"/>
+             <triangular vertex1="stuff_PMT_2_v283" vertex2="stuff_PMT_2_v284" vertex3="stuff_PMT_2_v285"/>
+             <triangular vertex1="stuff_PMT_2_v286" vertex2="stuff_PMT_2_v287" vertex3="stuff_PMT_2_v288"/>
+             <triangular vertex1="stuff_PMT_2_v289" vertex2="stuff_PMT_2_v290" vertex3="stuff_PMT_2_v291"/>
+             <triangular vertex1="stuff_PMT_2_v292" vertex2="stuff_PMT_2_v293" vertex3="stuff_PMT_2_v294"/>
+             <triangular vertex1="stuff_PMT_2_v295" vertex2="stuff_PMT_2_v296" vertex3="stuff_PMT_2_v297"/>
+             <triangular vertex1="stuff_PMT_2_v298" vertex2="stuff_PMT_2_v299" vertex3="stuff_PMT_2_v300"/>
+             <triangular vertex1="stuff_PMT_2_v301" vertex2="stuff_PMT_2_v302" vertex3="stuff_PMT_2_v303"/>
+             <triangular vertex1="stuff_PMT_2_v304" vertex2="stuff_PMT_2_v305" vertex3="stuff_PMT_2_v306"/>
+             <triangular vertex1="stuff_PMT_2_v307" vertex2="stuff_PMT_2_v308" vertex3="stuff_PMT_2_v302"/>
+             <triangular vertex1="stuff_PMT_2_v309" vertex2="stuff_PMT_2_v310" vertex3="stuff_PMT_2_v299"/>
+             <triangular vertex1="stuff_PMT_2_v311" vertex2="stuff_PMT_2_v312" vertex3="stuff_PMT_2_v313"/>
+             <triangular vertex1="stuff_PMT_2_v313" vertex2="stuff_PMT_2_v312" vertex3="stuff_PMT_2_v314"/>
+             <triangular vertex1="stuff_PMT_2_v313" vertex2="stuff_PMT_2_v314" vertex3="stuff_PMT_2_v315"/>
+             <triangular vertex1="stuff_PMT_2_v316" vertex2="stuff_PMT_2_v305" vertex3="stuff_PMT_2_v317"/>
+             <triangular vertex1="stuff_PMT_2_v317" vertex2="stuff_PMT_2_v318" vertex3="stuff_PMT_2_v316"/>
+             <triangular vertex1="stuff_PMT_2_v316" vertex2="stuff_PMT_2_v318" vertex3="stuff_PMT_2_v319"/>
+             <triangular vertex1="stuff_PMT_2_v316" vertex2="stuff_PMT_2_v319" vertex3="stuff_PMT_2_v311"/>
+             <triangular vertex1="stuff_PMT_2_v311" vertex2="stuff_PMT_2_v319" vertex3="stuff_PMT_2_v320"/>
+             <triangular vertex1="stuff_PMT_2_v311" vertex2="stuff_PMT_2_v320" vertex3="stuff_PMT_2_v312"/>
+             <triangular vertex1="stuff_PMT_2_v314" vertex2="stuff_PMT_2_v321" vertex3="stuff_PMT_2_v315"/>
+             <triangular vertex1="stuff_PMT_2_v315" vertex2="stuff_PMT_2_v321" vertex3="stuff_PMT_2_v322"/>
+             <triangular vertex1="stuff_PMT_2_v315" vertex2="stuff_PMT_2_v322" vertex3="stuff_PMT_2_v323"/>
+             <triangular vertex1="stuff_PMT_2_v323" vertex2="stuff_PMT_2_v322" vertex3="stuff_PMT_2_v324"/>
+             <triangular vertex1="stuff_PMT_2_v323" vertex2="stuff_PMT_2_v324" vertex3="stuff_PMT_2_v325"/>
+             <triangular vertex1="stuff_PMT_2_v325" vertex2="stuff_PMT_2_v324" vertex3="stuff_PMT_2_v326"/>
+             <triangular vertex1="stuff_PMT_2_v325" vertex2="stuff_PMT_2_v326" vertex3="stuff_PMT_2_v304"/>
+             <triangular vertex1="stuff_PMT_2_v304" vertex2="stuff_PMT_2_v326" vertex3="stuff_PMT_2_v327"/>
+             <triangular vertex1="stuff_PMT_2_v304" vertex2="stuff_PMT_2_v327" vertex3="stuff_PMT_2_v305"/>
+             <triangular vertex1="stuff_PMT_2_v305" vertex2="stuff_PMT_2_v327" vertex3="stuff_PMT_2_v328"/>
+             <triangular vertex1="stuff_PMT_2_v305" vertex2="stuff_PMT_2_v328" vertex3="stuff_PMT_2_v317"/>
+             <triangular vertex1="stuff_PMT_2_v329" vertex2="stuff_PMT_2_v293" vertex3="stuff_PMT_2_v330"/>
+             <triangular vertex1="stuff_PMT_2_v330" vertex2="stuff_PMT_2_v293" vertex3="stuff_PMT_2_v292"/>
+             <triangular vertex1="stuff_PMT_2_v330" vertex2="stuff_PMT_2_v292" vertex3="stuff_PMT_2_v331"/>
+             <triangular vertex1="stuff_PMT_2_v332" vertex2="stuff_PMT_2_v333" vertex3="stuff_PMT_2_v281"/>
+             <triangular vertex1="stuff_PMT_2_v281" vertex2="stuff_PMT_2_v333" vertex3="stuff_PMT_2_v334"/>
+             <triangular vertex1="stuff_PMT_2_v281" vertex2="stuff_PMT_2_v334" vertex3="stuff_PMT_2_v282"/>
+             <triangular vertex1="stuff_PMT_2_v282" vertex2="stuff_PMT_2_v334" vertex3="stuff_PMT_2_v335"/>
+             <triangular vertex1="stuff_PMT_2_v282" vertex2="stuff_PMT_2_v335" vertex3="stuff_PMT_2_v297"/>
+             <triangular vertex1="stuff_PMT_2_v297" vertex2="stuff_PMT_2_v335" vertex3="stuff_PMT_2_v336"/>
+             <triangular vertex1="stuff_PMT_2_v297" vertex2="stuff_PMT_2_v336" vertex3="stuff_PMT_2_v331"/>
+             <triangular vertex1="stuff_PMT_2_v337" vertex2="stuff_PMT_2_v338" vertex3="stuff_PMT_2_v284"/>
+             <triangular vertex1="stuff_PMT_2_v284" vertex2="stuff_PMT_2_v338" vertex3="stuff_PMT_2_v339"/>
+             <triangular vertex1="stuff_PMT_2_v284" vertex2="stuff_PMT_2_v339" vertex3="stuff_PMT_2_v285"/>
+             <triangular vertex1="stuff_PMT_2_v285" vertex2="stuff_PMT_2_v339" vertex3="stuff_PMT_2_v340"/>
+             <triangular vertex1="stuff_PMT_2_v285" vertex2="stuff_PMT_2_v340" vertex3="stuff_PMT_2_v332"/>
+             <triangular vertex1="stuff_PMT_2_v332" vertex2="stuff_PMT_2_v340" vertex3="stuff_PMT_2_v341"/>
+             <triangular vertex1="stuff_PMT_2_v332" vertex2="stuff_PMT_2_v341" vertex3="stuff_PMT_2_v333"/>
+             <triangular vertex1="stuff_PMT_2_v342" vertex2="stuff_PMT_2_v343" vertex3="stuff_PMT_2_v344"/>
+             <triangular vertex1="stuff_PMT_2_v344" vertex2="stuff_PMT_2_v343" vertex3="stuff_PMT_2_v345"/>
+             <triangular vertex1="stuff_PMT_2_v344" vertex2="stuff_PMT_2_v345" vertex3="stuff_PMT_2_v346"/>
+             <triangular vertex1="stuff_PMT_2_v300" vertex2="stuff_PMT_2_v299" vertex3="stuff_PMT_2_v347"/>
+             <triangular vertex1="stuff_PMT_2_v347" vertex2="stuff_PMT_2_v299" vertex3="stuff_PMT_2_v310"/>
+             <triangular vertex1="stuff_PMT_2_v347" vertex2="stuff_PMT_2_v310" vertex3="stuff_PMT_2_v348"/>
+             <triangular vertex1="stuff_PMT_2_v349" vertex2="stuff_PMT_2_v350" vertex3="stuff_PMT_2_v351"/>
+             <triangular vertex1="stuff_PMT_2_v351" vertex2="stuff_PMT_2_v352" vertex3="stuff_PMT_2_v349"/>
+             <triangular vertex1="stuff_PMT_2_v349" vertex2="stuff_PMT_2_v352" vertex3="stuff_PMT_2_v353"/>
+             <triangular vertex1="stuff_PMT_2_v349" vertex2="stuff_PMT_2_v353" vertex3="stuff_PMT_2_v277"/>
+             <triangular vertex1="stuff_PMT_2_v277" vertex2="stuff_PMT_2_v353" vertex3="stuff_PMT_2_v354"/>
+             <triangular vertex1="stuff_PMT_2_v277" vertex2="stuff_PMT_2_v354" vertex3="stuff_PMT_2_v278"/>
+             <triangular vertex1="stuff_PMT_2_v278" vertex2="stuff_PMT_2_v354" vertex3="stuff_PMT_2_v355"/>
+             <triangular vertex1="stuff_PMT_2_v278" vertex2="stuff_PMT_2_v355" vertex3="stuff_PMT_2_v356"/>
+             <triangular vertex1="stuff_PMT_2_v357" vertex2="stuff_PMT_2_v358" vertex3="stuff_PMT_2_v359"/>
+             <triangular vertex1="stuff_PMT_2_v359" vertex2="stuff_PMT_2_v358" vertex3="stuff_PMT_2_v360"/>
+             <triangular vertex1="stuff_PMT_2_v359" vertex2="stuff_PMT_2_v360" vertex3="stuff_PMT_2_v278"/>
+             <triangular vertex1="stuff_PMT_2_v278" vertex2="stuff_PMT_2_v360" vertex3="stuff_PMT_2_v361"/>
+             <triangular vertex1="stuff_PMT_2_v278" vertex2="stuff_PMT_2_v361" vertex3="stuff_PMT_2_v279"/>
+             <triangular vertex1="stuff_PMT_2_v361" vertex2="stuff_PMT_2_v362" vertex3="stuff_PMT_2_v279"/>
+             <triangular vertex1="stuff_PMT_2_v279" vertex2="stuff_PMT_2_v362" vertex3="stuff_PMT_2_v363"/>
+             <triangular vertex1="stuff_PMT_2_v279" vertex2="stuff_PMT_2_v363" vertex3="stuff_PMT_2_v364"/>
+             <triangular vertex1="stuff_PMT_2_v364" vertex2="stuff_PMT_2_v363" vertex3="stuff_PMT_2_v365"/>
+             <triangular vertex1="stuff_PMT_2_v364" vertex2="stuff_PMT_2_v365" vertex3="stuff_PMT_2_v275"/>
+             <triangular vertex1="stuff_PMT_2_v275" vertex2="stuff_PMT_2_v365" vertex3="stuff_PMT_2_v366"/>
+             <triangular vertex1="stuff_PMT_2_v275" vertex2="stuff_PMT_2_v366" vertex3="stuff_PMT_2_v276"/>
+             <triangular vertex1="stuff_PMT_2_v367" vertex2="stuff_PMT_2_v368" vertex3="stuff_PMT_2_v369"/>
+             <triangular vertex1="stuff_PMT_2_v366" vertex2="stuff_PMT_2_v370" vertex3="stuff_PMT_2_v276"/>
+             <triangular vertex1="stuff_PMT_2_v276" vertex2="stuff_PMT_2_v370" vertex3="stuff_PMT_2_v371"/>
+             <triangular vertex1="stuff_PMT_2_v276" vertex2="stuff_PMT_2_v371" vertex3="stuff_PMT_2_v368"/>
+             <triangular vertex1="stuff_PMT_2_v368" vertex2="stuff_PMT_2_v371" vertex3="stuff_PMT_2_v372"/>
+             <triangular vertex1="stuff_PMT_2_v368" vertex2="stuff_PMT_2_v372" vertex3="stuff_PMT_2_v369"/>
+             <triangular vertex1="stuff_PMT_2_v373" vertex2="stuff_PMT_2_v374" vertex3="stuff_PMT_2_v316"/>
+             <triangular vertex1="stuff_PMT_2_v316" vertex2="stuff_PMT_2_v374" vertex3="stuff_PMT_2_v375"/>
+             <triangular vertex1="stuff_PMT_2_v376" vertex2="stuff_PMT_2_v377" vertex3="stuff_PMT_2_v378"/>
+             <triangular vertex1="stuff_PMT_2_v378" vertex2="stuff_PMT_2_v379" vertex3="stuff_PMT_2_v376"/>
+             <triangular vertex1="stuff_PMT_2_v376" vertex2="stuff_PMT_2_v379" vertex3="stuff_PMT_2_v380"/>
+             <triangular vertex1="stuff_PMT_2_v376" vertex2="stuff_PMT_2_v380" vertex3="stuff_PMT_2_v381"/>
+             <triangular vertex1="stuff_PMT_2_v382" vertex2="stuff_PMT_2_v383" vertex3="stuff_PMT_2_v384"/>
+             <triangular vertex1="stuff_PMT_2_v384" vertex2="stuff_PMT_2_v383" vertex3="stuff_PMT_2_v385"/>
+             <triangular vertex1="stuff_PMT_2_v384" vertex2="stuff_PMT_2_v385" vertex3="stuff_PMT_2_v386"/>
+             <triangular vertex1="stuff_PMT_2_v308" vertex2="stuff_PMT_2_v387" vertex3="stuff_PMT_2_v302"/>
+             <triangular vertex1="stuff_PMT_2_v302" vertex2="stuff_PMT_2_v387" vertex3="stuff_PMT_2_v388"/>
+             <triangular vertex1="stuff_PMT_2_v302" vertex2="stuff_PMT_2_v388" vertex3="stuff_PMT_2_v303"/>
+             <triangular vertex1="stuff_PMT_2_v389" vertex2="stuff_PMT_2_v390" vertex3="stuff_PMT_2_v315"/>
+             <triangular vertex1="stuff_PMT_2_v389" vertex2="stuff_PMT_2_v315" vertex3="stuff_PMT_2_v391"/>
+             <triangular vertex1="stuff_PMT_2_v391" vertex2="stuff_PMT_2_v315" vertex3="stuff_PMT_2_v323"/>
+             <triangular vertex1="stuff_PMT_2_v391" vertex2="stuff_PMT_2_v323" vertex3="stuff_PMT_2_v392"/>
+             <triangular vertex1="stuff_PMT_2_v392" vertex2="stuff_PMT_2_v323" vertex3="stuff_PMT_2_v393"/>
+             <triangular vertex1="stuff_PMT_2_v392" vertex2="stuff_PMT_2_v393" vertex3="stuff_PMT_2_v394"/>
+             <triangular vertex1="stuff_PMT_2_v394" vertex2="stuff_PMT_2_v393" vertex3="stuff_PMT_2_v395"/>
+             <triangular vertex1="stuff_PMT_2_v394" vertex2="stuff_PMT_2_v395" vertex3="stuff_PMT_2_v396"/>
+             <triangular vertex1="stuff_PMT_2_v396" vertex2="stuff_PMT_2_v395" vertex3="stuff_PMT_2_v397"/>
+             <triangular vertex1="stuff_PMT_2_v396" vertex2="stuff_PMT_2_v397" vertex3="stuff_PMT_2_v398"/>
+             <triangular vertex1="stuff_PMT_2_v398" vertex2="stuff_PMT_2_v397" vertex3="stuff_PMT_2_v399"/>
+             <triangular vertex1="stuff_PMT_2_v398" vertex2="stuff_PMT_2_v399" vertex3="stuff_PMT_2_v400"/>
+             <triangular vertex1="stuff_PMT_2_v400" vertex2="stuff_PMT_2_v399" vertex3="stuff_PMT_2_v401"/>
+             <triangular vertex1="stuff_PMT_2_v400" vertex2="stuff_PMT_2_v401" vertex3="stuff_PMT_2_v402"/>
+             <triangular vertex1="stuff_PMT_2_v390" vertex2="stuff_PMT_2_v403" vertex3="stuff_PMT_2_v315"/>
+             <triangular vertex1="stuff_PMT_2_v315" vertex2="stuff_PMT_2_v403" vertex3="stuff_PMT_2_v404"/>
+             <triangular vertex1="stuff_PMT_2_v315" vertex2="stuff_PMT_2_v404" vertex3="stuff_PMT_2_v401"/>
+             <triangular vertex1="stuff_PMT_2_v401" vertex2="stuff_PMT_2_v404" vertex3="stuff_PMT_2_v405"/>
+             <triangular vertex1="stuff_PMT_2_v401" vertex2="stuff_PMT_2_v405" vertex3="stuff_PMT_2_v402"/>
+             <triangular vertex1="stuff_PMT_2_v306" vertex2="stuff_PMT_2_v305" vertex3="stuff_PMT_2_v301"/>
+             <triangular vertex1="stuff_PMT_2_v301" vertex2="stuff_PMT_2_v305" vertex3="stuff_PMT_2_v316"/>
+             <triangular vertex1="stuff_PMT_2_v301" vertex2="stuff_PMT_2_v316" vertex3="stuff_PMT_2_v302"/>
+             <triangular vertex1="stuff_PMT_2_v302" vertex2="stuff_PMT_2_v316" vertex3="stuff_PMT_2_v375"/>
+             <triangular vertex1="stuff_PMT_2_v302" vertex2="stuff_PMT_2_v375" vertex3="stuff_PMT_2_v307"/>
+             <triangular vertex1="stuff_PMT_2_v387" vertex2="stuff_PMT_2_v386" vertex3="stuff_PMT_2_v388"/>
+             <triangular vertex1="stuff_PMT_2_v388" vertex2="stuff_PMT_2_v386" vertex3="stuff_PMT_2_v385"/>
+             <triangular vertex1="stuff_PMT_2_v388" vertex2="stuff_PMT_2_v385" vertex3="stuff_PMT_2_v406"/>
+             <triangular vertex1="stuff_PMT_2_v406" vertex2="stuff_PMT_2_v385" vertex3="stuff_PMT_2_v407"/>
+             <triangular vertex1="stuff_PMT_2_v408" vertex2="stuff_PMT_2_v409" vertex3="stuff_PMT_2_v410"/>
+             <triangular vertex1="stuff_PMT_2_v367" vertex2="stuff_PMT_2_v411" vertex3="stuff_PMT_2_v368"/>
+             <triangular vertex1="stuff_PMT_2_v368" vertex2="stuff_PMT_2_v411" vertex3="stuff_PMT_2_v412"/>
+             <triangular vertex1="stuff_PMT_2_v368" vertex2="stuff_PMT_2_v412" vertex3="stuff_PMT_2_v408"/>
+             <triangular vertex1="stuff_PMT_2_v369" vertex2="stuff_PMT_2_v357" vertex3="stuff_PMT_2_v367"/>
+             <triangular vertex1="stuff_PMT_2_v367" vertex2="stuff_PMT_2_v357" vertex3="stuff_PMT_2_v359"/>
+             <triangular vertex1="stuff_PMT_2_v367" vertex2="stuff_PMT_2_v359" vertex3="stuff_PMT_2_v298"/>
+             <triangular vertex1="stuff_PMT_2_v298" vertex2="stuff_PMT_2_v359" vertex3="stuff_PMT_2_v278"/>
+             <triangular vertex1="stuff_PMT_2_v298" vertex2="stuff_PMT_2_v278" vertex3="stuff_PMT_2_v299"/>
+             <triangular vertex1="stuff_PMT_2_v299" vertex2="stuff_PMT_2_v278" vertex3="stuff_PMT_2_v356"/>
+             <triangular vertex1="stuff_PMT_2_v299" vertex2="stuff_PMT_2_v356" vertex3="stuff_PMT_2_v309"/>
+             <triangular vertex1="stuff_PMT_2_v348" vertex2="stuff_PMT_2_v346" vertex3="stuff_PMT_2_v347"/>
+             <triangular vertex1="stuff_PMT_2_v347" vertex2="stuff_PMT_2_v346" vertex3="stuff_PMT_2_v345"/>
+             <triangular vertex1="stuff_PMT_2_v347" vertex2="stuff_PMT_2_v345" vertex3="stuff_PMT_2_v413"/>
+             <triangular vertex1="stuff_PMT_2_v413" vertex2="stuff_PMT_2_v345" vertex3="stuff_PMT_2_v414"/>
+             <triangular vertex1="stuff_PMT_2_v414" vertex2="stuff_PMT_2_v415" vertex3="stuff_PMT_2_v416"/>
+             <triangular vertex1="stuff_PMT_2_v416" vertex2="stuff_PMT_2_v415" vertex3="stuff_PMT_2_v417"/>
+             <triangular vertex1="stuff_PMT_2_v416" vertex2="stuff_PMT_2_v417" vertex3="stuff_PMT_2_v296"/>
+             <triangular vertex1="stuff_PMT_2_v331" vertex2="stuff_PMT_2_v292" vertex3="stuff_PMT_2_v297"/>
+             <triangular vertex1="stuff_PMT_2_v297" vertex2="stuff_PMT_2_v292" vertex3="stuff_PMT_2_v418"/>
+             <triangular vertex1="stuff_PMT_2_v297" vertex2="stuff_PMT_2_v418" vertex3="stuff_PMT_2_v295"/>
+             <triangular vertex1="stuff_PMT_2_v329" vertex2="stuff_PMT_2_v337" vertex3="stuff_PMT_2_v293"/>
+             <triangular vertex1="stuff_PMT_2_v293" vertex2="stuff_PMT_2_v337" vertex3="stuff_PMT_2_v284"/>
+             <triangular vertex1="stuff_PMT_2_v293" vertex2="stuff_PMT_2_v284" vertex3="stuff_PMT_2_v294"/>
+             <triangular vertex1="stuff_PMT_2_v294" vertex2="stuff_PMT_2_v284" vertex3="stuff_PMT_2_v419"/>
+             <triangular vertex1="stuff_PMT_2_v294" vertex2="stuff_PMT_2_v419" vertex3="stuff_PMT_2_v420"/>
+             <triangular vertex1="stuff_PMT_2_v419" vertex2="stuff_PMT_2_v421" vertex3="stuff_PMT_2_v420"/>
+             <triangular vertex1="stuff_PMT_2_v420" vertex2="stuff_PMT_2_v421" vertex3="stuff_PMT_2_v422"/>
+             <triangular vertex1="stuff_PMT_2_v420" vertex2="stuff_PMT_2_v422" vertex3="stuff_PMT_2_v423"/>
+             <triangular vertex1="stuff_PMT_2_v423" vertex2="stuff_PMT_2_v422" vertex3="stuff_PMT_2_v424"/>
+             <triangular vertex1="stuff_PMT_2_v423" vertex2="stuff_PMT_2_v424" vertex3="stuff_PMT_2_v425"/>
+             <triangular vertex1="stuff_PMT_2_v425" vertex2="stuff_PMT_2_v424" vertex3="stuff_PMT_2_v426"/>
+             <triangular vertex1="stuff_PMT_2_v425" vertex2="stuff_PMT_2_v426" vertex3="stuff_PMT_2_v427"/>
+             <triangular vertex1="stuff_PMT_2_v428" vertex2="stuff_PMT_2_v429" vertex3="stuff_PMT_2_v430"/>
+             <triangular vertex1="stuff_PMT_2_v430" vertex2="stuff_PMT_2_v429" vertex3="stuff_PMT_2_v431"/>
+             <triangular vertex1="stuff_PMT_2_v430" vertex2="stuff_PMT_2_v431" vertex3="stuff_PMT_2_v288"/>
+             <triangular vertex1="stuff_PMT_2_v288" vertex2="stuff_PMT_2_v431" vertex3="stuff_PMT_2_v432"/>
+             <triangular vertex1="stuff_PMT_2_v288" vertex2="stuff_PMT_2_v432" vertex3="stuff_PMT_2_v433"/>
+             <triangular vertex1="stuff_PMT_2_v434" vertex2="stuff_PMT_2_v427" vertex3="stuff_PMT_2_v435"/>
+             <triangular vertex1="stuff_PMT_2_v435" vertex2="stuff_PMT_2_v427" vertex3="stuff_PMT_2_v288"/>
+             <triangular vertex1="stuff_PMT_2_v435" vertex2="stuff_PMT_2_v288" vertex3="stuff_PMT_2_v436"/>
+             <triangular vertex1="stuff_PMT_2_v436" vertex2="stuff_PMT_2_v288" vertex3="stuff_PMT_2_v433"/>
+             <triangular vertex1="stuff_PMT_2_v434" vertex2="stuff_PMT_2_v437" vertex3="stuff_PMT_2_v427"/>
+             <triangular vertex1="stuff_PMT_2_v427" vertex2="stuff_PMT_2_v437" vertex3="stuff_PMT_2_v438"/>
+             <triangular vertex1="stuff_PMT_2_v427" vertex2="stuff_PMT_2_v438" vertex3="stuff_PMT_2_v425"/>
+             <triangular vertex1="stuff_PMT_2_v425" vertex2="stuff_PMT_2_v438" vertex3="stuff_PMT_2_v439"/>
+             <triangular vertex1="stuff_PMT_2_v425" vertex2="stuff_PMT_2_v439" vertex3="stuff_PMT_2_v440"/>
+             <triangular vertex1="stuff_PMT_2_v440" vertex2="stuff_PMT_2_v439" vertex3="stuff_PMT_2_v441"/>
+             <triangular vertex1="stuff_PMT_2_v440" vertex2="stuff_PMT_2_v441" vertex3="stuff_PMT_2_v428"/>
+             <triangular vertex1="stuff_PMT_2_v428" vertex2="stuff_PMT_2_v441" vertex3="stuff_PMT_2_v442"/>
+             <triangular vertex1="stuff_PMT_2_v428" vertex2="stuff_PMT_2_v442" vertex3="stuff_PMT_2_v429"/>
+             <triangular vertex1="stuff_PMT_2_v288" vertex2="stuff_PMT_2_v287" vertex3="stuff_PMT_2_v430"/>
+             <triangular vertex1="stuff_PMT_2_v430" vertex2="stuff_PMT_2_v287" vertex3="stuff_PMT_2_v443"/>
+             <triangular vertex1="stuff_PMT_2_v430" vertex2="stuff_PMT_2_v443" vertex3="stuff_PMT_2_v444"/>
+             <triangular vertex1="stuff_PMT_2_v444" vertex2="stuff_PMT_2_v443" vertex3="stuff_PMT_2_v445"/>
+             <triangular vertex1="stuff_PMT_2_v444" vertex2="stuff_PMT_2_v445" vertex3="stuff_PMT_2_v446"/>
+             <triangular vertex1="stuff_PMT_2_v446" vertex2="stuff_PMT_2_v445" vertex3="stuff_PMT_2_v447"/>
+             <triangular vertex1="stuff_PMT_2_v446" vertex2="stuff_PMT_2_v447" vertex3="stuff_PMT_2_v448"/>
+             <triangular vertex1="stuff_PMT_2_v417" vertex2="stuff_PMT_2_v449" vertex3="stuff_PMT_2_v296"/>
+             <triangular vertex1="stuff_PMT_2_v296" vertex2="stuff_PMT_2_v449" vertex3="stuff_PMT_2_v450"/>
+             <triangular vertex1="stuff_PMT_2_v296" vertex2="stuff_PMT_2_v450" vertex3="stuff_PMT_2_v297"/>
+             <triangular vertex1="stuff_PMT_2_v297" vertex2="stuff_PMT_2_v450" vertex3="stuff_PMT_2_v451"/>
+             <triangular vertex1="stuff_PMT_2_v297" vertex2="stuff_PMT_2_v451" vertex3="stuff_PMT_2_v282"/>
+             <triangular vertex1="stuff_PMT_2_v282" vertex2="stuff_PMT_2_v451" vertex3="stuff_PMT_2_v452"/>
+             <triangular vertex1="stuff_PMT_2_v452" vertex2="stuff_PMT_2_v453" vertex3="stuff_PMT_2_v282"/>
+             <triangular vertex1="stuff_PMT_2_v282" vertex2="stuff_PMT_2_v453" vertex3="stuff_PMT_2_v454"/>
+             <triangular vertex1="stuff_PMT_2_v282" vertex2="stuff_PMT_2_v454" vertex3="stuff_PMT_2_v343"/>
+             <triangular vertex1="stuff_PMT_2_v454" vertex2="stuff_PMT_2_v455" vertex3="stuff_PMT_2_v343"/>
+             <triangular vertex1="stuff_PMT_2_v343" vertex2="stuff_PMT_2_v455" vertex3="stuff_PMT_2_v456"/>
+             <triangular vertex1="stuff_PMT_2_v343" vertex2="stuff_PMT_2_v456" vertex3="stuff_PMT_2_v345"/>
+             <triangular vertex1="stuff_PMT_2_v345" vertex2="stuff_PMT_2_v456" vertex3="stuff_PMT_2_v457"/>
+             <triangular vertex1="stuff_PMT_2_v345" vertex2="stuff_PMT_2_v457" vertex3="stuff_PMT_2_v414"/>
+             <triangular vertex1="stuff_PMT_2_v414" vertex2="stuff_PMT_2_v457" vertex3="stuff_PMT_2_v458"/>
+             <triangular vertex1="stuff_PMT_2_v414" vertex2="stuff_PMT_2_v458" vertex3="stuff_PMT_2_v415"/>
+             <triangular vertex1="stuff_PMT_2_v410" vertex2="stuff_PMT_2_v459" vertex3="stuff_PMT_2_v408"/>
+             <triangular vertex1="stuff_PMT_2_v408" vertex2="stuff_PMT_2_v459" vertex3="stuff_PMT_2_v460"/>
+             <triangular vertex1="stuff_PMT_2_v408" vertex2="stuff_PMT_2_v460" vertex3="stuff_PMT_2_v368"/>
+             <triangular vertex1="stuff_PMT_2_v368" vertex2="stuff_PMT_2_v460" vertex3="stuff_PMT_2_v461"/>
+             <triangular vertex1="stuff_PMT_2_v368" vertex2="stuff_PMT_2_v461" vertex3="stuff_PMT_2_v276"/>
+             <triangular vertex1="stuff_PMT_2_v276" vertex2="stuff_PMT_2_v461" vertex3="stuff_PMT_2_v462"/>
+             <triangular vertex1="stuff_PMT_2_v462" vertex2="stuff_PMT_2_v463" vertex3="stuff_PMT_2_v276"/>
+             <triangular vertex1="stuff_PMT_2_v276" vertex2="stuff_PMT_2_v463" vertex3="stuff_PMT_2_v464"/>
+             <triangular vertex1="stuff_PMT_2_v276" vertex2="stuff_PMT_2_v464" vertex3="stuff_PMT_2_v383"/>
+             <triangular vertex1="stuff_PMT_2_v464" vertex2="stuff_PMT_2_v465" vertex3="stuff_PMT_2_v383"/>
+             <triangular vertex1="stuff_PMT_2_v383" vertex2="stuff_PMT_2_v465" vertex3="stuff_PMT_2_v466"/>
+             <triangular vertex1="stuff_PMT_2_v383" vertex2="stuff_PMT_2_v466" vertex3="stuff_PMT_2_v385"/>
+             <triangular vertex1="stuff_PMT_2_v385" vertex2="stuff_PMT_2_v466" vertex3="stuff_PMT_2_v467"/>
+             <triangular vertex1="stuff_PMT_2_v385" vertex2="stuff_PMT_2_v467" vertex3="stuff_PMT_2_v407"/>
+             <triangular vertex1="stuff_PMT_2_v407" vertex2="stuff_PMT_2_v467" vertex3="stuff_PMT_2_v468"/>
+             <triangular vertex1="stuff_PMT_2_v407" vertex2="stuff_PMT_2_v468" vertex3="stuff_PMT_2_v409"/>
+             <triangular vertex1="stuff_PMT_2_v409" vertex2="stuff_PMT_2_v468" vertex3="stuff_PMT_2_v469"/>
+             <triangular vertex1="stuff_PMT_2_v409" vertex2="stuff_PMT_2_v469" vertex3="stuff_PMT_2_v410"/>
+             <triangular vertex1="stuff_PMT_2_v426" vertex2="stuff_PMT_2_v470" vertex3="stuff_PMT_2_v427"/>
+             <triangular vertex1="stuff_PMT_2_v427" vertex2="stuff_PMT_2_v470" vertex3="stuff_PMT_2_v471"/>
+             <triangular vertex1="stuff_PMT_2_v427" vertex2="stuff_PMT_2_v471" vertex3="stuff_PMT_2_v472"/>
+             <triangular vertex1="stuff_PMT_2_v472" vertex2="stuff_PMT_2_v471" vertex3="stuff_PMT_2_v473"/>
+             <triangular vertex1="stuff_PMT_2_v472" vertex2="stuff_PMT_2_v473" vertex3="stuff_PMT_2_v474"/>
+             <triangular vertex1="stuff_PMT_2_v474" vertex2="stuff_PMT_2_v473" vertex3="stuff_PMT_2_v475"/>
+             <triangular vertex1="stuff_PMT_2_v474" vertex2="stuff_PMT_2_v475" vertex3="stuff_PMT_2_v283"/>
+             <triangular vertex1="stuff_PMT_2_v475" vertex2="stuff_PMT_2_v476" vertex3="stuff_PMT_2_v283"/>
+             <triangular vertex1="stuff_PMT_2_v283" vertex2="stuff_PMT_2_v476" vertex3="stuff_PMT_2_v477"/>
+             <triangular vertex1="stuff_PMT_2_v283" vertex2="stuff_PMT_2_v477" vertex3="stuff_PMT_2_v284"/>
+             <triangular vertex1="stuff_PMT_2_v284" vertex2="stuff_PMT_2_v477" vertex3="stuff_PMT_2_v478"/>
+             <triangular vertex1="stuff_PMT_2_v284" vertex2="stuff_PMT_2_v478" vertex3="stuff_PMT_2_v419"/>
+             <triangular vertex1="stuff_PMT_2_v419" vertex2="stuff_PMT_2_v478" vertex3="stuff_PMT_2_v479"/>
+             <triangular vertex1="stuff_PMT_2_v419" vertex2="stuff_PMT_2_v479" vertex3="stuff_PMT_2_v421"/>
+             <triangular vertex1="stuff_PMT_2_v447" vertex2="stuff_PMT_2_v480" vertex3="stuff_PMT_2_v448"/>
+             <triangular vertex1="stuff_PMT_2_v448" vertex2="stuff_PMT_2_v480" vertex3="stuff_PMT_2_v481"/>
+             <triangular vertex1="stuff_PMT_2_v448" vertex2="stuff_PMT_2_v481" vertex3="stuff_PMT_2_v482"/>
+             <triangular vertex1="stuff_PMT_2_v481" vertex2="stuff_PMT_2_v483" vertex3="stuff_PMT_2_v482"/>
+             <triangular vertex1="stuff_PMT_2_v482" vertex2="stuff_PMT_2_v483" vertex3="stuff_PMT_2_v484"/>
+             <triangular vertex1="stuff_PMT_2_v482" vertex2="stuff_PMT_2_v484" vertex3="stuff_PMT_2_v485"/>
+             <triangular vertex1="stuff_PMT_2_v484" vertex2="stuff_PMT_2_v486" vertex3="stuff_PMT_2_v485"/>
+             <triangular vertex1="stuff_PMT_2_v485" vertex2="stuff_PMT_2_v486" vertex3="stuff_PMT_2_v487"/>
+             <triangular vertex1="stuff_PMT_2_v485" vertex2="stuff_PMT_2_v487" vertex3="stuff_PMT_2_v488"/>
+             <triangular vertex1="stuff_PMT_2_v488" vertex2="stuff_PMT_2_v487" vertex3="stuff_PMT_2_v489"/>
+             <triangular vertex1="stuff_PMT_2_v488" vertex2="stuff_PMT_2_v489" vertex3="stuff_PMT_2_v490"/>
+             <triangular vertex1="stuff_PMT_2_v491" vertex2="stuff_PMT_2_v492" vertex3="stuff_PMT_2_v482"/>
+             <triangular vertex1="stuff_PMT_2_v482" vertex2="stuff_PMT_2_v492" vertex3="stuff_PMT_2_v493"/>
+             <triangular vertex1="stuff_PMT_2_v493" vertex2="stuff_PMT_2_v290" vertex3="stuff_PMT_2_v482"/>
+             <triangular vertex1="stuff_PMT_2_v482" vertex2="stuff_PMT_2_v290" vertex3="stuff_PMT_2_v289"/>
+             <triangular vertex1="stuff_PMT_2_v482" vertex2="stuff_PMT_2_v289" vertex3="stuff_PMT_2_v448"/>
+             <triangular vertex1="stuff_PMT_2_v448" vertex2="stuff_PMT_2_v289" vertex3="stuff_PMT_2_v494"/>
+             <triangular vertex1="stuff_PMT_2_v448" vertex2="stuff_PMT_2_v494" vertex3="stuff_PMT_2_v446"/>
+             <triangular vertex1="stuff_PMT_2_v493" vertex2="stuff_PMT_2_v495" vertex3="stuff_PMT_2_v290"/>
+             <triangular vertex1="stuff_PMT_2_v290" vertex2="stuff_PMT_2_v495" vertex3="stuff_PMT_2_v496"/>
+             <triangular vertex1="stuff_PMT_2_v290" vertex2="stuff_PMT_2_v496" vertex3="stuff_PMT_2_v291"/>
+             <triangular vertex1="stuff_PMT_2_v291" vertex2="stuff_PMT_2_v496" vertex3="stuff_PMT_2_v497"/>
+             <triangular vertex1="stuff_PMT_2_v291" vertex2="stuff_PMT_2_v497" vertex3="stuff_PMT_2_v498"/>
+             <triangular vertex1="stuff_PMT_2_v498" vertex2="stuff_PMT_2_v497" vertex3="stuff_PMT_2_v499"/>
+             <triangular vertex1="stuff_PMT_2_v498" vertex2="stuff_PMT_2_v499" vertex3="stuff_PMT_2_v399"/>
+             <triangular vertex1="stuff_PMT_2_v399" vertex2="stuff_PMT_2_v499" vertex3="stuff_PMT_2_v500"/>
+             <triangular vertex1="stuff_PMT_2_v399" vertex2="stuff_PMT_2_v500" vertex3="stuff_PMT_2_v401"/>
+             <triangular vertex1="stuff_PMT_2_v500" vertex2="stuff_PMT_2_v501" vertex3="stuff_PMT_2_v401"/>
+             <triangular vertex1="stuff_PMT_2_v401" vertex2="stuff_PMT_2_v501" vertex3="stuff_PMT_2_v502"/>
+             <triangular vertex1="stuff_PMT_2_v401" vertex2="stuff_PMT_2_v502" vertex3="stuff_PMT_2_v503"/>
+             <triangular vertex1="stuff_PMT_2_v503" vertex2="stuff_PMT_2_v502" vertex3="stuff_PMT_2_v504"/>
+             <triangular vertex1="stuff_PMT_2_v503" vertex2="stuff_PMT_2_v504" vertex3="stuff_PMT_2_v505"/>
+             <triangular vertex1="stuff_PMT_2_v505" vertex2="stuff_PMT_2_v504" vertex3="stuff_PMT_2_v506"/>
+             <triangular vertex1="stuff_PMT_2_v503" vertex2="stuff_PMT_2_v507" vertex3="stuff_PMT_2_v401"/>
+             <triangular vertex1="stuff_PMT_2_v401" vertex2="stuff_PMT_2_v507" vertex3="stuff_PMT_2_v508"/>
+             <triangular vertex1="stuff_PMT_2_v401" vertex2="stuff_PMT_2_v508" vertex3="stuff_PMT_2_v315"/>
+             <triangular vertex1="stuff_PMT_2_v315" vertex2="stuff_PMT_2_v508" vertex3="stuff_PMT_2_v509"/>
+             <triangular vertex1="stuff_PMT_2_v315" vertex2="stuff_PMT_2_v509" vertex3="stuff_PMT_2_v313"/>
+             <triangular vertex1="stuff_PMT_2_v506" vertex2="stuff_PMT_2_v491" vertex3="stuff_PMT_2_v505"/>
+             <triangular vertex1="stuff_PMT_2_v505" vertex2="stuff_PMT_2_v491" vertex3="stuff_PMT_2_v482"/>
+             <triangular vertex1="stuff_PMT_2_v505" vertex2="stuff_PMT_2_v482" vertex3="stuff_PMT_2_v510"/>
+             <triangular vertex1="stuff_PMT_2_v510" vertex2="stuff_PMT_2_v482" vertex3="stuff_PMT_2_v485"/>
+             <triangular vertex1="stuff_PMT_2_v472" vertex2="stuff_PMT_2_v511" vertex3="stuff_PMT_2_v427"/>
+             <triangular vertex1="stuff_PMT_2_v427" vertex2="stuff_PMT_2_v511" vertex3="stuff_PMT_2_v512"/>
+             <triangular vertex1="stuff_PMT_2_v427" vertex2="stuff_PMT_2_v512" vertex3="stuff_PMT_2_v288"/>
+             <triangular vertex1="stuff_PMT_2_v288" vertex2="stuff_PMT_2_v512" vertex3="stuff_PMT_2_v490"/>
+             <triangular vertex1="stuff_PMT_2_v288" vertex2="stuff_PMT_2_v490" vertex3="stuff_PMT_2_v286"/>
+             <triangular vertex1="stuff_PMT_2_v286" vertex2="stuff_PMT_2_v490" vertex3="stuff_PMT_2_v489"/>
+             <triangular vertex1="stuff_PMT_2_v280" vertex2="stuff_PMT_2_v282" vertex3="stuff_PMT_2_v513"/>
+             <triangular vertex1="stuff_PMT_2_v513" vertex2="stuff_PMT_2_v282" vertex3="stuff_PMT_2_v343"/>
+             <triangular vertex1="stuff_PMT_2_v513" vertex2="stuff_PMT_2_v343" vertex3="stuff_PMT_2_v350"/>
+             <triangular vertex1="stuff_PMT_2_v350" vertex2="stuff_PMT_2_v343" vertex3="stuff_PMT_2_v342"/>
+             <triangular vertex1="stuff_PMT_2_v350" vertex2="stuff_PMT_2_v342" vertex3="stuff_PMT_2_v351"/>
+             <triangular vertex1="stuff_PMT_2_v274" vertex2="stuff_PMT_2_v276" vertex3="stuff_PMT_2_v514"/>
+             <triangular vertex1="stuff_PMT_2_v514" vertex2="stuff_PMT_2_v276" vertex3="stuff_PMT_2_v383"/>
+             <triangular vertex1="stuff_PMT_2_v514" vertex2="stuff_PMT_2_v383" vertex3="stuff_PMT_2_v377"/>
+             <triangular vertex1="stuff_PMT_2_v377" vertex2="stuff_PMT_2_v383" vertex3="stuff_PMT_2_v382"/>
+             <triangular vertex1="stuff_PMT_2_v377" vertex2="stuff_PMT_2_v382" vertex3="stuff_PMT_2_v378"/>
+             <triangular vertex1="stuff_PMT_2_v380" vertex2="stuff_PMT_2_v373" vertex3="stuff_PMT_2_v381"/>
+             <triangular vertex1="stuff_PMT_2_v381" vertex2="stuff_PMT_2_v373" vertex3="stuff_PMT_2_v316"/>
+             <triangular vertex1="stuff_PMT_2_v381" vertex2="stuff_PMT_2_v316" vertex3="stuff_PMT_2_v515"/>
+             <triangular vertex1="stuff_PMT_2_v515" vertex2="stuff_PMT_2_v316" vertex3="stuff_PMT_2_v311"/>
+             <triangular vertex1="stuff_PMT_2_v367" vertex2="stuff_PMT_2_v192" vertex3="stuff_PMT_2_v411"/>
+             <triangular vertex1="stuff_PMT_2_v411" vertex2="stuff_PMT_2_v192" vertex3="stuff_PMT_2_v205"/>
+             <triangular vertex1="stuff_PMT_2_v411" vertex2="stuff_PMT_2_v205" vertex3="stuff_PMT_2_v412"/>
+             <triangular vertex1="stuff_PMT_2_v412" vertex2="stuff_PMT_2_v205" vertex3="stuff_PMT_2_v206"/>
+             <triangular vertex1="stuff_PMT_2_v412" vertex2="stuff_PMT_2_v206" vertex3="stuff_PMT_2_v408"/>
+             <triangular vertex1="stuff_PMT_2_v408" vertex2="stuff_PMT_2_v206" vertex3="stuff_PMT_2_v207"/>
+             <triangular vertex1="stuff_PMT_2_v408" vertex2="stuff_PMT_2_v207" vertex3="stuff_PMT_2_v409"/>
+             <triangular vertex1="stuff_PMT_2_v409" vertex2="stuff_PMT_2_v207" vertex3="stuff_PMT_2_v209"/>
+             <triangular vertex1="stuff_PMT_2_v409" vertex2="stuff_PMT_2_v209" vertex3="stuff_PMT_2_v407"/>
+             <triangular vertex1="stuff_PMT_2_v407" vertex2="stuff_PMT_2_v209" vertex3="stuff_PMT_2_v211"/>
+             <triangular vertex1="stuff_PMT_2_v407" vertex2="stuff_PMT_2_v211" vertex3="stuff_PMT_2_v406"/>
+             <triangular vertex1="stuff_PMT_2_v406" vertex2="stuff_PMT_2_v211" vertex3="stuff_PMT_2_v212"/>
+             <triangular vertex1="stuff_PMT_2_v406" vertex2="stuff_PMT_2_v212" vertex3="stuff_PMT_2_v388"/>
+             <triangular vertex1="stuff_PMT_2_v388" vertex2="stuff_PMT_2_v212" vertex3="stuff_PMT_2_v221"/>
+             <triangular vertex1="stuff_PMT_2_v388" vertex2="stuff_PMT_2_v221" vertex3="stuff_PMT_2_v303"/>
+             <triangular vertex1="stuff_PMT_2_v303" vertex2="stuff_PMT_2_v221" vertex3="stuff_PMT_2_v301"/>
+             <triangular vertex1="stuff_PMT_2_v301" vertex2="stuff_PMT_2_v221" vertex3="stuff_PMT_2_v224"/>
+             <triangular vertex1="stuff_PMT_2_v301" vertex2="stuff_PMT_2_v224" vertex3="stuff_PMT_2_v306"/>
+             <triangular vertex1="stuff_PMT_2_v306" vertex2="stuff_PMT_2_v224" vertex3="stuff_PMT_2_v94"/>
+             <triangular vertex1="stuff_PMT_2_v306" vertex2="stuff_PMT_2_v94" vertex3="stuff_PMT_2_v304"/>
+             <triangular vertex1="stuff_PMT_2_v94" vertex2="stuff_PMT_2_v83" vertex3="stuff_PMT_2_v304"/>
+             <triangular vertex1="stuff_PMT_2_v304" vertex2="stuff_PMT_2_v83" vertex3="stuff_PMT_2_v225"/>
+             <triangular vertex1="stuff_PMT_2_v304" vertex2="stuff_PMT_2_v225" vertex3="stuff_PMT_2_v325"/>
+             <triangular vertex1="stuff_PMT_2_v325" vertex2="stuff_PMT_2_v225" vertex3="stuff_PMT_2_v226"/>
+             <triangular vertex1="stuff_PMT_2_v325" vertex2="stuff_PMT_2_v226" vertex3="stuff_PMT_2_v323"/>
+             <triangular vertex1="stuff_PMT_2_v323" vertex2="stuff_PMT_2_v226" vertex3="stuff_PMT_2_v256"/>
+             <triangular vertex1="stuff_PMT_2_v323" vertex2="stuff_PMT_2_v256" vertex3="stuff_PMT_2_v393"/>
+             <triangular vertex1="stuff_PMT_2_v393" vertex2="stuff_PMT_2_v256" vertex3="stuff_PMT_2_v395"/>
+             <triangular vertex1="stuff_PMT_2_v395" vertex2="stuff_PMT_2_v256" vertex3="stuff_PMT_2_v254"/>
+             <triangular vertex1="stuff_PMT_2_v395" vertex2="stuff_PMT_2_v254" vertex3="stuff_PMT_2_v397"/>
+             <triangular vertex1="stuff_PMT_2_v254" vertex2="stuff_PMT_2_v252" vertex3="stuff_PMT_2_v397"/>
+             <triangular vertex1="stuff_PMT_2_v397" vertex2="stuff_PMT_2_v252" vertex3="stuff_PMT_2_v103"/>
+             <triangular vertex1="stuff_PMT_2_v397" vertex2="stuff_PMT_2_v103" vertex3="stuff_PMT_2_v399"/>
+             <triangular vertex1="stuff_PMT_2_v399" vertex2="stuff_PMT_2_v103" vertex3="stuff_PMT_2_v105"/>
+             <triangular vertex1="stuff_PMT_2_v399" vertex2="stuff_PMT_2_v105" vertex3="stuff_PMT_2_v498"/>
+             <triangular vertex1="stuff_PMT_2_v498" vertex2="stuff_PMT_2_v105" vertex3="stuff_PMT_2_v106"/>
+             <triangular vertex1="stuff_PMT_2_v498" vertex2="stuff_PMT_2_v106" vertex3="stuff_PMT_2_v291"/>
+             <triangular vertex1="stuff_PMT_2_v291" vertex2="stuff_PMT_2_v106" vertex3="stuff_PMT_2_v112"/>
+             <triangular vertex1="stuff_PMT_2_v291" vertex2="stuff_PMT_2_v112" vertex3="stuff_PMT_2_v289"/>
+             <triangular vertex1="stuff_PMT_2_v289" vertex2="stuff_PMT_2_v112" vertex3="stuff_PMT_2_v119"/>
+             <triangular vertex1="stuff_PMT_2_v289" vertex2="stuff_PMT_2_v119" vertex3="stuff_PMT_2_v494"/>
+             <triangular vertex1="stuff_PMT_2_v494" vertex2="stuff_PMT_2_v119" vertex3="stuff_PMT_2_v121"/>
+             <triangular vertex1="stuff_PMT_2_v494" vertex2="stuff_PMT_2_v121" vertex3="stuff_PMT_2_v446"/>
+             <triangular vertex1="stuff_PMT_2_v446" vertex2="stuff_PMT_2_v121" vertex3="stuff_PMT_2_v135"/>
+             <triangular vertex1="stuff_PMT_2_v446" vertex2="stuff_PMT_2_v135" vertex3="stuff_PMT_2_v444"/>
+             <triangular vertex1="stuff_PMT_2_v444" vertex2="stuff_PMT_2_v135" vertex3="stuff_PMT_2_v136"/>
+             <triangular vertex1="stuff_PMT_2_v444" vertex2="stuff_PMT_2_v136" vertex3="stuff_PMT_2_v430"/>
+             <triangular vertex1="stuff_PMT_2_v430" vertex2="stuff_PMT_2_v136" vertex3="stuff_PMT_2_v138"/>
+             <triangular vertex1="stuff_PMT_2_v430" vertex2="stuff_PMT_2_v138" vertex3="stuff_PMT_2_v428"/>
+             <triangular vertex1="stuff_PMT_2_v428" vertex2="stuff_PMT_2_v138" vertex3="stuff_PMT_2_v137"/>
+             <triangular vertex1="stuff_PMT_2_v428" vertex2="stuff_PMT_2_v137" vertex3="stuff_PMT_2_v440"/>
+             <triangular vertex1="stuff_PMT_2_v440" vertex2="stuff_PMT_2_v137" vertex3="stuff_PMT_2_v142"/>
+             <triangular vertex1="stuff_PMT_2_v440" vertex2="stuff_PMT_2_v142" vertex3="stuff_PMT_2_v425"/>
+             <triangular vertex1="stuff_PMT_2_v425" vertex2="stuff_PMT_2_v142" vertex3="stuff_PMT_2_v140"/>
+             <triangular vertex1="stuff_PMT_2_v425" vertex2="stuff_PMT_2_v140" vertex3="stuff_PMT_2_v423"/>
+             <triangular vertex1="stuff_PMT_2_v423" vertex2="stuff_PMT_2_v140" vertex3="stuff_PMT_2_v74"/>
+             <triangular vertex1="stuff_PMT_2_v423" vertex2="stuff_PMT_2_v74" vertex3="stuff_PMT_2_v420"/>
+             <triangular vertex1="stuff_PMT_2_v420" vertex2="stuff_PMT_2_v74" vertex3="stuff_PMT_2_v73"/>
+             <triangular vertex1="stuff_PMT_2_v420" vertex2="stuff_PMT_2_v73" vertex3="stuff_PMT_2_v294"/>
+             <triangular vertex1="stuff_PMT_2_v294" vertex2="stuff_PMT_2_v73" vertex3="stuff_PMT_2_v71"/>
+             <triangular vertex1="stuff_PMT_2_v294" vertex2="stuff_PMT_2_v71" vertex3="stuff_PMT_2_v292"/>
+             <triangular vertex1="stuff_PMT_2_v292" vertex2="stuff_PMT_2_v71" vertex3="stuff_PMT_2_v163"/>
+             <triangular vertex1="stuff_PMT_2_v292" vertex2="stuff_PMT_2_v163" vertex3="stuff_PMT_2_v418"/>
+             <triangular vertex1="stuff_PMT_2_v418" vertex2="stuff_PMT_2_v163" vertex3="stuff_PMT_2_v168"/>
+             <triangular vertex1="stuff_PMT_2_v418" vertex2="stuff_PMT_2_v168" vertex3="stuff_PMT_2_v295"/>
+             <triangular vertex1="stuff_PMT_2_v295" vertex2="stuff_PMT_2_v168" vertex3="stuff_PMT_2_v169"/>
+             <triangular vertex1="stuff_PMT_2_v295" vertex2="stuff_PMT_2_v169" vertex3="stuff_PMT_2_v296"/>
+             <triangular vertex1="stuff_PMT_2_v296" vertex2="stuff_PMT_2_v169" vertex3="stuff_PMT_2_v171"/>
+             <triangular vertex1="stuff_PMT_2_v296" vertex2="stuff_PMT_2_v171" vertex3="stuff_PMT_2_v416"/>
+             <triangular vertex1="stuff_PMT_2_v416" vertex2="stuff_PMT_2_v171" vertex3="stuff_PMT_2_v173"/>
+             <triangular vertex1="stuff_PMT_2_v416" vertex2="stuff_PMT_2_v173" vertex3="stuff_PMT_2_v414"/>
+             <triangular vertex1="stuff_PMT_2_v414" vertex2="stuff_PMT_2_v173" vertex3="stuff_PMT_2_v179"/>
+             <triangular vertex1="stuff_PMT_2_v414" vertex2="stuff_PMT_2_v179" vertex3="stuff_PMT_2_v413"/>
+             <triangular vertex1="stuff_PMT_2_v413" vertex2="stuff_PMT_2_v179" vertex3="stuff_PMT_2_v177"/>
+             <triangular vertex1="stuff_PMT_2_v413" vertex2="stuff_PMT_2_v177" vertex3="stuff_PMT_2_v347"/>
+             <triangular vertex1="stuff_PMT_2_v347" vertex2="stuff_PMT_2_v177" vertex3="stuff_PMT_2_v186"/>
+             <triangular vertex1="stuff_PMT_2_v347" vertex2="stuff_PMT_2_v186" vertex3="stuff_PMT_2_v300"/>
+             <triangular vertex1="stuff_PMT_2_v300" vertex2="stuff_PMT_2_v186" vertex3="stuff_PMT_2_v67"/>
+             <triangular vertex1="stuff_PMT_2_v300" vertex2="stuff_PMT_2_v67" vertex3="stuff_PMT_2_v298"/>
+             <triangular vertex1="stuff_PMT_2_v298" vertex2="stuff_PMT_2_v67" vertex3="stuff_PMT_2_v69"/>
+             <triangular vertex1="stuff_PMT_2_v298" vertex2="stuff_PMT_2_v69" vertex3="stuff_PMT_2_v367"/>
+             <triangular vertex1="stuff_PMT_2_v367" vertex2="stuff_PMT_2_v69" vertex3="stuff_PMT_2_v193"/>
+             <triangular vertex1="stuff_PMT_2_v367" vertex2="stuff_PMT_2_v193" vertex3="stuff_PMT_2_v192"/>
+             <triangular vertex1="stuff_PMT_2_v417" vertex2="stuff_PMT_2_v172" vertex3="stuff_PMT_2_v449"/>
+             <triangular vertex1="stuff_PMT_2_v449" vertex2="stuff_PMT_2_v172" vertex3="stuff_PMT_2_v170"/>
+             <triangular vertex1="stuff_PMT_2_v449" vertex2="stuff_PMT_2_v170" vertex3="stuff_PMT_2_v450"/>
+             <triangular vertex1="stuff_PMT_2_v450" vertex2="stuff_PMT_2_v170" vertex3="stuff_PMT_2_v229"/>
+             <triangular vertex1="stuff_PMT_2_v450" vertex2="stuff_PMT_2_v229" vertex3="stuff_PMT_2_v451"/>
+             <triangular vertex1="stuff_PMT_2_v451" vertex2="stuff_PMT_2_v229" vertex3="stuff_PMT_2_v228"/>
+             <triangular vertex1="stuff_PMT_2_v451" vertex2="stuff_PMT_2_v228" vertex3="stuff_PMT_2_v452"/>
+             <triangular vertex1="stuff_PMT_2_v452" vertex2="stuff_PMT_2_v228" vertex3="stuff_PMT_2_v227"/>
+             <triangular vertex1="stuff_PMT_2_v452" vertex2="stuff_PMT_2_v227" vertex3="stuff_PMT_2_v453"/>
+             <triangular vertex1="stuff_PMT_2_v453" vertex2="stuff_PMT_2_v227" vertex3="stuff_PMT_2_v236"/>
+             <triangular vertex1="stuff_PMT_2_v453" vertex2="stuff_PMT_2_v236" vertex3="stuff_PMT_2_v454"/>
+             <triangular vertex1="stuff_PMT_2_v454" vertex2="stuff_PMT_2_v236" vertex3="stuff_PMT_2_v235"/>
+             <triangular vertex1="stuff_PMT_2_v454" vertex2="stuff_PMT_2_v235" vertex3="stuff_PMT_2_v455"/>
+             <triangular vertex1="stuff_PMT_2_v455" vertex2="stuff_PMT_2_v235" vertex3="stuff_PMT_2_v234"/>
+             <triangular vertex1="stuff_PMT_2_v455" vertex2="stuff_PMT_2_v234" vertex3="stuff_PMT_2_v456"/>
+             <triangular vertex1="stuff_PMT_2_v456" vertex2="stuff_PMT_2_v234" vertex3="stuff_PMT_2_v233"/>
+             <triangular vertex1="stuff_PMT_2_v456" vertex2="stuff_PMT_2_v233" vertex3="stuff_PMT_2_v457"/>
+             <triangular vertex1="stuff_PMT_2_v457" vertex2="stuff_PMT_2_v233" vertex3="stuff_PMT_2_v232"/>
+             <triangular vertex1="stuff_PMT_2_v457" vertex2="stuff_PMT_2_v232" vertex3="stuff_PMT_2_v458"/>
+             <triangular vertex1="stuff_PMT_2_v458" vertex2="stuff_PMT_2_v232" vertex3="stuff_PMT_2_v231"/>
+             <triangular vertex1="stuff_PMT_2_v458" vertex2="stuff_PMT_2_v231" vertex3="stuff_PMT_2_v415"/>
+             <triangular vertex1="stuff_PMT_2_v415" vertex2="stuff_PMT_2_v231" vertex3="stuff_PMT_2_v230"/>
+             <triangular vertex1="stuff_PMT_2_v415" vertex2="stuff_PMT_2_v230" vertex3="stuff_PMT_2_v417"/>
+             <triangular vertex1="stuff_PMT_2_v417" vertex2="stuff_PMT_2_v230" vertex3="stuff_PMT_2_v172"/>
+             <triangular vertex1="stuff_PMT_2_v461" vertex2="stuff_PMT_2_v238" vertex3="stuff_PMT_2_v462"/>
+             <triangular vertex1="stuff_PMT_2_v462" vertex2="stuff_PMT_2_v238" vertex3="stuff_PMT_2_v237"/>
+             <triangular vertex1="stuff_PMT_2_v462" vertex2="stuff_PMT_2_v237" vertex3="stuff_PMT_2_v463"/>
+             <triangular vertex1="stuff_PMT_2_v463" vertex2="stuff_PMT_2_v237" vertex3="stuff_PMT_2_v247"/>
+             <triangular vertex1="stuff_PMT_2_v463" vertex2="stuff_PMT_2_v247" vertex3="stuff_PMT_2_v464"/>
+             <triangular vertex1="stuff_PMT_2_v464" vertex2="stuff_PMT_2_v247" vertex3="stuff_PMT_2_v246"/>
+             <triangular vertex1="stuff_PMT_2_v464" vertex2="stuff_PMT_2_v246" vertex3="stuff_PMT_2_v465"/>
+             <triangular vertex1="stuff_PMT_2_v465" vertex2="stuff_PMT_2_v246" vertex3="stuff_PMT_2_v245"/>
+             <triangular vertex1="stuff_PMT_2_v465" vertex2="stuff_PMT_2_v245" vertex3="stuff_PMT_2_v466"/>
+             <triangular vertex1="stuff_PMT_2_v466" vertex2="stuff_PMT_2_v245" vertex3="stuff_PMT_2_v244"/>
+             <triangular vertex1="stuff_PMT_2_v466" vertex2="stuff_PMT_2_v244" vertex3="stuff_PMT_2_v467"/>
+             <triangular vertex1="stuff_PMT_2_v467" vertex2="stuff_PMT_2_v244" vertex3="stuff_PMT_2_v243"/>
+             <triangular vertex1="stuff_PMT_2_v467" vertex2="stuff_PMT_2_v243" vertex3="stuff_PMT_2_v468"/>
+             <triangular vertex1="stuff_PMT_2_v468" vertex2="stuff_PMT_2_v243" vertex3="stuff_PMT_2_v242"/>
+             <triangular vertex1="stuff_PMT_2_v468" vertex2="stuff_PMT_2_v242" vertex3="stuff_PMT_2_v469"/>
+             <triangular vertex1="stuff_PMT_2_v469" vertex2="stuff_PMT_2_v242" vertex3="stuff_PMT_2_v241"/>
+             <triangular vertex1="stuff_PMT_2_v469" vertex2="stuff_PMT_2_v241" vertex3="stuff_PMT_2_v410"/>
+             <triangular vertex1="stuff_PMT_2_v410" vertex2="stuff_PMT_2_v241" vertex3="stuff_PMT_2_v240"/>
+             <triangular vertex1="stuff_PMT_2_v410" vertex2="stuff_PMT_2_v240" vertex3="stuff_PMT_2_v459"/>
+             <triangular vertex1="stuff_PMT_2_v459" vertex2="stuff_PMT_2_v240" vertex3="stuff_PMT_2_v208"/>
+             <triangular vertex1="stuff_PMT_2_v459" vertex2="stuff_PMT_2_v208" vertex3="stuff_PMT_2_v460"/>
+             <triangular vertex1="stuff_PMT_2_v460" vertex2="stuff_PMT_2_v208" vertex3="stuff_PMT_2_v239"/>
+             <triangular vertex1="stuff_PMT_2_v460" vertex2="stuff_PMT_2_v239" vertex3="stuff_PMT_2_v461"/>
+             <triangular vertex1="stuff_PMT_2_v461" vertex2="stuff_PMT_2_v239" vertex3="stuff_PMT_2_v238"/>
+             <triangular vertex1="stuff_PMT_2_v479" vertex2="stuff_PMT_2_v144" vertex3="stuff_PMT_2_v421"/>
+             <triangular vertex1="stuff_PMT_2_v421" vertex2="stuff_PMT_2_v144" vertex3="stuff_PMT_2_v143"/>
+             <triangular vertex1="stuff_PMT_2_v421" vertex2="stuff_PMT_2_v143" vertex3="stuff_PMT_2_v422"/>
+             <triangular vertex1="stuff_PMT_2_v422" vertex2="stuff_PMT_2_v143" vertex3="stuff_PMT_2_v153"/>
+             <triangular vertex1="stuff_PMT_2_v422" vertex2="stuff_PMT_2_v153" vertex3="stuff_PMT_2_v424"/>
+             <triangular vertex1="stuff_PMT_2_v424" vertex2="stuff_PMT_2_v153" vertex3="stuff_PMT_2_v152"/>
+             <triangular vertex1="stuff_PMT_2_v424" vertex2="stuff_PMT_2_v152" vertex3="stuff_PMT_2_v426"/>
+             <triangular vertex1="stuff_PMT_2_v426" vertex2="stuff_PMT_2_v152" vertex3="stuff_PMT_2_v151"/>
+             <triangular vertex1="stuff_PMT_2_v426" vertex2="stuff_PMT_2_v151" vertex3="stuff_PMT_2_v470"/>
+             <triangular vertex1="stuff_PMT_2_v470" vertex2="stuff_PMT_2_v151" vertex3="stuff_PMT_2_v150"/>
+             <triangular vertex1="stuff_PMT_2_v470" vertex2="stuff_PMT_2_v150" vertex3="stuff_PMT_2_v471"/>
+             <triangular vertex1="stuff_PMT_2_v471" vertex2="stuff_PMT_2_v150" vertex3="stuff_PMT_2_v149"/>
+             <triangular vertex1="stuff_PMT_2_v471" vertex2="stuff_PMT_2_v149" vertex3="stuff_PMT_2_v473"/>
+             <triangular vertex1="stuff_PMT_2_v473" vertex2="stuff_PMT_2_v149" vertex3="stuff_PMT_2_v148"/>
+             <triangular vertex1="stuff_PMT_2_v473" vertex2="stuff_PMT_2_v148" vertex3="stuff_PMT_2_v475"/>
+             <triangular vertex1="stuff_PMT_2_v475" vertex2="stuff_PMT_2_v148" vertex3="stuff_PMT_2_v147"/>
+             <triangular vertex1="stuff_PMT_2_v475" vertex2="stuff_PMT_2_v147" vertex3="stuff_PMT_2_v476"/>
+             <triangular vertex1="stuff_PMT_2_v476" vertex2="stuff_PMT_2_v147" vertex3="stuff_PMT_2_v146"/>
+             <triangular vertex1="stuff_PMT_2_v476" vertex2="stuff_PMT_2_v146" vertex3="stuff_PMT_2_v477"/>
+             <triangular vertex1="stuff_PMT_2_v477" vertex2="stuff_PMT_2_v146" vertex3="stuff_PMT_2_v98"/>
+             <triangular vertex1="stuff_PMT_2_v477" vertex2="stuff_PMT_2_v98" vertex3="stuff_PMT_2_v478"/>
+             <triangular vertex1="stuff_PMT_2_v478" vertex2="stuff_PMT_2_v98" vertex3="stuff_PMT_2_v145"/>
+             <triangular vertex1="stuff_PMT_2_v478" vertex2="stuff_PMT_2_v145" vertex3="stuff_PMT_2_v479"/>
+             <triangular vertex1="stuff_PMT_2_v479" vertex2="stuff_PMT_2_v145" vertex3="stuff_PMT_2_v144"/>
+             <triangular vertex1="stuff_PMT_2_v286" vertex2="stuff_PMT_2_v131" vertex3="stuff_PMT_2_v287"/>
+             <triangular vertex1="stuff_PMT_2_v287" vertex2="stuff_PMT_2_v131" vertex3="stuff_PMT_2_v129"/>
+             <triangular vertex1="stuff_PMT_2_v287" vertex2="stuff_PMT_2_v129" vertex3="stuff_PMT_2_v443"/>
+             <triangular vertex1="stuff_PMT_2_v443" vertex2="stuff_PMT_2_v129" vertex3="stuff_PMT_2_v127"/>
+             <triangular vertex1="stuff_PMT_2_v443" vertex2="stuff_PMT_2_v127" vertex3="stuff_PMT_2_v445"/>
+             <triangular vertex1="stuff_PMT_2_v445" vertex2="stuff_PMT_2_v127" vertex3="stuff_PMT_2_v126"/>
+             <triangular vertex1="stuff_PMT_2_v445" vertex2="stuff_PMT_2_v126" vertex3="stuff_PMT_2_v447"/>
+             <triangular vertex1="stuff_PMT_2_v447" vertex2="stuff_PMT_2_v126" vertex3="stuff_PMT_2_v120"/>
+             <triangular vertex1="stuff_PMT_2_v447" vertex2="stuff_PMT_2_v120" vertex3="stuff_PMT_2_v480"/>
+             <triangular vertex1="stuff_PMT_2_v480" vertex2="stuff_PMT_2_v120" vertex3="stuff_PMT_2_v122"/>
+             <triangular vertex1="stuff_PMT_2_v480" vertex2="stuff_PMT_2_v122" vertex3="stuff_PMT_2_v481"/>
+             <triangular vertex1="stuff_PMT_2_v481" vertex2="stuff_PMT_2_v122" vertex3="stuff_PMT_2_v123"/>
+             <triangular vertex1="stuff_PMT_2_v481" vertex2="stuff_PMT_2_v123" vertex3="stuff_PMT_2_v483"/>
+             <triangular vertex1="stuff_PMT_2_v483" vertex2="stuff_PMT_2_v123" vertex3="stuff_PMT_2_v124"/>
+             <triangular vertex1="stuff_PMT_2_v483" vertex2="stuff_PMT_2_v124" vertex3="stuff_PMT_2_v484"/>
+             <triangular vertex1="stuff_PMT_2_v484" vertex2="stuff_PMT_2_v124" vertex3="stuff_PMT_2_v125"/>
+             <triangular vertex1="stuff_PMT_2_v484" vertex2="stuff_PMT_2_v125" vertex3="stuff_PMT_2_v486"/>
+             <triangular vertex1="stuff_PMT_2_v486" vertex2="stuff_PMT_2_v125" vertex3="stuff_PMT_2_v134"/>
+             <triangular vertex1="stuff_PMT_2_v486" vertex2="stuff_PMT_2_v134" vertex3="stuff_PMT_2_v487"/>
+             <triangular vertex1="stuff_PMT_2_v487" vertex2="stuff_PMT_2_v134" vertex3="stuff_PMT_2_v133"/>
+             <triangular vertex1="stuff_PMT_2_v487" vertex2="stuff_PMT_2_v133" vertex3="stuff_PMT_2_v489"/>
+             <triangular vertex1="stuff_PMT_2_v489" vertex2="stuff_PMT_2_v133" vertex3="stuff_PMT_2_v132"/>
+             <triangular vertex1="stuff_PMT_2_v489" vertex2="stuff_PMT_2_v132" vertex3="stuff_PMT_2_v286"/>
+             <triangular vertex1="stuff_PMT_2_v286" vertex2="stuff_PMT_2_v132" vertex3="stuff_PMT_2_v131"/>
+             <triangular vertex1="stuff_PMT_2_v404" vertex2="stuff_PMT_2_v261" vertex3="stuff_PMT_2_v405"/>
+             <triangular vertex1="stuff_PMT_2_v405" vertex2="stuff_PMT_2_v261" vertex3="stuff_PMT_2_v260"/>
+             <triangular vertex1="stuff_PMT_2_v405" vertex2="stuff_PMT_2_v260" vertex3="stuff_PMT_2_v402"/>
+             <triangular vertex1="stuff_PMT_2_v402" vertex2="stuff_PMT_2_v260" vertex3="stuff_PMT_2_v248"/>
+             <triangular vertex1="stuff_PMT_2_v402" vertex2="stuff_PMT_2_v248" vertex3="stuff_PMT_2_v400"/>
+             <triangular vertex1="stuff_PMT_2_v400" vertex2="stuff_PMT_2_v248" vertex3="stuff_PMT_2_v249"/>
+             <triangular vertex1="stuff_PMT_2_v400" vertex2="stuff_PMT_2_v249" vertex3="stuff_PMT_2_v398"/>
+             <triangular vertex1="stuff_PMT_2_v398" vertex2="stuff_PMT_2_v249" vertex3="stuff_PMT_2_v250"/>
+             <triangular vertex1="stuff_PMT_2_v398" vertex2="stuff_PMT_2_v250" vertex3="stuff_PMT_2_v396"/>
+             <triangular vertex1="stuff_PMT_2_v396" vertex2="stuff_PMT_2_v250" vertex3="stuff_PMT_2_v251"/>
+             <triangular vertex1="stuff_PMT_2_v396" vertex2="stuff_PMT_2_v251" vertex3="stuff_PMT_2_v394"/>
+             <triangular vertex1="stuff_PMT_2_v394" vertex2="stuff_PMT_2_v251" vertex3="stuff_PMT_2_v253"/>
+             <triangular vertex1="stuff_PMT_2_v394" vertex2="stuff_PMT_2_v253" vertex3="stuff_PMT_2_v392"/>
+             <triangular vertex1="stuff_PMT_2_v392" vertex2="stuff_PMT_2_v253" vertex3="stuff_PMT_2_v255"/>
+             <triangular vertex1="stuff_PMT_2_v392" vertex2="stuff_PMT_2_v255" vertex3="stuff_PMT_2_v391"/>
+             <triangular vertex1="stuff_PMT_2_v391" vertex2="stuff_PMT_2_v255" vertex3="stuff_PMT_2_v257"/>
+             <triangular vertex1="stuff_PMT_2_v391" vertex2="stuff_PMT_2_v257" vertex3="stuff_PMT_2_v389"/>
+             <triangular vertex1="stuff_PMT_2_v389" vertex2="stuff_PMT_2_v257" vertex3="stuff_PMT_2_v258"/>
+             <triangular vertex1="stuff_PMT_2_v389" vertex2="stuff_PMT_2_v258" vertex3="stuff_PMT_2_v390"/>
+             <triangular vertex1="stuff_PMT_2_v390" vertex2="stuff_PMT_2_v258" vertex3="stuff_PMT_2_v259"/>
+             <triangular vertex1="stuff_PMT_2_v390" vertex2="stuff_PMT_2_v259" vertex3="stuff_PMT_2_v403"/>
+             <triangular vertex1="stuff_PMT_2_v403" vertex2="stuff_PMT_2_v259" vertex3="stuff_PMT_2_v262"/>
+             <triangular vertex1="stuff_PMT_2_v403" vertex2="stuff_PMT_2_v262" vertex3="stuff_PMT_2_v404"/>
+             <triangular vertex1="stuff_PMT_2_v404" vertex2="stuff_PMT_2_v262" vertex3="stuff_PMT_2_v261"/>
+             <triangular vertex1="stuff_PMT_2_v378" vertex2="stuff_PMT_2_v65" vertex3="stuff_PMT_2_v379"/>
+             <triangular vertex1="stuff_PMT_2_v379" vertex2="stuff_PMT_2_v65" vertex3="stuff_PMT_2_v64"/>
+             <triangular vertex1="stuff_PMT_2_v379" vertex2="stuff_PMT_2_v64" vertex3="stuff_PMT_2_v380"/>
+             <triangular vertex1="stuff_PMT_2_v380" vertex2="stuff_PMT_2_v64" vertex3="stuff_PMT_2_v218"/>
+             <triangular vertex1="stuff_PMT_2_v380" vertex2="stuff_PMT_2_v218" vertex3="stuff_PMT_2_v373"/>
+             <triangular vertex1="stuff_PMT_2_v373" vertex2="stuff_PMT_2_v218" vertex3="stuff_PMT_2_v217"/>
+             <triangular vertex1="stuff_PMT_2_v373" vertex2="stuff_PMT_2_v217" vertex3="stuff_PMT_2_v374"/>
+             <triangular vertex1="stuff_PMT_2_v374" vertex2="stuff_PMT_2_v217" vertex3="stuff_PMT_2_v216"/>
+             <triangular vertex1="stuff_PMT_2_v374" vertex2="stuff_PMT_2_v216" vertex3="stuff_PMT_2_v375"/>
+             <triangular vertex1="stuff_PMT_2_v375" vertex2="stuff_PMT_2_v216" vertex3="stuff_PMT_2_v215"/>
+             <triangular vertex1="stuff_PMT_2_v375" vertex2="stuff_PMT_2_v215" vertex3="stuff_PMT_2_v307"/>
+             <triangular vertex1="stuff_PMT_2_v307" vertex2="stuff_PMT_2_v215" vertex3="stuff_PMT_2_v223"/>
+             <triangular vertex1="stuff_PMT_2_v307" vertex2="stuff_PMT_2_v223" vertex3="stuff_PMT_2_v308"/>
+             <triangular vertex1="stuff_PMT_2_v308" vertex2="stuff_PMT_2_v223" vertex3="stuff_PMT_2_v222"/>
+             <triangular vertex1="stuff_PMT_2_v308" vertex2="stuff_PMT_2_v222" vertex3="stuff_PMT_2_v387"/>
+             <triangular vertex1="stuff_PMT_2_v387" vertex2="stuff_PMT_2_v222" vertex3="stuff_PMT_2_v220"/>
+             <triangular vertex1="stuff_PMT_2_v387" vertex2="stuff_PMT_2_v220" vertex3="stuff_PMT_2_v386"/>
+             <triangular vertex1="stuff_PMT_2_v386" vertex2="stuff_PMT_2_v220" vertex3="stuff_PMT_2_v219"/>
+             <triangular vertex1="stuff_PMT_2_v386" vertex2="stuff_PMT_2_v219" vertex3="stuff_PMT_2_v384"/>
+             <triangular vertex1="stuff_PMT_2_v384" vertex2="stuff_PMT_2_v219" vertex3="stuff_PMT_2_v214"/>
+             <triangular vertex1="stuff_PMT_2_v384" vertex2="stuff_PMT_2_v214" vertex3="stuff_PMT_2_v382"/>
+             <triangular vertex1="stuff_PMT_2_v382" vertex2="stuff_PMT_2_v214" vertex3="stuff_PMT_2_v213"/>
+             <triangular vertex1="stuff_PMT_2_v382" vertex2="stuff_PMT_2_v213" vertex3="stuff_PMT_2_v378"/>
+             <triangular vertex1="stuff_PMT_2_v378" vertex2="stuff_PMT_2_v213" vertex3="stuff_PMT_2_v65"/>
+             <triangular vertex1="stuff_PMT_2_v360" vertex2="stuff_PMT_2_v198" vertex3="stuff_PMT_2_v361"/>
+             <triangular vertex1="stuff_PMT_2_v361" vertex2="stuff_PMT_2_v198" vertex3="stuff_PMT_2_v197"/>
+             <triangular vertex1="stuff_PMT_2_v361" vertex2="stuff_PMT_2_v197" vertex3="stuff_PMT_2_v362"/>
+             <triangular vertex1="stuff_PMT_2_v362" vertex2="stuff_PMT_2_v197" vertex3="stuff_PMT_2_v196"/>
+             <triangular vertex1="stuff_PMT_2_v362" vertex2="stuff_PMT_2_v196" vertex3="stuff_PMT_2_v363"/>
+             <triangular vertex1="stuff_PMT_2_v363" vertex2="stuff_PMT_2_v196" vertex3="stuff_PMT_2_v195"/>
+             <triangular vertex1="stuff_PMT_2_v363" vertex2="stuff_PMT_2_v195" vertex3="stuff_PMT_2_v365"/>
+             <triangular vertex1="stuff_PMT_2_v365" vertex2="stuff_PMT_2_v195" vertex3="stuff_PMT_2_v191"/>
+             <triangular vertex1="stuff_PMT_2_v365" vertex2="stuff_PMT_2_v191" vertex3="stuff_PMT_2_v366"/>
+             <triangular vertex1="stuff_PMT_2_v366" vertex2="stuff_PMT_2_v191" vertex3="stuff_PMT_2_v190"/>
+             <triangular vertex1="stuff_PMT_2_v366" vertex2="stuff_PMT_2_v190" vertex3="stuff_PMT_2_v370"/>
+             <triangular vertex1="stuff_PMT_2_v370" vertex2="stuff_PMT_2_v190" vertex3="stuff_PMT_2_v204"/>
+             <triangular vertex1="stuff_PMT_2_v370" vertex2="stuff_PMT_2_v204" vertex3="stuff_PMT_2_v371"/>
+             <triangular vertex1="stuff_PMT_2_v371" vertex2="stuff_PMT_2_v204" vertex3="stuff_PMT_2_v203"/>
+             <triangular vertex1="stuff_PMT_2_v371" vertex2="stuff_PMT_2_v203" vertex3="stuff_PMT_2_v372"/>
+             <triangular vertex1="stuff_PMT_2_v372" vertex2="stuff_PMT_2_v203" vertex3="stuff_PMT_2_v201"/>
+             <triangular vertex1="stuff_PMT_2_v372" vertex2="stuff_PMT_2_v201" vertex3="stuff_PMT_2_v369"/>
+             <triangular vertex1="stuff_PMT_2_v369" vertex2="stuff_PMT_2_v201" vertex3="stuff_PMT_2_v200"/>
+             <triangular vertex1="stuff_PMT_2_v369" vertex2="stuff_PMT_2_v200" vertex3="stuff_PMT_2_v357"/>
+             <triangular vertex1="stuff_PMT_2_v357" vertex2="stuff_PMT_2_v200" vertex3="stuff_PMT_2_v194"/>
+             <triangular vertex1="stuff_PMT_2_v357" vertex2="stuff_PMT_2_v194" vertex3="stuff_PMT_2_v358"/>
+             <triangular vertex1="stuff_PMT_2_v358" vertex2="stuff_PMT_2_v194" vertex3="stuff_PMT_2_v199"/>
+             <triangular vertex1="stuff_PMT_2_v358" vertex2="stuff_PMT_2_v199" vertex3="stuff_PMT_2_v360"/>
+             <triangular vertex1="stuff_PMT_2_v360" vertex2="stuff_PMT_2_v199" vertex3="stuff_PMT_2_v198"/>
+             <triangular vertex1="stuff_PMT_2_v346" vertex2="stuff_PMT_2_v184" vertex3="stuff_PMT_2_v344"/>
+             <triangular vertex1="stuff_PMT_2_v344" vertex2="stuff_PMT_2_v184" vertex3="stuff_PMT_2_v176"/>
+             <triangular vertex1="stuff_PMT_2_v344" vertex2="stuff_PMT_2_v176" vertex3="stuff_PMT_2_v342"/>
+             <triangular vertex1="stuff_PMT_2_v342" vertex2="stuff_PMT_2_v176" vertex3="stuff_PMT_2_v183"/>
+             <triangular vertex1="stuff_PMT_2_v342" vertex2="stuff_PMT_2_v183" vertex3="stuff_PMT_2_v351"/>
+             <triangular vertex1="stuff_PMT_2_v351" vertex2="stuff_PMT_2_v183" vertex3="stuff_PMT_2_v182"/>
+             <triangular vertex1="stuff_PMT_2_v351" vertex2="stuff_PMT_2_v182" vertex3="stuff_PMT_2_v352"/>
+             <triangular vertex1="stuff_PMT_2_v352" vertex2="stuff_PMT_2_v182" vertex3="stuff_PMT_2_v181"/>
+             <triangular vertex1="stuff_PMT_2_v352" vertex2="stuff_PMT_2_v181" vertex3="stuff_PMT_2_v353"/>
+             <triangular vertex1="stuff_PMT_2_v353" vertex2="stuff_PMT_2_v181" vertex3="stuff_PMT_2_v175"/>
+             <triangular vertex1="stuff_PMT_2_v353" vertex2="stuff_PMT_2_v175" vertex3="stuff_PMT_2_v354"/>
+             <triangular vertex1="stuff_PMT_2_v354" vertex2="stuff_PMT_2_v175" vertex3="stuff_PMT_2_v174"/>
+             <triangular vertex1="stuff_PMT_2_v354" vertex2="stuff_PMT_2_v174" vertex3="stuff_PMT_2_v355"/>
+             <triangular vertex1="stuff_PMT_2_v355" vertex2="stuff_PMT_2_v174" vertex3="stuff_PMT_2_v180"/>
+             <triangular vertex1="stuff_PMT_2_v355" vertex2="stuff_PMT_2_v180" vertex3="stuff_PMT_2_v356"/>
+             <triangular vertex1="stuff_PMT_2_v356" vertex2="stuff_PMT_2_v180" vertex3="stuff_PMT_2_v189"/>
+             <triangular vertex1="stuff_PMT_2_v356" vertex2="stuff_PMT_2_v189" vertex3="stuff_PMT_2_v309"/>
+             <triangular vertex1="stuff_PMT_2_v309" vertex2="stuff_PMT_2_v189" vertex3="stuff_PMT_2_v188"/>
+             <triangular vertex1="stuff_PMT_2_v309" vertex2="stuff_PMT_2_v188" vertex3="stuff_PMT_2_v310"/>
+             <triangular vertex1="stuff_PMT_2_v310" vertex2="stuff_PMT_2_v188" vertex3="stuff_PMT_2_v187"/>
+             <triangular vertex1="stuff_PMT_2_v310" vertex2="stuff_PMT_2_v187" vertex3="stuff_PMT_2_v348"/>
+             <triangular vertex1="stuff_PMT_2_v348" vertex2="stuff_PMT_2_v187" vertex3="stuff_PMT_2_v185"/>
+             <triangular vertex1="stuff_PMT_2_v348" vertex2="stuff_PMT_2_v185" vertex3="stuff_PMT_2_v346"/>
+             <triangular vertex1="stuff_PMT_2_v346" vertex2="stuff_PMT_2_v185" vertex3="stuff_PMT_2_v184"/>
+             <triangular vertex1="stuff_PMT_2_v331" vertex2="stuff_PMT_2_v156" vertex3="stuff_PMT_2_v330"/>
+             <triangular vertex1="stuff_PMT_2_v330" vertex2="stuff_PMT_2_v156" vertex3="stuff_PMT_2_v162"/>
+             <triangular vertex1="stuff_PMT_2_v330" vertex2="stuff_PMT_2_v162" vertex3="stuff_PMT_2_v329"/>
+             <triangular vertex1="stuff_PMT_2_v329" vertex2="stuff_PMT_2_v162" vertex3="stuff_PMT_2_v164"/>
+             <triangular vertex1="stuff_PMT_2_v329" vertex2="stuff_PMT_2_v164" vertex3="stuff_PMT_2_v337"/>
+             <triangular vertex1="stuff_PMT_2_v337" vertex2="stuff_PMT_2_v164" vertex3="stuff_PMT_2_v167"/>
+             <triangular vertex1="stuff_PMT_2_v337" vertex2="stuff_PMT_2_v167" vertex3="stuff_PMT_2_v338"/>
+             <triangular vertex1="stuff_PMT_2_v338" vertex2="stuff_PMT_2_v167" vertex3="stuff_PMT_2_v166"/>
+             <triangular vertex1="stuff_PMT_2_v338" vertex2="stuff_PMT_2_v166" vertex3="stuff_PMT_2_v339"/>
+             <triangular vertex1="stuff_PMT_2_v339" vertex2="stuff_PMT_2_v166" vertex3="stuff_PMT_2_v165"/>
+             <triangular vertex1="stuff_PMT_2_v339" vertex2="stuff_PMT_2_v165" vertex3="stuff_PMT_2_v340"/>
+             <triangular vertex1="stuff_PMT_2_v340" vertex2="stuff_PMT_2_v165" vertex3="stuff_PMT_2_v161"/>
+             <triangular vertex1="stuff_PMT_2_v340" vertex2="stuff_PMT_2_v161" vertex3="stuff_PMT_2_v341"/>
+             <triangular vertex1="stuff_PMT_2_v341" vertex2="stuff_PMT_2_v161" vertex3="stuff_PMT_2_v155"/>
+             <triangular vertex1="stuff_PMT_2_v341" vertex2="stuff_PMT_2_v155" vertex3="stuff_PMT_2_v333"/>
+             <triangular vertex1="stuff_PMT_2_v333" vertex2="stuff_PMT_2_v155" vertex3="stuff_PMT_2_v154"/>
+             <triangular vertex1="stuff_PMT_2_v333" vertex2="stuff_PMT_2_v154" vertex3="stuff_PMT_2_v334"/>
+             <triangular vertex1="stuff_PMT_2_v334" vertex2="stuff_PMT_2_v154" vertex3="stuff_PMT_2_v160"/>
+             <triangular vertex1="stuff_PMT_2_v334" vertex2="stuff_PMT_2_v160" vertex3="stuff_PMT_2_v335"/>
+             <triangular vertex1="stuff_PMT_2_v335" vertex2="stuff_PMT_2_v160" vertex3="stuff_PMT_2_v159"/>
+             <triangular vertex1="stuff_PMT_2_v335" vertex2="stuff_PMT_2_v159" vertex3="stuff_PMT_2_v336"/>
+             <triangular vertex1="stuff_PMT_2_v336" vertex2="stuff_PMT_2_v159" vertex3="stuff_PMT_2_v157"/>
+             <triangular vertex1="stuff_PMT_2_v336" vertex2="stuff_PMT_2_v157" vertex3="stuff_PMT_2_v331"/>
+             <triangular vertex1="stuff_PMT_2_v331" vertex2="stuff_PMT_2_v157" vertex3="stuff_PMT_2_v156"/>
+             <triangular vertex1="stuff_PMT_2_v438" vertex2="stuff_PMT_2_v265" vertex3="stuff_PMT_2_v439"/>
+             <triangular vertex1="stuff_PMT_2_v439" vertex2="stuff_PMT_2_v265" vertex3="stuff_PMT_2_v264"/>
+             <triangular vertex1="stuff_PMT_2_v439" vertex2="stuff_PMT_2_v264" vertex3="stuff_PMT_2_v441"/>
+             <triangular vertex1="stuff_PMT_2_v441" vertex2="stuff_PMT_2_v264" vertex3="stuff_PMT_2_v263"/>
+             <triangular vertex1="stuff_PMT_2_v441" vertex2="stuff_PMT_2_v263" vertex3="stuff_PMT_2_v442"/>
+             <triangular vertex1="stuff_PMT_2_v442" vertex2="stuff_PMT_2_v263" vertex3="stuff_PMT_2_v139"/>
+             <triangular vertex1="stuff_PMT_2_v442" vertex2="stuff_PMT_2_v139" vertex3="stuff_PMT_2_v429"/>
+             <triangular vertex1="stuff_PMT_2_v429" vertex2="stuff_PMT_2_v139" vertex3="stuff_PMT_2_v273"/>
+             <triangular vertex1="stuff_PMT_2_v429" vertex2="stuff_PMT_2_v273" vertex3="stuff_PMT_2_v431"/>
+             <triangular vertex1="stuff_PMT_2_v431" vertex2="stuff_PMT_2_v273" vertex3="stuff_PMT_2_v272"/>
+             <triangular vertex1="stuff_PMT_2_v431" vertex2="stuff_PMT_2_v272" vertex3="stuff_PMT_2_v432"/>
+             <triangular vertex1="stuff_PMT_2_v432" vertex2="stuff_PMT_2_v272" vertex3="stuff_PMT_2_v271"/>
+             <triangular vertex1="stuff_PMT_2_v432" vertex2="stuff_PMT_2_v271" vertex3="stuff_PMT_2_v433"/>
+             <triangular vertex1="stuff_PMT_2_v433" vertex2="stuff_PMT_2_v271" vertex3="stuff_PMT_2_v270"/>
+             <triangular vertex1="stuff_PMT_2_v433" vertex2="stuff_PMT_2_v270" vertex3="stuff_PMT_2_v436"/>
+             <triangular vertex1="stuff_PMT_2_v436" vertex2="stuff_PMT_2_v270" vertex3="stuff_PMT_2_v269"/>
+             <triangular vertex1="stuff_PMT_2_v436" vertex2="stuff_PMT_2_v269" vertex3="stuff_PMT_2_v435"/>
+             <triangular vertex1="stuff_PMT_2_v435" vertex2="stuff_PMT_2_v269" vertex3="stuff_PMT_2_v268"/>
+             <triangular vertex1="stuff_PMT_2_v435" vertex2="stuff_PMT_2_v268" vertex3="stuff_PMT_2_v434"/>
+             <triangular vertex1="stuff_PMT_2_v434" vertex2="stuff_PMT_2_v268" vertex3="stuff_PMT_2_v267"/>
+             <triangular vertex1="stuff_PMT_2_v434" vertex2="stuff_PMT_2_v267" vertex3="stuff_PMT_2_v437"/>
+             <triangular vertex1="stuff_PMT_2_v437" vertex2="stuff_PMT_2_v267" vertex3="stuff_PMT_2_v266"/>
+             <triangular vertex1="stuff_PMT_2_v437" vertex2="stuff_PMT_2_v266" vertex3="stuff_PMT_2_v438"/>
+             <triangular vertex1="stuff_PMT_2_v438" vertex2="stuff_PMT_2_v266" vertex3="stuff_PMT_2_v265"/>
+             <triangular vertex1="stuff_PMT_2_v491" vertex2="stuff_PMT_2_v107" vertex3="stuff_PMT_2_v492"/>
+             <triangular vertex1="stuff_PMT_2_v492" vertex2="stuff_PMT_2_v107" vertex3="stuff_PMT_2_v102"/>
+             <triangular vertex1="stuff_PMT_2_v492" vertex2="stuff_PMT_2_v102" vertex3="stuff_PMT_2_v493"/>
+             <triangular vertex1="stuff_PMT_2_v493" vertex2="stuff_PMT_2_v102" vertex3="stuff_PMT_2_v101"/>
+             <triangular vertex1="stuff_PMT_2_v493" vertex2="stuff_PMT_2_v101" vertex3="stuff_PMT_2_v495"/>
+             <triangular vertex1="stuff_PMT_2_v495" vertex2="stuff_PMT_2_v101" vertex3="stuff_PMT_2_v100"/>
+             <triangular vertex1="stuff_PMT_2_v495" vertex2="stuff_PMT_2_v100" vertex3="stuff_PMT_2_v496"/>
+             <triangular vertex1="stuff_PMT_2_v496" vertex2="stuff_PMT_2_v100" vertex3="stuff_PMT_2_v114"/>
+             <triangular vertex1="stuff_PMT_2_v496" vertex2="stuff_PMT_2_v114" vertex3="stuff_PMT_2_v497"/>
+             <triangular vertex1="stuff_PMT_2_v497" vertex2="stuff_PMT_2_v114" vertex3="stuff_PMT_2_v117"/>
+             <triangular vertex1="stuff_PMT_2_v497" vertex2="stuff_PMT_2_v117" vertex3="stuff_PMT_2_v499"/>
+             <triangular vertex1="stuff_PMT_2_v499" vertex2="stuff_PMT_2_v117" vertex3="stuff_PMT_2_v116"/>
+             <triangular vertex1="stuff_PMT_2_v499" vertex2="stuff_PMT_2_v116" vertex3="stuff_PMT_2_v500"/>
+             <triangular vertex1="stuff_PMT_2_v500" vertex2="stuff_PMT_2_v116" vertex3="stuff_PMT_2_v115"/>
+             <triangular vertex1="stuff_PMT_2_v500" vertex2="stuff_PMT_2_v115" vertex3="stuff_PMT_2_v501"/>
+             <triangular vertex1="stuff_PMT_2_v501" vertex2="stuff_PMT_2_v115" vertex3="stuff_PMT_2_v111"/>
+             <triangular vertex1="stuff_PMT_2_v501" vertex2="stuff_PMT_2_v111" vertex3="stuff_PMT_2_v502"/>
+             <triangular vertex1="stuff_PMT_2_v502" vertex2="stuff_PMT_2_v111" vertex3="stuff_PMT_2_v110"/>
+             <triangular vertex1="stuff_PMT_2_v502" vertex2="stuff_PMT_2_v110" vertex3="stuff_PMT_2_v504"/>
+             <triangular vertex1="stuff_PMT_2_v504" vertex2="stuff_PMT_2_v110" vertex3="stuff_PMT_2_v109"/>
+             <triangular vertex1="stuff_PMT_2_v504" vertex2="stuff_PMT_2_v109" vertex3="stuff_PMT_2_v506"/>
+             <triangular vertex1="stuff_PMT_2_v506" vertex2="stuff_PMT_2_v109" vertex3="stuff_PMT_2_v108"/>
+             <triangular vertex1="stuff_PMT_2_v506" vertex2="stuff_PMT_2_v108" vertex3="stuff_PMT_2_v491"/>
+             <triangular vertex1="stuff_PMT_2_v491" vertex2="stuff_PMT_2_v108" vertex3="stuff_PMT_2_v107"/>
+             <triangular vertex1="stuff_PMT_2_v320" vertex2="stuff_PMT_2_v78" vertex3="stuff_PMT_2_v312"/>
+             <triangular vertex1="stuff_PMT_2_v312" vertex2="stuff_PMT_2_v78" vertex3="stuff_PMT_2_v86"/>
+             <triangular vertex1="stuff_PMT_2_v312" vertex2="stuff_PMT_2_v86" vertex3="stuff_PMT_2_v314"/>
+             <triangular vertex1="stuff_PMT_2_v314" vertex2="stuff_PMT_2_v86" vertex3="stuff_PMT_2_v87"/>
+             <triangular vertex1="stuff_PMT_2_v314" vertex2="stuff_PMT_2_v87" vertex3="stuff_PMT_2_v321"/>
+             <triangular vertex1="stuff_PMT_2_v321" vertex2="stuff_PMT_2_v87" vertex3="stuff_PMT_2_v88"/>
+             <triangular vertex1="stuff_PMT_2_v321" vertex2="stuff_PMT_2_v88" vertex3="stuff_PMT_2_v322"/>
+             <triangular vertex1="stuff_PMT_2_v322" vertex2="stuff_PMT_2_v88" vertex3="stuff_PMT_2_v90"/>
+             <triangular vertex1="stuff_PMT_2_v322" vertex2="stuff_PMT_2_v90" vertex3="stuff_PMT_2_v324"/>
+             <triangular vertex1="stuff_PMT_2_v324" vertex2="stuff_PMT_2_v90" vertex3="stuff_PMT_2_v92"/>
+             <triangular vertex1="stuff_PMT_2_v324" vertex2="stuff_PMT_2_v92" vertex3="stuff_PMT_2_v326"/>
+             <triangular vertex1="stuff_PMT_2_v326" vertex2="stuff_PMT_2_v92" vertex3="stuff_PMT_2_v93"/>
+             <triangular vertex1="stuff_PMT_2_v326" vertex2="stuff_PMT_2_v93" vertex3="stuff_PMT_2_v327"/>
+             <triangular vertex1="stuff_PMT_2_v327" vertex2="stuff_PMT_2_v93" vertex3="stuff_PMT_2_v85"/>
+             <triangular vertex1="stuff_PMT_2_v327" vertex2="stuff_PMT_2_v85" vertex3="stuff_PMT_2_v328"/>
+             <triangular vertex1="stuff_PMT_2_v328" vertex2="stuff_PMT_2_v85" vertex3="stuff_PMT_2_v84"/>
+             <triangular vertex1="stuff_PMT_2_v328" vertex2="stuff_PMT_2_v84" vertex3="stuff_PMT_2_v317"/>
+             <triangular vertex1="stuff_PMT_2_v317" vertex2="stuff_PMT_2_v84" vertex3="stuff_PMT_2_v95"/>
+             <triangular vertex1="stuff_PMT_2_v317" vertex2="stuff_PMT_2_v95" vertex3="stuff_PMT_2_v318"/>
+             <triangular vertex1="stuff_PMT_2_v318" vertex2="stuff_PMT_2_v95" vertex3="stuff_PMT_2_v81"/>
+             <triangular vertex1="stuff_PMT_2_v318" vertex2="stuff_PMT_2_v81" vertex3="stuff_PMT_2_v319"/>
+             <triangular vertex1="stuff_PMT_2_v319" vertex2="stuff_PMT_2_v81" vertex3="stuff_PMT_2_v79"/>
+             <triangular vertex1="stuff_PMT_2_v319" vertex2="stuff_PMT_2_v79" vertex3="stuff_PMT_2_v320"/>
+             <triangular vertex1="stuff_PMT_2_v320" vertex2="stuff_PMT_2_v79" vertex3="stuff_PMT_2_v78"/>
+             <triangular vertex1="stuff_PMT_2_v516" vertex2="stuff_PMT_2_v508" vertex3="stuff_PMT_2_v517"/>
+             <triangular vertex1="stuff_PMT_2_v517" vertex2="stuff_PMT_2_v508" vertex3="stuff_PMT_2_v507"/>
+             <triangular vertex1="stuff_PMT_2_v517" vertex2="stuff_PMT_2_v507" vertex3="stuff_PMT_2_v518"/>
+             <triangular vertex1="stuff_PMT_2_v518" vertex2="stuff_PMT_2_v507" vertex3="stuff_PMT_2_v503"/>
+             <triangular vertex1="stuff_PMT_2_v518" vertex2="stuff_PMT_2_v503" vertex3="stuff_PMT_2_v519"/>
+             <triangular vertex1="stuff_PMT_2_v519" vertex2="stuff_PMT_2_v503" vertex3="stuff_PMT_2_v505"/>
+             <triangular vertex1="stuff_PMT_2_v519" vertex2="stuff_PMT_2_v505" vertex3="stuff_PMT_2_v520"/>
+             <triangular vertex1="stuff_PMT_2_v520" vertex2="stuff_PMT_2_v505" vertex3="stuff_PMT_2_v510"/>
+             <triangular vertex1="stuff_PMT_2_v520" vertex2="stuff_PMT_2_v510" vertex3="stuff_PMT_2_v521"/>
+             <triangular vertex1="stuff_PMT_2_v521" vertex2="stuff_PMT_2_v510" vertex3="stuff_PMT_2_v485"/>
+             <triangular vertex1="stuff_PMT_2_v521" vertex2="stuff_PMT_2_v485" vertex3="stuff_PMT_2_v522"/>
+             <triangular vertex1="stuff_PMT_2_v522" vertex2="stuff_PMT_2_v485" vertex3="stuff_PMT_2_v488"/>
+             <triangular vertex1="stuff_PMT_2_v522" vertex2="stuff_PMT_2_v488" vertex3="stuff_PMT_2_v523"/>
+             <triangular vertex1="stuff_PMT_2_v523" vertex2="stuff_PMT_2_v488" vertex3="stuff_PMT_2_v490"/>
+             <triangular vertex1="stuff_PMT_2_v523" vertex2="stuff_PMT_2_v490" vertex3="stuff_PMT_2_v524"/>
+             <triangular vertex1="stuff_PMT_2_v524" vertex2="stuff_PMT_2_v490" vertex3="stuff_PMT_2_v512"/>
+             <triangular vertex1="stuff_PMT_2_v524" vertex2="stuff_PMT_2_v512" vertex3="stuff_PMT_2_v525"/>
+             <triangular vertex1="stuff_PMT_2_v525" vertex2="stuff_PMT_2_v512" vertex3="stuff_PMT_2_v511"/>
+             <triangular vertex1="stuff_PMT_2_v525" vertex2="stuff_PMT_2_v511" vertex3="stuff_PMT_2_v526"/>
+             <triangular vertex1="stuff_PMT_2_v526" vertex2="stuff_PMT_2_v511" vertex3="stuff_PMT_2_v472"/>
+             <triangular vertex1="stuff_PMT_2_v526" vertex2="stuff_PMT_2_v472" vertex3="stuff_PMT_2_v527"/>
+             <triangular vertex1="stuff_PMT_2_v527" vertex2="stuff_PMT_2_v472" vertex3="stuff_PMT_2_v474"/>
+             <triangular vertex1="stuff_PMT_2_v527" vertex2="stuff_PMT_2_v474" vertex3="stuff_PMT_2_v528"/>
+             <triangular vertex1="stuff_PMT_2_v528" vertex2="stuff_PMT_2_v474" vertex3="stuff_PMT_2_v283"/>
+             <triangular vertex1="stuff_PMT_2_v528" vertex2="stuff_PMT_2_v283" vertex3="stuff_PMT_2_v529"/>
+             <triangular vertex1="stuff_PMT_2_v529" vertex2="stuff_PMT_2_v283" vertex3="stuff_PMT_2_v285"/>
+             <triangular vertex1="stuff_PMT_2_v529" vertex2="stuff_PMT_2_v285" vertex3="stuff_PMT_2_v530"/>
+             <triangular vertex1="stuff_PMT_2_v530" vertex2="stuff_PMT_2_v285" vertex3="stuff_PMT_2_v332"/>
+             <triangular vertex1="stuff_PMT_2_v530" vertex2="stuff_PMT_2_v332" vertex3="stuff_PMT_2_v531"/>
+             <triangular vertex1="stuff_PMT_2_v531" vertex2="stuff_PMT_2_v332" vertex3="stuff_PMT_2_v281"/>
+             <triangular vertex1="stuff_PMT_2_v531" vertex2="stuff_PMT_2_v281" vertex3="stuff_PMT_2_v532"/>
+             <triangular vertex1="stuff_PMT_2_v532" vertex2="stuff_PMT_2_v281" vertex3="stuff_PMT_2_v280"/>
+             <triangular vertex1="stuff_PMT_2_v532" vertex2="stuff_PMT_2_v280" vertex3="stuff_PMT_2_v533"/>
+             <triangular vertex1="stuff_PMT_2_v533" vertex2="stuff_PMT_2_v280" vertex3="stuff_PMT_2_v513"/>
+             <triangular vertex1="stuff_PMT_2_v533" vertex2="stuff_PMT_2_v513" vertex3="stuff_PMT_2_v534"/>
+             <triangular vertex1="stuff_PMT_2_v534" vertex2="stuff_PMT_2_v513" vertex3="stuff_PMT_2_v350"/>
+             <triangular vertex1="stuff_PMT_2_v534" vertex2="stuff_PMT_2_v350" vertex3="stuff_PMT_2_v535"/>
+             <triangular vertex1="stuff_PMT_2_v535" vertex2="stuff_PMT_2_v350" vertex3="stuff_PMT_2_v349"/>
+             <triangular vertex1="stuff_PMT_2_v535" vertex2="stuff_PMT_2_v349" vertex3="stuff_PMT_2_v536"/>
+             <triangular vertex1="stuff_PMT_2_v536" vertex2="stuff_PMT_2_v349" vertex3="stuff_PMT_2_v277"/>
+             <triangular vertex1="stuff_PMT_2_v536" vertex2="stuff_PMT_2_v277" vertex3="stuff_PMT_2_v537"/>
+             <triangular vertex1="stuff_PMT_2_v537" vertex2="stuff_PMT_2_v277" vertex3="stuff_PMT_2_v279"/>
+             <triangular vertex1="stuff_PMT_2_v537" vertex2="stuff_PMT_2_v279" vertex3="stuff_PMT_2_v538"/>
+             <triangular vertex1="stuff_PMT_2_v538" vertex2="stuff_PMT_2_v279" vertex3="stuff_PMT_2_v364"/>
+             <triangular vertex1="stuff_PMT_2_v538" vertex2="stuff_PMT_2_v364" vertex3="stuff_PMT_2_v539"/>
+             <triangular vertex1="stuff_PMT_2_v539" vertex2="stuff_PMT_2_v364" vertex3="stuff_PMT_2_v275"/>
+             <triangular vertex1="stuff_PMT_2_v539" vertex2="stuff_PMT_2_v275" vertex3="stuff_PMT_2_v540"/>
+             <triangular vertex1="stuff_PMT_2_v540" vertex2="stuff_PMT_2_v275" vertex3="stuff_PMT_2_v274"/>
+             <triangular vertex1="stuff_PMT_2_v540" vertex2="stuff_PMT_2_v274" vertex3="stuff_PMT_2_v541"/>
+             <triangular vertex1="stuff_PMT_2_v541" vertex2="stuff_PMT_2_v274" vertex3="stuff_PMT_2_v514"/>
+             <triangular vertex1="stuff_PMT_2_v541" vertex2="stuff_PMT_2_v514" vertex3="stuff_PMT_2_v542"/>
+             <triangular vertex1="stuff_PMT_2_v542" vertex2="stuff_PMT_2_v514" vertex3="stuff_PMT_2_v377"/>
+             <triangular vertex1="stuff_PMT_2_v542" vertex2="stuff_PMT_2_v377" vertex3="stuff_PMT_2_v543"/>
+             <triangular vertex1="stuff_PMT_2_v543" vertex2="stuff_PMT_2_v377" vertex3="stuff_PMT_2_v376"/>
+             <triangular vertex1="stuff_PMT_2_v543" vertex2="stuff_PMT_2_v376" vertex3="stuff_PMT_2_v544"/>
+             <triangular vertex1="stuff_PMT_2_v544" vertex2="stuff_PMT_2_v376" vertex3="stuff_PMT_2_v381"/>
+             <triangular vertex1="stuff_PMT_2_v544" vertex2="stuff_PMT_2_v381" vertex3="stuff_PMT_2_v545"/>
+             <triangular vertex1="stuff_PMT_2_v545" vertex2="stuff_PMT_2_v381" vertex3="stuff_PMT_2_v515"/>
+             <triangular vertex1="stuff_PMT_2_v545" vertex2="stuff_PMT_2_v515" vertex3="stuff_PMT_2_v546"/>
+             <triangular vertex1="stuff_PMT_2_v546" vertex2="stuff_PMT_2_v515" vertex3="stuff_PMT_2_v311"/>
+             <triangular vertex1="stuff_PMT_2_v546" vertex2="stuff_PMT_2_v311" vertex3="stuff_PMT_2_v547"/>
+             <triangular vertex1="stuff_PMT_2_v547" vertex2="stuff_PMT_2_v311" vertex3="stuff_PMT_2_v313"/>
+             <triangular vertex1="stuff_PMT_2_v547" vertex2="stuff_PMT_2_v313" vertex3="stuff_PMT_2_v548"/>
+             <triangular vertex1="stuff_PMT_2_v548" vertex2="stuff_PMT_2_v313" vertex3="stuff_PMT_2_v509"/>
+             <triangular vertex1="stuff_PMT_2_v548" vertex2="stuff_PMT_2_v509" vertex3="stuff_PMT_2_v516"/>
+             <triangular vertex1="stuff_PMT_2_v516" vertex2="stuff_PMT_2_v509" vertex3="stuff_PMT_2_v508"/>
+             <triangular vertex1="stuff_PMT_2_v531" vertex2="stuff_PMT_2_v532" vertex3="stuff_PMT_2_v0"/>
+             <triangular vertex1="stuff_PMT_2_v0" vertex2="stuff_PMT_2_v532" vertex3="stuff_PMT_2_v533"/>
+             <triangular vertex1="stuff_PMT_2_v0" vertex2="stuff_PMT_2_v533" vertex3="stuff_PMT_2_v62"/>
+             <triangular vertex1="stuff_PMT_2_v62" vertex2="stuff_PMT_2_v533" vertex3="stuff_PMT_2_v534"/>
+             <triangular vertex1="stuff_PMT_2_v62" vertex2="stuff_PMT_2_v534" vertex3="stuff_PMT_2_v60"/>
+             <triangular vertex1="stuff_PMT_2_v60" vertex2="stuff_PMT_2_v534" vertex3="stuff_PMT_2_v535"/>
+             <triangular vertex1="stuff_PMT_2_v60" vertex2="stuff_PMT_2_v535" vertex3="stuff_PMT_2_v58"/>
+             <triangular vertex1="stuff_PMT_2_v58" vertex2="stuff_PMT_2_v535" vertex3="stuff_PMT_2_v536"/>
+             <triangular vertex1="stuff_PMT_2_v58" vertex2="stuff_PMT_2_v536" vertex3="stuff_PMT_2_v56"/>
+             <triangular vertex1="stuff_PMT_2_v56" vertex2="stuff_PMT_2_v536" vertex3="stuff_PMT_2_v537"/>
+             <triangular vertex1="stuff_PMT_2_v56" vertex2="stuff_PMT_2_v537" vertex3="stuff_PMT_2_v54"/>
+             <triangular vertex1="stuff_PMT_2_v54" vertex2="stuff_PMT_2_v537" vertex3="stuff_PMT_2_v538"/>
+             <triangular vertex1="stuff_PMT_2_v54" vertex2="stuff_PMT_2_v538" vertex3="stuff_PMT_2_v52"/>
+             <triangular vertex1="stuff_PMT_2_v52" vertex2="stuff_PMT_2_v538" vertex3="stuff_PMT_2_v539"/>
+             <triangular vertex1="stuff_PMT_2_v52" vertex2="stuff_PMT_2_v539" vertex3="stuff_PMT_2_v50"/>
+             <triangular vertex1="stuff_PMT_2_v50" vertex2="stuff_PMT_2_v539" vertex3="stuff_PMT_2_v540"/>
+             <triangular vertex1="stuff_PMT_2_v50" vertex2="stuff_PMT_2_v540" vertex3="stuff_PMT_2_v48"/>
+             <triangular vertex1="stuff_PMT_2_v48" vertex2="stuff_PMT_2_v540" vertex3="stuff_PMT_2_v541"/>
+             <triangular vertex1="stuff_PMT_2_v48" vertex2="stuff_PMT_2_v541" vertex3="stuff_PMT_2_v46"/>
+             <triangular vertex1="stuff_PMT_2_v46" vertex2="stuff_PMT_2_v541" vertex3="stuff_PMT_2_v542"/>
+             <triangular vertex1="stuff_PMT_2_v46" vertex2="stuff_PMT_2_v542" vertex3="stuff_PMT_2_v44"/>
+             <triangular vertex1="stuff_PMT_2_v44" vertex2="stuff_PMT_2_v542" vertex3="stuff_PMT_2_v543"/>
+             <triangular vertex1="stuff_PMT_2_v44" vertex2="stuff_PMT_2_v543" vertex3="stuff_PMT_2_v42"/>
+             <triangular vertex1="stuff_PMT_2_v42" vertex2="stuff_PMT_2_v543" vertex3="stuff_PMT_2_v544"/>
+             <triangular vertex1="stuff_PMT_2_v42" vertex2="stuff_PMT_2_v544" vertex3="stuff_PMT_2_v40"/>
+             <triangular vertex1="stuff_PMT_2_v40" vertex2="stuff_PMT_2_v544" vertex3="stuff_PMT_2_v545"/>
+             <triangular vertex1="stuff_PMT_2_v40" vertex2="stuff_PMT_2_v545" vertex3="stuff_PMT_2_v38"/>
+             <triangular vertex1="stuff_PMT_2_v38" vertex2="stuff_PMT_2_v545" vertex3="stuff_PMT_2_v546"/>
+             <triangular vertex1="stuff_PMT_2_v38" vertex2="stuff_PMT_2_v546" vertex3="stuff_PMT_2_v36"/>
+             <triangular vertex1="stuff_PMT_2_v36" vertex2="stuff_PMT_2_v546" vertex3="stuff_PMT_2_v547"/>
+             <triangular vertex1="stuff_PMT_2_v36" vertex2="stuff_PMT_2_v547" vertex3="stuff_PMT_2_v34"/>
+             <triangular vertex1="stuff_PMT_2_v34" vertex2="stuff_PMT_2_v547" vertex3="stuff_PMT_2_v548"/>
+             <triangular vertex1="stuff_PMT_2_v34" vertex2="stuff_PMT_2_v548" vertex3="stuff_PMT_2_v32"/>
+             <triangular vertex1="stuff_PMT_2_v32" vertex2="stuff_PMT_2_v548" vertex3="stuff_PMT_2_v516"/>
+             <triangular vertex1="stuff_PMT_2_v32" vertex2="stuff_PMT_2_v516" vertex3="stuff_PMT_2_v30"/>
+             <triangular vertex1="stuff_PMT_2_v30" vertex2="stuff_PMT_2_v516" vertex3="stuff_PMT_2_v517"/>
+             <triangular vertex1="stuff_PMT_2_v30" vertex2="stuff_PMT_2_v517" vertex3="stuff_PMT_2_v28"/>
+             <triangular vertex1="stuff_PMT_2_v28" vertex2="stuff_PMT_2_v517" vertex3="stuff_PMT_2_v518"/>
+             <triangular vertex1="stuff_PMT_2_v28" vertex2="stuff_PMT_2_v518" vertex3="stuff_PMT_2_v26"/>
+             <triangular vertex1="stuff_PMT_2_v26" vertex2="stuff_PMT_2_v518" vertex3="stuff_PMT_2_v519"/>
+             <triangular vertex1="stuff_PMT_2_v26" vertex2="stuff_PMT_2_v519" vertex3="stuff_PMT_2_v24"/>
+             <triangular vertex1="stuff_PMT_2_v24" vertex2="stuff_PMT_2_v519" vertex3="stuff_PMT_2_v520"/>
+             <triangular vertex1="stuff_PMT_2_v24" vertex2="stuff_PMT_2_v520" vertex3="stuff_PMT_2_v22"/>
+             <triangular vertex1="stuff_PMT_2_v22" vertex2="stuff_PMT_2_v520" vertex3="stuff_PMT_2_v521"/>
+             <triangular vertex1="stuff_PMT_2_v22" vertex2="stuff_PMT_2_v521" vertex3="stuff_PMT_2_v20"/>
+             <triangular vertex1="stuff_PMT_2_v20" vertex2="stuff_PMT_2_v521" vertex3="stuff_PMT_2_v522"/>
+             <triangular vertex1="stuff_PMT_2_v20" vertex2="stuff_PMT_2_v522" vertex3="stuff_PMT_2_v18"/>
+             <triangular vertex1="stuff_PMT_2_v18" vertex2="stuff_PMT_2_v522" vertex3="stuff_PMT_2_v523"/>
+             <triangular vertex1="stuff_PMT_2_v18" vertex2="stuff_PMT_2_v523" vertex3="stuff_PMT_2_v16"/>
+             <triangular vertex1="stuff_PMT_2_v16" vertex2="stuff_PMT_2_v523" vertex3="stuff_PMT_2_v524"/>
+             <triangular vertex1="stuff_PMT_2_v16" vertex2="stuff_PMT_2_v524" vertex3="stuff_PMT_2_v14"/>
+             <triangular vertex1="stuff_PMT_2_v14" vertex2="stuff_PMT_2_v524" vertex3="stuff_PMT_2_v525"/>
+             <triangular vertex1="stuff_PMT_2_v14" vertex2="stuff_PMT_2_v525" vertex3="stuff_PMT_2_v12"/>
+             <triangular vertex1="stuff_PMT_2_v12" vertex2="stuff_PMT_2_v525" vertex3="stuff_PMT_2_v526"/>
+             <triangular vertex1="stuff_PMT_2_v12" vertex2="stuff_PMT_2_v526" vertex3="stuff_PMT_2_v10"/>
+             <triangular vertex1="stuff_PMT_2_v10" vertex2="stuff_PMT_2_v526" vertex3="stuff_PMT_2_v527"/>
+             <triangular vertex1="stuff_PMT_2_v10" vertex2="stuff_PMT_2_v527" vertex3="stuff_PMT_2_v8"/>
+             <triangular vertex1="stuff_PMT_2_v8" vertex2="stuff_PMT_2_v527" vertex3="stuff_PMT_2_v528"/>
+             <triangular vertex1="stuff_PMT_2_v8" vertex2="stuff_PMT_2_v528" vertex3="stuff_PMT_2_v6"/>
+             <triangular vertex1="stuff_PMT_2_v6" vertex2="stuff_PMT_2_v528" vertex3="stuff_PMT_2_v529"/>
+             <triangular vertex1="stuff_PMT_2_v6" vertex2="stuff_PMT_2_v529" vertex3="stuff_PMT_2_v4"/>
+             <triangular vertex1="stuff_PMT_2_v4" vertex2="stuff_PMT_2_v529" vertex3="stuff_PMT_2_v530"/>
+             <triangular vertex1="stuff_PMT_2_v4" vertex2="stuff_PMT_2_v530" vertex3="stuff_PMT_2_v2"/>
+             <triangular vertex1="stuff_PMT_2_v2" vertex2="stuff_PMT_2_v530" vertex3="stuff_PMT_2_v531"/>
+             <triangular vertex1="stuff_PMT_2_v2" vertex2="stuff_PMT_2_v531" vertex3="stuff_PMT_2_v0"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="stuff_PMT_2">
+            <materialref ref="PMT"/>
+            <solidref ref="stuff_PMT_2-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="stuff_PMT_2"/>
+    </setup>
+</gdml>

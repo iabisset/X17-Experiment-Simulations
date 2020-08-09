@@ -1,0 +1,1 @@
+This directory contains a modified version of the coincidence simulation which loads the detailed geometry files converted to GDML from Solidworks. The geometry files are in the build directory. Note that the size and number of components greatly increase the time it takes to initialize this simulation. An image of the apparatus is found in the report.

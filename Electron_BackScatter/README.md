@@ -1,0 +1,1 @@
+This folder contains the backscatter simulation code as well as the mathematica file used to process the data. Data files obtained from the simulation for CsI and Polystyrene are given and can be processed using the mathematica file.

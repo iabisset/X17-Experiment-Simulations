@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="next_Q235_21_v0" unit="mm" x="268.8549" y="240.0312" z="16.44618"/>
+        <position name="next_Q235_21_v1" unit="mm" x="272.311" y="242.5675" z="16.44618"/>
+        <position name="next_Q235_21_v2" unit="mm" x="268.4393" y="244.9033" z="16.44618"/>
+        <position name="next_Q235_21_v3" unit="mm" x="271.4853" y="247.7135" z="16.44618"/>
+        <position name="next_Q235_21_v4" unit="mm" x="267.2064" y="249.635" z="16.44618"/>
+        <position name="next_Q235_21_v5" unit="mm" x="269.8447" y="252.6604" z="16.44618"/>
+        <position name="next_Q235_21_v6" unit="mm" x="265.1914" y="254.0903" z="16.44618"/>
+        <position name="next_Q235_21_v7" unit="mm" x="267.4318" y="257.28" z="16.44618"/>
+        <position name="next_Q235_21_v8" unit="mm" x="262.4526" y="258.141" z="16.44618"/>
+        <position name="next_Q235_21_v9" unit="mm" x="264.3092" y="261.4528" z="16.44618"/>
+        <position name="next_Q235_21_v10" unit="mm" x="259.0685" y="261.6706" z="16.44618"/>
+        <position name="next_Q235_21_v11" unit="mm" x="260.5576" y="265.0706" z="16.44618"/>
+        <position name="next_Q235_21_v12" unit="mm" x="255.1366" y="264.5774" z="16.44618"/>
+        <position name="next_Q235_21_v13" unit="mm" x="256.2743" y="268.0398" z="16.44618"/>
+        <position name="next_Q235_21_v14" unit="mm" x="250.7701" y="266.778" z="16.44618"/>
+        <position name="next_Q235_21_v15" unit="mm" x="251.5701" y="270.2835" z="16.44618"/>
+        <position name="next_Q235_21_v16" unit="mm" x="246.0944" y="268.209" z="16.44618"/>
+        <position name="next_Q235_21_v17" unit="mm" x="246.567" y="271.7435" z="16.44618"/>
+        <position name="next_Q235_21_v18" unit="mm" x="241.2441" y="268.8292" z="16.44618"/>
+        <position name="next_Q235_21_v19" unit="mm" x="241.3944" y="272.382" z="16.44618"/>
+        <position name="next_Q235_21_v20" unit="mm" x="236.3588" y="268.6207" z="16.44618"/>
+        <position name="next_Q235_21_v21" unit="mm" x="236.1864" y="272.1825" z="16.44618"/>
+        <position name="next_Q235_21_v22" unit="mm" x="231.579" y="267.5897" z="16.44618"/>
+        <position name="next_Q235_21_v23" unit="mm" x="231.0778" y="271.1502" z="16.44618"/>
+        <position name="next_Q235_21_v24" unit="mm" x="227.0422" y="265.7657" z="16.44618"/>
+        <position name="next_Q235_21_v25" unit="mm" x="226.201" y="269.3118" z="16.44618"/>
+        <position name="next_Q235_21_v26" unit="mm" x="222.879" y="263.2012" z="16.44618"/>
+        <position name="next_Q235_21_v27" unit="mm" x="221.6823" y="266.7149" z="16.44618"/>
+        <position name="next_Q235_21_v28" unit="mm" x="219.209" y="259.97" z="16.44618"/>
+        <position name="next_Q235_21_v29" unit="mm" x="217.6386" y="263.4267" z="16.44618"/>
+        <position name="next_Q235_21_v30" unit="mm" x="216.1378" y="256.165" z="16.44618"/>
+        <position name="next_Q235_21_v31" unit="mm" x="214.1748" y="259.5325" z="16.44618"/>
+        <position name="next_Q235_21_v32" unit="mm" x="213.7539" y="251.8958" z="16.44618"/>
+        <position name="next_Q235_21_v33" unit="mm" x="211.3805" y="255.1331" z="16.44618"/>
+        <position name="next_Q235_21_v34" unit="mm" x="212.1258" y="247.285" z="16.44618"/>
+        <position name="next_Q235_21_v35" unit="mm" x="209.3281" y="250.3424" z="16.44618"/>
+        <position name="next_Q235_21_v36" unit="mm" x="211.3003" y="242.4655" z="16.44618"/>
+        <position name="next_Q235_21_v37" unit="mm" x="208.0707" y="245.2845" z="16.44618"/>
+        <position name="next_Q235_21_v38" unit="mm" x="207.641" y="240.0904" z="16.44618"/>
+        <position name="next_Q235_21_v39" unit="mm" x="211.3012" y="237.5757" z="16.44618"/>
+        <position name="next_Q235_21_v40" unit="mm" x="208.05" y="234.8947" z="16.44618"/>
+        <position name="next_Q235_21_v41" unit="mm" x="212.1285" y="232.7565" z="16.44618"/>
+        <position name="next_Q235_21_v42" unit="mm" x="209.2872" y="229.8319" z="16.44618"/>
+        <position name="next_Q235_21_v43" unit="mm" x="213.7583" y="228.1464" z="16.44618"/>
+        <position name="next_Q235_21_v44" unit="mm" x="211.3205" y="225.033" z="16.44618"/>
+        <position name="next_Q235_21_v45" unit="mm" x="216.1438" y="223.878" z="16.44618"/>
+        <position name="next_Q235_21_v46" unit="mm" x="214.0973" y="220.6225" z="16.44618"/>
+        <position name="next_Q235_21_v47" unit="mm" x="219.2163" y="220.0742" z="16.44618"/>
+        <position name="next_Q235_21_v48" unit="mm" x="217.5456" y="216.7145" z="16.44618"/>
+        <position name="next_Q235_21_v49" unit="mm" x="222.8875" y="216.8443" z="16.44618"/>
+        <position name="next_Q235_21_v50" unit="mm" x="221.5761" y="213.4103" z="16.44618"/>
+        <position name="next_Q235_21_v51" unit="mm" x="227.0518" y="214.2814" z="16.44618"/>
+        <position name="next_Q235_21_v52" unit="mm" x="226.0844" y="210.7954" z="16.44618"/>
+        <position name="next_Q235_21_v53" unit="mm" x="231.5892" y="212.459" z="16.44618"/>
+        <position name="next_Q235_21_v54" unit="mm" x="230.9539" y="208.9376" z="16.44618"/>
+        <position name="next_Q235_21_v55" unit="mm" x="236.3694" y="211.4297" z="16.44618"/>
+        <position name="next_Q235_21_v56" unit="mm" x="236.0583" y="207.8849" z="16.44618"/>
+        <position name="next_Q235_21_v57" unit="mm" x="238.8077" y="211.2227" z="16.44618"/>
+        <position name="next_Q235_21_v58" unit="mm" x="238.6574" y="207.6699" z="16.44618"/>
+        <position name="next_Q235_21_v59" unit="mm" x="241.2548" y="211.2231" z="16.44618"/>
+        <position name="next_Q235_21_v60" unit="mm" x="241.2655" y="207.6647" z="16.44618"/>
+        <position name="next_Q235_21_v61" unit="mm" x="246.1048" y="211.8451" z="16.44618"/>
+        <position name="next_Q235_21_v62" unit="mm" x="246.4405" y="208.2826" z="16.44618"/>
+        <position name="next_Q235_21_v63" unit="mm" x="250.7799" y="213.2778" z="16.44618"/>
+        <position name="next_Q235_21_v64" unit="mm" x="251.4494" y="209.7226" z="16.44618"/>
+        <position name="next_Q235_21_v65" unit="mm" x="255.1457" y="215.48" z="16.44618"/>
+        <position name="next_Q235_21_v66" unit="mm" x="256.1625" y="211.9475" z="16.44618"/>
+        <position name="next_Q235_21_v67" unit="mm" x="259.0765" y="218.3883" z="16.44618"/>
+        <position name="next_Q235_21_v68" unit="mm" x="260.4576" y="214.8996" z="16.44618"/>
+        <position name="next_Q235_21_v69" unit="mm" x="262.4593" y="221.9191" z="16.44618"/>
+        <position name="next_Q235_21_v70" unit="mm" x="264.2236" y="218.5024" z="16.44618"/>
+        <position name="next_Q235_21_v71" unit="mm" x="265.1966" y="225.9708" z="16.44618"/>
+        <position name="next_Q235_21_v72" unit="mm" x="267.3629" y="222.6627" z="16.44618"/>
+        <position name="next_Q235_21_v73" unit="mm" x="267.2099" y="230.4269" z="16.44618"/>
+        <position name="next_Q235_21_v74" unit="mm" x="269.7941" y="227.2727" z="16.44618"/>
+        <position name="next_Q235_21_v75" unit="mm" x="268.4411" y="235.159" z="16.44618"/>
+        <position name="next_Q235_21_v76" unit="mm" x="271.4544" y="232.2131" z="16.44618"/>
+        <position name="next_Q235_21_v77" unit="mm" x="272.3007" y="237.3557" z="16.44618"/>
+        <position name="next_Q235_21_v78" unit="mm" x="211.3003" y="242.4655" z="15.17618"/>
+        <position name="next_Q235_21_v79" unit="mm" x="208.0707" y="245.2845" z="15.17618"/>
+        <position name="next_Q235_21_v80" unit="mm" x="212.1258" y="247.285" z="15.17618"/>
+        <position name="next_Q235_21_v81" unit="mm" x="209.3281" y="250.3424" z="15.17618"/>
+        <position name="next_Q235_21_v82" unit="mm" x="213.7539" y="251.8958" z="15.17618"/>
+        <position name="next_Q235_21_v83" unit="mm" x="211.3805" y="255.1331" z="15.17618"/>
+        <position name="next_Q235_21_v84" unit="mm" x="216.1378" y="256.165" z="15.17618"/>
+        <position name="next_Q235_21_v85" unit="mm" x="214.1748" y="259.5325" z="15.17618"/>
+        <position name="next_Q235_21_v86" unit="mm" x="219.209" y="259.97" z="15.17618"/>
+        <position name="next_Q235_21_v87" unit="mm" x="217.6386" y="263.4267" z="15.17618"/>
+        <position name="next_Q235_21_v88" unit="mm" x="222.879" y="263.2012" z="15.17618"/>
+        <position name="next_Q235_21_v89" unit="mm" x="221.6823" y="266.7149" z="15.17618"/>
+        <position name="next_Q235_21_v90" unit="mm" x="227.0422" y="265.7657" z="15.17618"/>
+        <position name="next_Q235_21_v91" unit="mm" x="226.201" y="269.3118" z="15.17618"/>
+        <position name="next_Q235_21_v92" unit="mm" x="231.579" y="267.5897" z="15.17618"/>
+        <position name="next_Q235_21_v93" unit="mm" x="231.0778" y="271.1502" z="15.17618"/>
+        <position name="next_Q235_21_v94" unit="mm" x="236.3588" y="268.6207" z="15.17618"/>
+        <position name="next_Q235_21_v95" unit="mm" x="236.1864" y="272.1825" z="15.17618"/>
+        <position name="next_Q235_21_v96" unit="mm" x="241.2441" y="268.8292" z="15.17618"/>
+        <position name="next_Q235_21_v97" unit="mm" x="241.3944" y="272.382" z="15.17618"/>
+        <position name="next_Q235_21_v98" unit="mm" x="246.0944" y="268.209" z="15.17618"/>
+        <position name="next_Q235_21_v99" unit="mm" x="246.567" y="271.7435" z="15.17618"/>
+        <position name="next_Q235_21_v100" unit="mm" x="250.7701" y="266.778" z="15.17618"/>
+        <position name="next_Q235_21_v101" unit="mm" x="251.5701" y="270.2835" z="15.17618"/>
+        <position name="next_Q235_21_v102" unit="mm" x="255.1366" y="264.5774" z="15.17618"/>
+        <position name="next_Q235_21_v103" unit="mm" x="256.2743" y="268.0398" z="15.17618"/>
+        <position name="next_Q235_21_v104" unit="mm" x="259.0685" y="261.6706" z="15.17618"/>
+        <position name="next_Q235_21_v105" unit="mm" x="260.5576" y="265.0706" z="15.17618"/>
+        <position name="next_Q235_21_v106" unit="mm" x="262.4526" y="258.141" z="15.17618"/>
+        <position name="next_Q235_21_v107" unit="mm" x="264.3092" y="261.4528" z="15.17618"/>
+        <position name="next_Q235_21_v108" unit="mm" x="265.1914" y="254.0903" z="15.17618"/>
+        <position name="next_Q235_21_v109" unit="mm" x="267.4318" y="257.28" z="15.17618"/>
+        <position name="next_Q235_21_v110" unit="mm" x="267.2064" y="249.635" z="15.17618"/>
+        <position name="next_Q235_21_v111" unit="mm" x="269.8447" y="252.6604" z="15.17618"/>
+        <position name="next_Q235_21_v112" unit="mm" x="268.4393" y="244.9033" z="15.17618"/>
+        <position name="next_Q235_21_v113" unit="mm" x="271.4853" y="247.7135" z="15.17618"/>
+        <position name="next_Q235_21_v114" unit="mm" x="268.8549" y="240.0312" z="15.17618"/>
+        <position name="next_Q235_21_v115" unit="mm" x="272.311" y="242.5675" z="15.17618"/>
+        <position name="next_Q235_21_v116" unit="mm" x="272.3007" y="237.3557" z="15.17618"/>
+        <position name="next_Q235_21_v117" unit="mm" x="268.4411" y="235.159" z="15.17618"/>
+        <position name="next_Q235_21_v118" unit="mm" x="271.4544" y="232.2131" z="15.17618"/>
+        <position name="next_Q235_21_v119" unit="mm" x="267.2099" y="230.4269" z="15.17618"/>
+        <position name="next_Q235_21_v120" unit="mm" x="269.7941" y="227.2727" z="15.17618"/>
+        <position name="next_Q235_21_v121" unit="mm" x="265.1966" y="225.9708" z="15.17618"/>
+        <position name="next_Q235_21_v122" unit="mm" x="267.3629" y="222.6627" z="15.17618"/>
+        <position name="next_Q235_21_v123" unit="mm" x="262.4593" y="221.9191" z="15.17618"/>
+        <position name="next_Q235_21_v124" unit="mm" x="264.2236" y="218.5024" z="15.17618"/>
+        <position name="next_Q235_21_v125" unit="mm" x="259.0765" y="218.3883" z="15.17618"/>
+        <position name="next_Q235_21_v126" unit="mm" x="260.4576" y="214.8996" z="15.17618"/>
+        <position name="next_Q235_21_v127" unit="mm" x="255.1457" y="215.48" z="15.17618"/>
+        <position name="next_Q235_21_v128" unit="mm" x="256.1625" y="211.9475" z="15.17618"/>
+        <position name="next_Q235_21_v129" unit="mm" x="250.7799" y="213.2778" z="15.17618"/>
+        <position name="next_Q235_21_v130" unit="mm" x="251.4494" y="209.7226" z="15.17618"/>
+        <position name="next_Q235_21_v131" unit="mm" x="246.1048" y="211.8451" z="15.17618"/>
+        <position name="next_Q235_21_v132" unit="mm" x="246.4405" y="208.2826" z="15.17618"/>
+        <position name="next_Q235_21_v133" unit="mm" x="241.2548" y="211.2231" z="15.17618"/>
+        <position name="next_Q235_21_v134" unit="mm" x="241.2655" y="207.6647" z="15.17618"/>
+        <position name="next_Q235_21_v135" unit="mm" x="238.8077" y="211.2227" z="15.17618"/>
+        <position name="next_Q235_21_v136" unit="mm" x="238.6574" y="207.6699" z="15.17618"/>
+        <position name="next_Q235_21_v137" unit="mm" x="236.3694" y="211.4297" z="15.17618"/>
+        <position name="next_Q235_21_v138" unit="mm" x="236.0583" y="207.8849" z="15.17618"/>
+        <position name="next_Q235_21_v139" unit="mm" x="231.5892" y="212.459" z="15.17618"/>
+        <position name="next_Q235_21_v140" unit="mm" x="230.9539" y="208.9376" z="15.17618"/>
+        <position name="next_Q235_21_v141" unit="mm" x="227.0518" y="214.2814" z="15.17618"/>
+        <position name="next_Q235_21_v142" unit="mm" x="226.0844" y="210.7954" z="15.17618"/>
+        <position name="next_Q235_21_v143" unit="mm" x="222.8875" y="216.8443" z="15.17618"/>
+        <position name="next_Q235_21_v144" unit="mm" x="221.5761" y="213.4103" z="15.17618"/>
+        <position name="next_Q235_21_v145" unit="mm" x="219.2163" y="220.0742" z="15.17618"/>
+        <position name="next_Q235_21_v146" unit="mm" x="217.5456" y="216.7145" z="15.17618"/>
+        <position name="next_Q235_21_v147" unit="mm" x="216.1438" y="223.878" z="15.17618"/>
+        <position name="next_Q235_21_v148" unit="mm" x="214.0973" y="220.6225" z="15.17618"/>
+        <position name="next_Q235_21_v149" unit="mm" x="213.7583" y="228.1464" z="15.17618"/>
+        <position name="next_Q235_21_v150" unit="mm" x="211.3205" y="225.033" z="15.17618"/>
+        <position name="next_Q235_21_v151" unit="mm" x="212.1285" y="232.7565" z="15.17618"/>
+        <position name="next_Q235_21_v152" unit="mm" x="209.2872" y="229.8319" z="15.17618"/>
+        <position name="next_Q235_21_v153" unit="mm" x="211.3012" y="237.5757" z="15.17618"/>
+        <position name="next_Q235_21_v154" unit="mm" x="208.05" y="234.8947" z="15.17618"/>
+        <position name="next_Q235_21_v155" unit="mm" x="207.641" y="240.0904" z="15.17618"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="next_Q235_21-SOL">
+             <triangular vertex1="next_Q235_21_v0" vertex2="next_Q235_21_v1" vertex3="next_Q235_21_v2"/>
+             <triangular vertex1="next_Q235_21_v2" vertex2="next_Q235_21_v1" vertex3="next_Q235_21_v3"/>
+             <triangular vertex1="next_Q235_21_v2" vertex2="next_Q235_21_v3" vertex3="next_Q235_21_v4"/>
+             <triangular vertex1="next_Q235_21_v4" vertex2="next_Q235_21_v3" vertex3="next_Q235_21_v5"/>
+             <triangular vertex1="next_Q235_21_v4" vertex2="next_Q235_21_v5" vertex3="next_Q235_21_v6"/>
+             <triangular vertex1="next_Q235_21_v6" vertex2="next_Q235_21_v5" vertex3="next_Q235_21_v7"/>
+             <triangular vertex1="next_Q235_21_v6" vertex2="next_Q235_21_v7" vertex3="next_Q235_21_v8"/>
+             <triangular vertex1="next_Q235_21_v8" vertex2="next_Q235_21_v7" vertex3="next_Q235_21_v9"/>
+             <triangular vertex1="next_Q235_21_v8" vertex2="next_Q235_21_v9" vertex3="next_Q235_21_v10"/>
+             <triangular vertex1="next_Q235_21_v10" vertex2="next_Q235_21_v9" vertex3="next_Q235_21_v11"/>
+             <triangular vertex1="next_Q235_21_v10" vertex2="next_Q235_21_v11" vertex3="next_Q235_21_v12"/>
+             <triangular vertex1="next_Q235_21_v12" vertex2="next_Q235_21_v11" vertex3="next_Q235_21_v13"/>
+             <triangular vertex1="next_Q235_21_v12" vertex2="next_Q235_21_v13" vertex3="next_Q235_21_v14"/>
+             <triangular vertex1="next_Q235_21_v14" vertex2="next_Q235_21_v13" vertex3="next_Q235_21_v15"/>
+             <triangular vertex1="next_Q235_21_v14" vertex2="next_Q235_21_v15" vertex3="next_Q235_21_v16"/>
+             <triangular vertex1="next_Q235_21_v16" vertex2="next_Q235_21_v15" vertex3="next_Q235_21_v17"/>
+             <triangular vertex1="next_Q235_21_v16" vertex2="next_Q235_21_v17" vertex3="next_Q235_21_v18"/>
+             <triangular vertex1="next_Q235_21_v18" vertex2="next_Q235_21_v17" vertex3="next_Q235_21_v19"/>
+             <triangular vertex1="next_Q235_21_v18" vertex2="next_Q235_21_v19" vertex3="next_Q235_21_v20"/>
+             <triangular vertex1="next_Q235_21_v20" vertex2="next_Q235_21_v19" vertex3="next_Q235_21_v21"/>
+             <triangular vertex1="next_Q235_21_v20" vertex2="next_Q235_21_v21" vertex3="next_Q235_21_v22"/>
+             <triangular vertex1="next_Q235_21_v22" vertex2="next_Q235_21_v21" vertex3="next_Q235_21_v23"/>
+             <triangular vertex1="next_Q235_21_v22" vertex2="next_Q235_21_v23" vertex3="next_Q235_21_v24"/>
+             <triangular vertex1="next_Q235_21_v24" vertex2="next_Q235_21_v23" vertex3="next_Q235_21_v25"/>
+             <triangular vertex1="next_Q235_21_v24" vertex2="next_Q235_21_v25" vertex3="next_Q235_21_v26"/>
+             <triangular vertex1="next_Q235_21_v26" vertex2="next_Q235_21_v25" vertex3="next_Q235_21_v27"/>
+             <triangular vertex1="next_Q235_21_v26" vertex2="next_Q235_21_v27" vertex3="next_Q235_21_v28"/>
+             <triangular vertex1="next_Q235_21_v28" vertex2="next_Q235_21_v27" vertex3="next_Q235_21_v29"/>
+             <triangular vertex1="next_Q235_21_v28" vertex2="next_Q235_21_v29" vertex3="next_Q235_21_v30"/>
+             <triangular vertex1="next_Q235_21_v30" vertex2="next_Q235_21_v29" vertex3="next_Q235_21_v31"/>
+             <triangular vertex1="next_Q235_21_v30" vertex2="next_Q235_21_v31" vertex3="next_Q235_21_v32"/>
+             <triangular vertex1="next_Q235_21_v32" vertex2="next_Q235_21_v31" vertex3="next_Q235_21_v33"/>
+             <triangular vertex1="next_Q235_21_v32" vertex2="next_Q235_21_v33" vertex3="next_Q235_21_v34"/>
+             <triangular vertex1="next_Q235_21_v34" vertex2="next_Q235_21_v33" vertex3="next_Q235_21_v35"/>
+             <triangular vertex1="next_Q235_21_v34" vertex2="next_Q235_21_v35" vertex3="next_Q235_21_v36"/>
+             <triangular vertex1="next_Q235_21_v35" vertex2="next_Q235_21_v37" vertex3="next_Q235_21_v36"/>
+             <triangular vertex1="next_Q235_21_v36" vertex2="next_Q235_21_v37" vertex3="next_Q235_21_v38"/>
+             <triangular vertex1="next_Q235_21_v36" vertex2="next_Q235_21_v38" vertex3="next_Q235_21_v39"/>
+             <triangular vertex1="next_Q235_21_v39" vertex2="next_Q235_21_v38" vertex3="next_Q235_21_v40"/>
+             <triangular vertex1="next_Q235_21_v39" vertex2="next_Q235_21_v40" vertex3="next_Q235_21_v41"/>
+             <triangular vertex1="next_Q235_21_v41" vertex2="next_Q235_21_v40" vertex3="next_Q235_21_v42"/>
+             <triangular vertex1="next_Q235_21_v41" vertex2="next_Q235_21_v42" vertex3="next_Q235_21_v43"/>
+             <triangular vertex1="next_Q235_21_v43" vertex2="next_Q235_21_v42" vertex3="next_Q235_21_v44"/>
+             <triangular vertex1="next_Q235_21_v43" vertex2="next_Q235_21_v44" vertex3="next_Q235_21_v45"/>
+             <triangular vertex1="next_Q235_21_v45" vertex2="next_Q235_21_v44" vertex3="next_Q235_21_v46"/>
+             <triangular vertex1="next_Q235_21_v45" vertex2="next_Q235_21_v46" vertex3="next_Q235_21_v47"/>
+             <triangular vertex1="next_Q235_21_v47" vertex2="next_Q235_21_v46" vertex3="next_Q235_21_v48"/>
+             <triangular vertex1="next_Q235_21_v47" vertex2="next_Q235_21_v48" vertex3="next_Q235_21_v49"/>
+             <triangular vertex1="next_Q235_21_v49" vertex2="next_Q235_21_v48" vertex3="next_Q235_21_v50"/>
+             <triangular vertex1="next_Q235_21_v49" vertex2="next_Q235_21_v50" vertex3="next_Q235_21_v51"/>
+             <triangular vertex1="next_Q235_21_v51" vertex2="next_Q235_21_v50" vertex3="next_Q235_21_v52"/>
+             <triangular vertex1="next_Q235_21_v51" vertex2="next_Q235_21_v52" vertex3="next_Q235_21_v53"/>
+             <triangular vertex1="next_Q235_21_v53" vertex2="next_Q235_21_v52" vertex3="next_Q235_21_v54"/>
+             <triangular vertex1="next_Q235_21_v53" vertex2="next_Q235_21_v54" vertex3="next_Q235_21_v55"/>
+             <triangular vertex1="next_Q235_21_v55" vertex2="next_Q235_21_v54" vertex3="next_Q235_21_v56"/>
+             <triangular vertex1="next_Q235_21_v55" vertex2="next_Q235_21_v56" vertex3="next_Q235_21_v57"/>
+             <triangular vertex1="next_Q235_21_v57" vertex2="next_Q235_21_v56" vertex3="next_Q235_21_v58"/>
+             <triangular vertex1="next_Q235_21_v57" vertex2="next_Q235_21_v58" vertex3="next_Q235_21_v59"/>
+             <triangular vertex1="next_Q235_21_v59" vertex2="next_Q235_21_v58" vertex3="next_Q235_21_v60"/>
+             <triangular vertex1="next_Q235_21_v59" vertex2="next_Q235_21_v60" vertex3="next_Q235_21_v61"/>
+             <triangular vertex1="next_Q235_21_v61" vertex2="next_Q235_21_v60" vertex3="next_Q235_21_v62"/>
+             <triangular vertex1="next_Q235_21_v61" vertex2="next_Q235_21_v62" vertex3="next_Q235_21_v63"/>
+             <triangular vertex1="next_Q235_21_v63" vertex2="next_Q235_21_v62" vertex3="next_Q235_21_v64"/>
+             <triangular vertex1="next_Q235_21_v63" vertex2="next_Q235_21_v64" vertex3="next_Q235_21_v65"/>
+             <triangular vertex1="next_Q235_21_v65" vertex2="next_Q235_21_v64" vertex3="next_Q235_21_v66"/>
+             <triangular vertex1="next_Q235_21_v65" vertex2="next_Q235_21_v66" vertex3="next_Q235_21_v67"/>
+             <triangular vertex1="next_Q235_21_v67" vertex2="next_Q235_21_v66" vertex3="next_Q235_21_v68"/>
+             <triangular vertex1="next_Q235_21_v67" vertex2="next_Q235_21_v68" vertex3="next_Q235_21_v69"/>
+             <triangular vertex1="next_Q235_21_v69" vertex2="next_Q235_21_v68" vertex3="next_Q235_21_v70"/>
+             <triangular vertex1="next_Q235_21_v69" vertex2="next_Q235_21_v70" vertex3="next_Q235_21_v71"/>
+             <triangular vertex1="next_Q235_21_v71" vertex2="next_Q235_21_v70" vertex3="next_Q235_21_v72"/>
+             <triangular vertex1="next_Q235_21_v71" vertex2="next_Q235_21_v72" vertex3="next_Q235_21_v73"/>
+             <triangular vertex1="next_Q235_21_v73" vertex2="next_Q235_21_v72" vertex3="next_Q235_21_v74"/>
+             <triangular vertex1="next_Q235_21_v73" vertex2="next_Q235_21_v74" vertex3="next_Q235_21_v75"/>
+             <triangular vertex1="next_Q235_21_v75" vertex2="next_Q235_21_v74" vertex3="next_Q235_21_v76"/>
+             <triangular vertex1="next_Q235_21_v75" vertex2="next_Q235_21_v76" vertex3="next_Q235_21_v0"/>
+             <triangular vertex1="next_Q235_21_v0" vertex2="next_Q235_21_v76" vertex3="next_Q235_21_v77"/>
+             <triangular vertex1="next_Q235_21_v0" vertex2="next_Q235_21_v77" vertex3="next_Q235_21_v1"/>
+             <triangular vertex1="next_Q235_21_v78" vertex2="next_Q235_21_v79" vertex3="next_Q235_21_v80"/>
+             <triangular vertex1="next_Q235_21_v80" vertex2="next_Q235_21_v79" vertex3="next_Q235_21_v81"/>
+             <triangular vertex1="next_Q235_21_v80" vertex2="next_Q235_21_v81" vertex3="next_Q235_21_v82"/>
+             <triangular vertex1="next_Q235_21_v82" vertex2="next_Q235_21_v81" vertex3="next_Q235_21_v83"/>
+             <triangular vertex1="next_Q235_21_v82" vertex2="next_Q235_21_v83" vertex3="next_Q235_21_v84"/>
+             <triangular vertex1="next_Q235_21_v84" vertex2="next_Q235_21_v83" vertex3="next_Q235_21_v85"/>
+             <triangular vertex1="next_Q235_21_v84" vertex2="next_Q235_21_v85" vertex3="next_Q235_21_v86"/>
+             <triangular vertex1="next_Q235_21_v86" vertex2="next_Q235_21_v85" vertex3="next_Q235_21_v87"/>
+             <triangular vertex1="next_Q235_21_v86" vertex2="next_Q235_21_v87" vertex3="next_Q235_21_v88"/>
+             <triangular vertex1="next_Q235_21_v88" vertex2="next_Q235_21_v87" vertex3="next_Q235_21_v89"/>
+             <triangular vertex1="next_Q235_21_v88" vertex2="next_Q235_21_v89" vertex3="next_Q235_21_v90"/>
+             <triangular vertex1="next_Q235_21_v90" vertex2="next_Q235_21_v89" vertex3="next_Q235_21_v91"/>
+             <triangular vertex1="next_Q235_21_v90" vertex2="next_Q235_21_v91" vertex3="next_Q235_21_v92"/>
+             <triangular vertex1="next_Q235_21_v92" vertex2="next_Q235_21_v91" vertex3="next_Q235_21_v93"/>
+             <triangular vertex1="next_Q235_21_v92" vertex2="next_Q235_21_v93" vertex3="next_Q235_21_v94"/>
+             <triangular vertex1="next_Q235_21_v94" vertex2="next_Q235_21_v93" vertex3="next_Q235_21_v95"/>
+             <triangular vertex1="next_Q235_21_v94" vertex2="next_Q235_21_v95" vertex3="next_Q235_21_v96"/>
+             <triangular vertex1="next_Q235_21_v96" vertex2="next_Q235_21_v95" vertex3="next_Q235_21_v97"/>
+             <triangular vertex1="next_Q235_21_v96" vertex2="next_Q235_21_v97" vertex3="next_Q235_21_v98"/>
+             <triangular vertex1="next_Q235_21_v98" vertex2="next_Q235_21_v97" vertex3="next_Q235_21_v99"/>
+             <triangular vertex1="next_Q235_21_v98" vertex2="next_Q235_21_v99" vertex3="next_Q235_21_v100"/>
+             <triangular vertex1="next_Q235_21_v100" vertex2="next_Q235_21_v99" vertex3="next_Q235_21_v101"/>
+             <triangular vertex1="next_Q235_21_v100" vertex2="next_Q235_21_v101" vertex3="next_Q235_21_v102"/>
+             <triangular vertex1="next_Q235_21_v102" vertex2="next_Q235_21_v101" vertex3="next_Q235_21_v103"/>
+             <triangular vertex1="next_Q235_21_v102" vertex2="next_Q235_21_v103" vertex3="next_Q235_21_v104"/>
+             <triangular vertex1="next_Q235_21_v104" vertex2="next_Q235_21_v103" vertex3="next_Q235_21_v105"/>
+             <triangular vertex1="next_Q235_21_v104" vertex2="next_Q235_21_v105" vertex3="next_Q235_21_v106"/>
+             <triangular vertex1="next_Q235_21_v106" vertex2="next_Q235_21_v105" vertex3="next_Q235_21_v107"/>
+             <triangular vertex1="next_Q235_21_v106" vertex2="next_Q235_21_v107" vertex3="next_Q235_21_v108"/>
+             <triangular vertex1="next_Q235_21_v108" vertex2="next_Q235_21_v107" vertex3="next_Q235_21_v109"/>
+             <triangular vertex1="next_Q235_21_v108" vertex2="next_Q235_21_v109" vertex3="next_Q235_21_v110"/>
+             <triangular vertex1="next_Q235_21_v110" vertex2="next_Q235_21_v109" vertex3="next_Q235_21_v111"/>
+             <triangular vertex1="next_Q235_21_v110" vertex2="next_Q235_21_v111" vertex3="next_Q235_21_v112"/>
+             <triangular vertex1="next_Q235_21_v112" vertex2="next_Q235_21_v111" vertex3="next_Q235_21_v113"/>
+             <triangular vertex1="next_Q235_21_v112" vertex2="next_Q235_21_v113" vertex3="next_Q235_21_v114"/>
+             <triangular vertex1="next_Q235_21_v113" vertex2="next_Q235_21_v115" vertex3="next_Q235_21_v114"/>
+             <triangular vertex1="next_Q235_21_v114" vertex2="next_Q235_21_v115" vertex3="next_Q235_21_v116"/>
+             <triangular vertex1="next_Q235_21_v114" vertex2="next_Q235_21_v116" vertex3="next_Q235_21_v117"/>
+             <triangular vertex1="next_Q235_21_v117" vertex2="next_Q235_21_v116" vertex3="next_Q235_21_v118"/>
+             <triangular vertex1="next_Q235_21_v117" vertex2="next_Q235_21_v118" vertex3="next_Q235_21_v119"/>
+             <triangular vertex1="next_Q235_21_v119" vertex2="next_Q235_21_v118" vertex3="next_Q235_21_v120"/>
+             <triangular vertex1="next_Q235_21_v119" vertex2="next_Q235_21_v120" vertex3="next_Q235_21_v121"/>
+             <triangular vertex1="next_Q235_21_v121" vertex2="next_Q235_21_v120" vertex3="next_Q235_21_v122"/>
+             <triangular vertex1="next_Q235_21_v121" vertex2="next_Q235_21_v122" vertex3="next_Q235_21_v123"/>
+             <triangular vertex1="next_Q235_21_v123" vertex2="next_Q235_21_v122" vertex3="next_Q235_21_v124"/>
+             <triangular vertex1="next_Q235_21_v123" vertex2="next_Q235_21_v124" vertex3="next_Q235_21_v125"/>
+             <triangular vertex1="next_Q235_21_v125" vertex2="next_Q235_21_v124" vertex3="next_Q235_21_v126"/>
+             <triangular vertex1="next_Q235_21_v125" vertex2="next_Q235_21_v126" vertex3="next_Q235_21_v127"/>
+             <triangular vertex1="next_Q235_21_v127" vertex2="next_Q235_21_v126" vertex3="next_Q235_21_v128"/>
+             <triangular vertex1="next_Q235_21_v127" vertex2="next_Q235_21_v128" vertex3="next_Q235_21_v129"/>
+             <triangular vertex1="next_Q235_21_v129" vertex2="next_Q235_21_v128" vertex3="next_Q235_21_v130"/>
+             <triangular vertex1="next_Q235_21_v129" vertex2="next_Q235_21_v130" vertex3="next_Q235_21_v131"/>
+             <triangular vertex1="next_Q235_21_v131" vertex2="next_Q235_21_v130" vertex3="next_Q235_21_v132"/>
+             <triangular vertex1="next_Q235_21_v131" vertex2="next_Q235_21_v132" vertex3="next_Q235_21_v133"/>
+             <triangular vertex1="next_Q235_21_v133" vertex2="next_Q235_21_v132" vertex3="next_Q235_21_v134"/>
+             <triangular vertex1="next_Q235_21_v133" vertex2="next_Q235_21_v134" vertex3="next_Q235_21_v135"/>
+             <triangular vertex1="next_Q235_21_v135" vertex2="next_Q235_21_v134" vertex3="next_Q235_21_v136"/>
+             <triangular vertex1="next_Q235_21_v135" vertex2="next_Q235_21_v136" vertex3="next_Q235_21_v137"/>
+             <triangular vertex1="next_Q235_21_v137" vertex2="next_Q235_21_v136" vertex3="next_Q235_21_v138"/>
+             <triangular vertex1="next_Q235_21_v137" vertex2="next_Q235_21_v138" vertex3="next_Q235_21_v139"/>
+             <triangular vertex1="next_Q235_21_v139" vertex2="next_Q235_21_v138" vertex3="next_Q235_21_v140"/>
+             <triangular vertex1="next_Q235_21_v139" vertex2="next_Q235_21_v140" vertex3="next_Q235_21_v141"/>
+             <triangular vertex1="next_Q235_21_v141" vertex2="next_Q235_21_v140" vertex3="next_Q235_21_v142"/>
+             <triangular vertex1="next_Q235_21_v141" vertex2="next_Q235_21_v142" vertex3="next_Q235_21_v143"/>
+             <triangular vertex1="next_Q235_21_v143" vertex2="next_Q235_21_v142" vertex3="next_Q235_21_v144"/>
+             <triangular vertex1="next_Q235_21_v143" vertex2="next_Q235_21_v144" vertex3="next_Q235_21_v145"/>
+             <triangular vertex1="next_Q235_21_v145" vertex2="next_Q235_21_v144" vertex3="next_Q235_21_v146"/>
+             <triangular vertex1="next_Q235_21_v145" vertex2="next_Q235_21_v146" vertex3="next_Q235_21_v147"/>
+             <triangular vertex1="next_Q235_21_v147" vertex2="next_Q235_21_v146" vertex3="next_Q235_21_v148"/>
+             <triangular vertex1="next_Q235_21_v147" vertex2="next_Q235_21_v148" vertex3="next_Q235_21_v149"/>
+             <triangular vertex1="next_Q235_21_v149" vertex2="next_Q235_21_v148" vertex3="next_Q235_21_v150"/>
+             <triangular vertex1="next_Q235_21_v149" vertex2="next_Q235_21_v150" vertex3="next_Q235_21_v151"/>
+             <triangular vertex1="next_Q235_21_v151" vertex2="next_Q235_21_v150" vertex3="next_Q235_21_v152"/>
+             <triangular vertex1="next_Q235_21_v151" vertex2="next_Q235_21_v152" vertex3="next_Q235_21_v153"/>
+             <triangular vertex1="next_Q235_21_v153" vertex2="next_Q235_21_v152" vertex3="next_Q235_21_v154"/>
+             <triangular vertex1="next_Q235_21_v153" vertex2="next_Q235_21_v154" vertex3="next_Q235_21_v78"/>
+             <triangular vertex1="next_Q235_21_v78" vertex2="next_Q235_21_v154" vertex3="next_Q235_21_v155"/>
+             <triangular vertex1="next_Q235_21_v78" vertex2="next_Q235_21_v155" vertex3="next_Q235_21_v79"/>
+             <triangular vertex1="next_Q235_21_v60" vertex2="next_Q235_21_v58" vertex3="next_Q235_21_v136"/>
+             <triangular vertex1="next_Q235_21_v136" vertex2="next_Q235_21_v58" vertex3="next_Q235_21_v138"/>
+             <triangular vertex1="next_Q235_21_v58" vertex2="next_Q235_21_v56" vertex3="next_Q235_21_v138"/>
+             <triangular vertex1="next_Q235_21_v138" vertex2="next_Q235_21_v56" vertex3="next_Q235_21_v54"/>
+             <triangular vertex1="next_Q235_21_v138" vertex2="next_Q235_21_v54" vertex3="next_Q235_21_v140"/>
+             <triangular vertex1="next_Q235_21_v140" vertex2="next_Q235_21_v54" vertex3="next_Q235_21_v52"/>
+             <triangular vertex1="next_Q235_21_v140" vertex2="next_Q235_21_v52" vertex3="next_Q235_21_v142"/>
+             <triangular vertex1="next_Q235_21_v142" vertex2="next_Q235_21_v52" vertex3="next_Q235_21_v50"/>
+             <triangular vertex1="next_Q235_21_v142" vertex2="next_Q235_21_v50" vertex3="next_Q235_21_v144"/>
+             <triangular vertex1="next_Q235_21_v144" vertex2="next_Q235_21_v50" vertex3="next_Q235_21_v48"/>
+             <triangular vertex1="next_Q235_21_v144" vertex2="next_Q235_21_v48" vertex3="next_Q235_21_v146"/>
+             <triangular vertex1="next_Q235_21_v146" vertex2="next_Q235_21_v48" vertex3="next_Q235_21_v46"/>
+             <triangular vertex1="next_Q235_21_v146" vertex2="next_Q235_21_v46" vertex3="next_Q235_21_v148"/>
+             <triangular vertex1="next_Q235_21_v148" vertex2="next_Q235_21_v46" vertex3="next_Q235_21_v44"/>
+             <triangular vertex1="next_Q235_21_v148" vertex2="next_Q235_21_v44" vertex3="next_Q235_21_v150"/>
+             <triangular vertex1="next_Q235_21_v150" vertex2="next_Q235_21_v44" vertex3="next_Q235_21_v42"/>
+             <triangular vertex1="next_Q235_21_v150" vertex2="next_Q235_21_v42" vertex3="next_Q235_21_v152"/>
+             <triangular vertex1="next_Q235_21_v152" vertex2="next_Q235_21_v42" vertex3="next_Q235_21_v40"/>
+             <triangular vertex1="next_Q235_21_v152" vertex2="next_Q235_21_v40" vertex3="next_Q235_21_v154"/>
+             <triangular vertex1="next_Q235_21_v154" vertex2="next_Q235_21_v40" vertex3="next_Q235_21_v38"/>
+             <triangular vertex1="next_Q235_21_v154" vertex2="next_Q235_21_v38" vertex3="next_Q235_21_v155"/>
+             <triangular vertex1="next_Q235_21_v155" vertex2="next_Q235_21_v38" vertex3="next_Q235_21_v37"/>
+             <triangular vertex1="next_Q235_21_v155" vertex2="next_Q235_21_v37" vertex3="next_Q235_21_v79"/>
+             <triangular vertex1="next_Q235_21_v79" vertex2="next_Q235_21_v37" vertex3="next_Q235_21_v35"/>
+             <triangular vertex1="next_Q235_21_v79" vertex2="next_Q235_21_v35" vertex3="next_Q235_21_v81"/>
+             <triangular vertex1="next_Q235_21_v81" vertex2="next_Q235_21_v35" vertex3="next_Q235_21_v33"/>
+             <triangular vertex1="next_Q235_21_v81" vertex2="next_Q235_21_v33" vertex3="next_Q235_21_v83"/>
+             <triangular vertex1="next_Q235_21_v83" vertex2="next_Q235_21_v33" vertex3="next_Q235_21_v31"/>
+             <triangular vertex1="next_Q235_21_v83" vertex2="next_Q235_21_v31" vertex3="next_Q235_21_v85"/>
+             <triangular vertex1="next_Q235_21_v85" vertex2="next_Q235_21_v31" vertex3="next_Q235_21_v29"/>
+             <triangular vertex1="next_Q235_21_v85" vertex2="next_Q235_21_v29" vertex3="next_Q235_21_v87"/>
+             <triangular vertex1="next_Q235_21_v87" vertex2="next_Q235_21_v29" vertex3="next_Q235_21_v27"/>
+             <triangular vertex1="next_Q235_21_v87" vertex2="next_Q235_21_v27" vertex3="next_Q235_21_v89"/>
+             <triangular vertex1="next_Q235_21_v89" vertex2="next_Q235_21_v27" vertex3="next_Q235_21_v25"/>
+             <triangular vertex1="next_Q235_21_v89" vertex2="next_Q235_21_v25" vertex3="next_Q235_21_v91"/>
+             <triangular vertex1="next_Q235_21_v91" vertex2="next_Q235_21_v25" vertex3="next_Q235_21_v23"/>
+             <triangular vertex1="next_Q235_21_v91" vertex2="next_Q235_21_v23" vertex3="next_Q235_21_v93"/>
+             <triangular vertex1="next_Q235_21_v93" vertex2="next_Q235_21_v23" vertex3="next_Q235_21_v21"/>
+             <triangular vertex1="next_Q235_21_v93" vertex2="next_Q235_21_v21" vertex3="next_Q235_21_v95"/>
+             <triangular vertex1="next_Q235_21_v95" vertex2="next_Q235_21_v21" vertex3="next_Q235_21_v19"/>
+             <triangular vertex1="next_Q235_21_v95" vertex2="next_Q235_21_v19" vertex3="next_Q235_21_v97"/>
+             <triangular vertex1="next_Q235_21_v97" vertex2="next_Q235_21_v19" vertex3="next_Q235_21_v17"/>
+             <triangular vertex1="next_Q235_21_v97" vertex2="next_Q235_21_v17" vertex3="next_Q235_21_v99"/>
+             <triangular vertex1="next_Q235_21_v99" vertex2="next_Q235_21_v17" vertex3="next_Q235_21_v15"/>
+             <triangular vertex1="next_Q235_21_v99" vertex2="next_Q235_21_v15" vertex3="next_Q235_21_v101"/>
+             <triangular vertex1="next_Q235_21_v101" vertex2="next_Q235_21_v15" vertex3="next_Q235_21_v13"/>
+             <triangular vertex1="next_Q235_21_v101" vertex2="next_Q235_21_v13" vertex3="next_Q235_21_v103"/>
+             <triangular vertex1="next_Q235_21_v103" vertex2="next_Q235_21_v13" vertex3="next_Q235_21_v11"/>
+             <triangular vertex1="next_Q235_21_v103" vertex2="next_Q235_21_v11" vertex3="next_Q235_21_v105"/>
+             <triangular vertex1="next_Q235_21_v105" vertex2="next_Q235_21_v11" vertex3="next_Q235_21_v9"/>
+             <triangular vertex1="next_Q235_21_v105" vertex2="next_Q235_21_v9" vertex3="next_Q235_21_v107"/>
+             <triangular vertex1="next_Q235_21_v107" vertex2="next_Q235_21_v9" vertex3="next_Q235_21_v7"/>
+             <triangular vertex1="next_Q235_21_v107" vertex2="next_Q235_21_v7" vertex3="next_Q235_21_v109"/>
+             <triangular vertex1="next_Q235_21_v109" vertex2="next_Q235_21_v7" vertex3="next_Q235_21_v5"/>
+             <triangular vertex1="next_Q235_21_v109" vertex2="next_Q235_21_v5" vertex3="next_Q235_21_v111"/>
+             <triangular vertex1="next_Q235_21_v111" vertex2="next_Q235_21_v5" vertex3="next_Q235_21_v3"/>
+             <triangular vertex1="next_Q235_21_v111" vertex2="next_Q235_21_v3" vertex3="next_Q235_21_v113"/>
+             <triangular vertex1="next_Q235_21_v113" vertex2="next_Q235_21_v3" vertex3="next_Q235_21_v1"/>
+             <triangular vertex1="next_Q235_21_v113" vertex2="next_Q235_21_v1" vertex3="next_Q235_21_v115"/>
+             <triangular vertex1="next_Q235_21_v115" vertex2="next_Q235_21_v1" vertex3="next_Q235_21_v77"/>
+             <triangular vertex1="next_Q235_21_v115" vertex2="next_Q235_21_v77" vertex3="next_Q235_21_v116"/>
+             <triangular vertex1="next_Q235_21_v116" vertex2="next_Q235_21_v77" vertex3="next_Q235_21_v76"/>
+             <triangular vertex1="next_Q235_21_v116" vertex2="next_Q235_21_v76" vertex3="next_Q235_21_v118"/>
+             <triangular vertex1="next_Q235_21_v118" vertex2="next_Q235_21_v76" vertex3="next_Q235_21_v74"/>
+             <triangular vertex1="next_Q235_21_v118" vertex2="next_Q235_21_v74" vertex3="next_Q235_21_v120"/>
+             <triangular vertex1="next_Q235_21_v120" vertex2="next_Q235_21_v74" vertex3="next_Q235_21_v72"/>
+             <triangular vertex1="next_Q235_21_v120" vertex2="next_Q235_21_v72" vertex3="next_Q235_21_v122"/>
+             <triangular vertex1="next_Q235_21_v122" vertex2="next_Q235_21_v72" vertex3="next_Q235_21_v70"/>
+             <triangular vertex1="next_Q235_21_v122" vertex2="next_Q235_21_v70" vertex3="next_Q235_21_v124"/>
+             <triangular vertex1="next_Q235_21_v124" vertex2="next_Q235_21_v70" vertex3="next_Q235_21_v68"/>
+             <triangular vertex1="next_Q235_21_v124" vertex2="next_Q235_21_v68" vertex3="next_Q235_21_v126"/>
+             <triangular vertex1="next_Q235_21_v126" vertex2="next_Q235_21_v68" vertex3="next_Q235_21_v66"/>
+             <triangular vertex1="next_Q235_21_v126" vertex2="next_Q235_21_v66" vertex3="next_Q235_21_v128"/>
+             <triangular vertex1="next_Q235_21_v128" vertex2="next_Q235_21_v66" vertex3="next_Q235_21_v64"/>
+             <triangular vertex1="next_Q235_21_v128" vertex2="next_Q235_21_v64" vertex3="next_Q235_21_v130"/>
+             <triangular vertex1="next_Q235_21_v130" vertex2="next_Q235_21_v64" vertex3="next_Q235_21_v62"/>
+             <triangular vertex1="next_Q235_21_v130" vertex2="next_Q235_21_v62" vertex3="next_Q235_21_v132"/>
+             <triangular vertex1="next_Q235_21_v132" vertex2="next_Q235_21_v62" vertex3="next_Q235_21_v60"/>
+             <triangular vertex1="next_Q235_21_v132" vertex2="next_Q235_21_v60" vertex3="next_Q235_21_v134"/>
+             <triangular vertex1="next_Q235_21_v134" vertex2="next_Q235_21_v60" vertex3="next_Q235_21_v136"/>
+             <triangular vertex1="next_Q235_21_v18" vertex2="next_Q235_21_v96" vertex3="next_Q235_21_v16"/>
+             <triangular vertex1="next_Q235_21_v16" vertex2="next_Q235_21_v96" vertex3="next_Q235_21_v98"/>
+             <triangular vertex1="next_Q235_21_v16" vertex2="next_Q235_21_v98" vertex3="next_Q235_21_v14"/>
+             <triangular vertex1="next_Q235_21_v14" vertex2="next_Q235_21_v98" vertex3="next_Q235_21_v100"/>
+             <triangular vertex1="next_Q235_21_v14" vertex2="next_Q235_21_v100" vertex3="next_Q235_21_v12"/>
+             <triangular vertex1="next_Q235_21_v12" vertex2="next_Q235_21_v100" vertex3="next_Q235_21_v102"/>
+             <triangular vertex1="next_Q235_21_v12" vertex2="next_Q235_21_v102" vertex3="next_Q235_21_v10"/>
+             <triangular vertex1="next_Q235_21_v10" vertex2="next_Q235_21_v102" vertex3="next_Q235_21_v104"/>
+             <triangular vertex1="next_Q235_21_v10" vertex2="next_Q235_21_v104" vertex3="next_Q235_21_v8"/>
+             <triangular vertex1="next_Q235_21_v8" vertex2="next_Q235_21_v104" vertex3="next_Q235_21_v106"/>
+             <triangular vertex1="next_Q235_21_v8" vertex2="next_Q235_21_v106" vertex3="next_Q235_21_v6"/>
+             <triangular vertex1="next_Q235_21_v6" vertex2="next_Q235_21_v106" vertex3="next_Q235_21_v108"/>
+             <triangular vertex1="next_Q235_21_v6" vertex2="next_Q235_21_v108" vertex3="next_Q235_21_v4"/>
+             <triangular vertex1="next_Q235_21_v4" vertex2="next_Q235_21_v108" vertex3="next_Q235_21_v110"/>
+             <triangular vertex1="next_Q235_21_v4" vertex2="next_Q235_21_v110" vertex3="next_Q235_21_v2"/>
+             <triangular vertex1="next_Q235_21_v2" vertex2="next_Q235_21_v110" vertex3="next_Q235_21_v112"/>
+             <triangular vertex1="next_Q235_21_v2" vertex2="next_Q235_21_v112" vertex3="next_Q235_21_v0"/>
+             <triangular vertex1="next_Q235_21_v0" vertex2="next_Q235_21_v112" vertex3="next_Q235_21_v114"/>
+             <triangular vertex1="next_Q235_21_v0" vertex2="next_Q235_21_v114" vertex3="next_Q235_21_v75"/>
+             <triangular vertex1="next_Q235_21_v75" vertex2="next_Q235_21_v114" vertex3="next_Q235_21_v117"/>
+             <triangular vertex1="next_Q235_21_v75" vertex2="next_Q235_21_v117" vertex3="next_Q235_21_v73"/>
+             <triangular vertex1="next_Q235_21_v73" vertex2="next_Q235_21_v117" vertex3="next_Q235_21_v119"/>
+             <triangular vertex1="next_Q235_21_v73" vertex2="next_Q235_21_v119" vertex3="next_Q235_21_v71"/>
+             <triangular vertex1="next_Q235_21_v71" vertex2="next_Q235_21_v119" vertex3="next_Q235_21_v121"/>
+             <triangular vertex1="next_Q235_21_v71" vertex2="next_Q235_21_v121" vertex3="next_Q235_21_v69"/>
+             <triangular vertex1="next_Q235_21_v69" vertex2="next_Q235_21_v121" vertex3="next_Q235_21_v123"/>
+             <triangular vertex1="next_Q235_21_v69" vertex2="next_Q235_21_v123" vertex3="next_Q235_21_v67"/>
+             <triangular vertex1="next_Q235_21_v67" vertex2="next_Q235_21_v123" vertex3="next_Q235_21_v125"/>
+             <triangular vertex1="next_Q235_21_v67" vertex2="next_Q235_21_v125" vertex3="next_Q235_21_v65"/>
+             <triangular vertex1="next_Q235_21_v65" vertex2="next_Q235_21_v125" vertex3="next_Q235_21_v127"/>
+             <triangular vertex1="next_Q235_21_v65" vertex2="next_Q235_21_v127" vertex3="next_Q235_21_v63"/>
+             <triangular vertex1="next_Q235_21_v63" vertex2="next_Q235_21_v127" vertex3="next_Q235_21_v129"/>
+             <triangular vertex1="next_Q235_21_v63" vertex2="next_Q235_21_v129" vertex3="next_Q235_21_v61"/>
+             <triangular vertex1="next_Q235_21_v61" vertex2="next_Q235_21_v129" vertex3="next_Q235_21_v131"/>
+             <triangular vertex1="next_Q235_21_v61" vertex2="next_Q235_21_v131" vertex3="next_Q235_21_v59"/>
+             <triangular vertex1="next_Q235_21_v59" vertex2="next_Q235_21_v131" vertex3="next_Q235_21_v133"/>
+             <triangular vertex1="next_Q235_21_v59" vertex2="next_Q235_21_v133" vertex3="next_Q235_21_v57"/>
+             <triangular vertex1="next_Q235_21_v57" vertex2="next_Q235_21_v133" vertex3="next_Q235_21_v135"/>
+             <triangular vertex1="next_Q235_21_v57" vertex2="next_Q235_21_v135" vertex3="next_Q235_21_v55"/>
+             <triangular vertex1="next_Q235_21_v55" vertex2="next_Q235_21_v135" vertex3="next_Q235_21_v137"/>
+             <triangular vertex1="next_Q235_21_v55" vertex2="next_Q235_21_v137" vertex3="next_Q235_21_v53"/>
+             <triangular vertex1="next_Q235_21_v53" vertex2="next_Q235_21_v137" vertex3="next_Q235_21_v139"/>
+             <triangular vertex1="next_Q235_21_v53" vertex2="next_Q235_21_v139" vertex3="next_Q235_21_v51"/>
+             <triangular vertex1="next_Q235_21_v51" vertex2="next_Q235_21_v139" vertex3="next_Q235_21_v141"/>
+             <triangular vertex1="next_Q235_21_v51" vertex2="next_Q235_21_v141" vertex3="next_Q235_21_v49"/>
+             <triangular vertex1="next_Q235_21_v49" vertex2="next_Q235_21_v141" vertex3="next_Q235_21_v143"/>
+             <triangular vertex1="next_Q235_21_v49" vertex2="next_Q235_21_v143" vertex3="next_Q235_21_v47"/>
+             <triangular vertex1="next_Q235_21_v47" vertex2="next_Q235_21_v143" vertex3="next_Q235_21_v145"/>
+             <triangular vertex1="next_Q235_21_v47" vertex2="next_Q235_21_v145" vertex3="next_Q235_21_v45"/>
+             <triangular vertex1="next_Q235_21_v45" vertex2="next_Q235_21_v145" vertex3="next_Q235_21_v147"/>
+             <triangular vertex1="next_Q235_21_v45" vertex2="next_Q235_21_v147" vertex3="next_Q235_21_v43"/>
+             <triangular vertex1="next_Q235_21_v43" vertex2="next_Q235_21_v147" vertex3="next_Q235_21_v149"/>
+             <triangular vertex1="next_Q235_21_v43" vertex2="next_Q235_21_v149" vertex3="next_Q235_21_v41"/>
+             <triangular vertex1="next_Q235_21_v41" vertex2="next_Q235_21_v149" vertex3="next_Q235_21_v151"/>
+             <triangular vertex1="next_Q235_21_v41" vertex2="next_Q235_21_v151" vertex3="next_Q235_21_v39"/>
+             <triangular vertex1="next_Q235_21_v39" vertex2="next_Q235_21_v151" vertex3="next_Q235_21_v153"/>
+             <triangular vertex1="next_Q235_21_v39" vertex2="next_Q235_21_v153" vertex3="next_Q235_21_v36"/>
+             <triangular vertex1="next_Q235_21_v36" vertex2="next_Q235_21_v153" vertex3="next_Q235_21_v78"/>
+             <triangular vertex1="next_Q235_21_v36" vertex2="next_Q235_21_v78" vertex3="next_Q235_21_v34"/>
+             <triangular vertex1="next_Q235_21_v34" vertex2="next_Q235_21_v78" vertex3="next_Q235_21_v80"/>
+             <triangular vertex1="next_Q235_21_v34" vertex2="next_Q235_21_v80" vertex3="next_Q235_21_v32"/>
+             <triangular vertex1="next_Q235_21_v32" vertex2="next_Q235_21_v80" vertex3="next_Q235_21_v82"/>
+             <triangular vertex1="next_Q235_21_v32" vertex2="next_Q235_21_v82" vertex3="next_Q235_21_v30"/>
+             <triangular vertex1="next_Q235_21_v30" vertex2="next_Q235_21_v82" vertex3="next_Q235_21_v84"/>
+             <triangular vertex1="next_Q235_21_v30" vertex2="next_Q235_21_v84" vertex3="next_Q235_21_v28"/>
+             <triangular vertex1="next_Q235_21_v28" vertex2="next_Q235_21_v84" vertex3="next_Q235_21_v86"/>
+             <triangular vertex1="next_Q235_21_v28" vertex2="next_Q235_21_v86" vertex3="next_Q235_21_v26"/>
+             <triangular vertex1="next_Q235_21_v26" vertex2="next_Q235_21_v86" vertex3="next_Q235_21_v88"/>
+             <triangular vertex1="next_Q235_21_v26" vertex2="next_Q235_21_v88" vertex3="next_Q235_21_v24"/>
+             <triangular vertex1="next_Q235_21_v24" vertex2="next_Q235_21_v88" vertex3="next_Q235_21_v90"/>
+             <triangular vertex1="next_Q235_21_v24" vertex2="next_Q235_21_v90" vertex3="next_Q235_21_v22"/>
+             <triangular vertex1="next_Q235_21_v22" vertex2="next_Q235_21_v90" vertex3="next_Q235_21_v92"/>
+             <triangular vertex1="next_Q235_21_v22" vertex2="next_Q235_21_v92" vertex3="next_Q235_21_v20"/>
+             <triangular vertex1="next_Q235_21_v20" vertex2="next_Q235_21_v92" vertex3="next_Q235_21_v94"/>
+             <triangular vertex1="next_Q235_21_v20" vertex2="next_Q235_21_v94" vertex3="next_Q235_21_v18"/>
+             <triangular vertex1="next_Q235_21_v18" vertex2="next_Q235_21_v94" vertex3="next_Q235_21_v96"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="next_Q235_21">
+            <materialref ref="Q235"/>
+            <solidref ref="next_Q235_21-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="next_Q235_21"/>
+    </setup>
+</gdml>

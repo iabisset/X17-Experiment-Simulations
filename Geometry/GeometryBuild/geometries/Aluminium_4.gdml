@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Aluminium_4_v0" unit="mm" x="262.2509" y="242.5659" z="619.4422"/>
+        <position name="Aluminium_4_v1" unit="mm" x="217.8009" y="242.5659" z="619.4422"/>
+        <position name="Aluminium_4_v2" unit="mm" x="262.2509" y="242.5659" z="619.4523"/>
+        <position name="Aluminium_4_v3" unit="mm" x="217.8009" y="242.5659" z="619.4523"/>
+        <position name="Aluminium_4_v4" unit="mm" x="262.2509" y="237.4859" z="619.4422"/>
+        <position name="Aluminium_4_v5" unit="mm" x="262.2509" y="237.4859" z="619.4523"/>
+        <position name="Aluminium_4_v6" unit="mm" x="217.8009" y="237.4859" z="619.4422"/>
+        <position name="Aluminium_4_v7" unit="mm" x="217.8009" y="237.4859" z="619.4523"/>
+        <position name="Aluminium_4_v8" unit="mm" x="220.2711" y="241.0048" z="619.4422"/>
+        <position name="Aluminium_4_v9" unit="mm" x="219.7059" y="241.1562" z="619.4422"/>
+        <position name="Aluminium_4_v10" unit="mm" x="219.1408" y="241.0048" z="619.4422"/>
+        <position name="Aluminium_4_v11" unit="mm" x="260.9111" y="241.0048" z="619.4422"/>
+        <position name="Aluminium_4_v12" unit="mm" x="260.3459" y="241.1562" z="619.4422"/>
+        <position name="Aluminium_4_v13" unit="mm" x="259.7808" y="241.0048" z="619.4422"/>
+        <position name="Aluminium_4_v14" unit="mm" x="259.3671" y="240.5911" z="619.4422"/>
+        <position name="Aluminium_4_v15" unit="mm" x="218.7271" y="240.5911" z="619.4422"/>
+        <position name="Aluminium_4_v16" unit="mm" x="218.5756" y="240.0259" z="619.4422"/>
+        <position name="Aluminium_4_v17" unit="mm" x="218.7271" y="239.4608" z="619.4422"/>
+        <position name="Aluminium_4_v18" unit="mm" x="219.1408" y="239.0471" z="619.4422"/>
+        <position name="Aluminium_4_v19" unit="mm" x="219.7059" y="238.8956" z="619.4422"/>
+        <position name="Aluminium_4_v20" unit="mm" x="220.2711" y="239.0471" z="619.4422"/>
+        <position name="Aluminium_4_v21" unit="mm" x="260.3459" y="238.8956" z="619.4422"/>
+        <position name="Aluminium_4_v22" unit="mm" x="260.9111" y="239.0471" z="619.4422"/>
+        <position name="Aluminium_4_v23" unit="mm" x="261.3248" y="239.4608" z="619.4422"/>
+        <position name="Aluminium_4_v24" unit="mm" x="261.4762" y="240.0259" z="619.4422"/>
+        <position name="Aluminium_4_v25" unit="mm" x="261.3248" y="240.5911" z="619.4422"/>
+        <position name="Aluminium_4_v26" unit="mm" x="259.7808" y="239.0471" z="619.4422"/>
+        <position name="Aluminium_4_v27" unit="mm" x="259.3671" y="239.4608" z="619.4422"/>
+        <position name="Aluminium_4_v28" unit="mm" x="220.6848" y="239.4608" z="619.4422"/>
+        <position name="Aluminium_4_v29" unit="mm" x="259.2156" y="240.0259" z="619.4422"/>
+        <position name="Aluminium_4_v30" unit="mm" x="220.8362" y="240.0259" z="619.4422"/>
+        <position name="Aluminium_4_v31" unit="mm" x="220.6848" y="240.5911" z="619.4422"/>
+        <position name="Aluminium_4_v32" unit="mm" x="220.2711" y="239.0471" z="619.4523"/>
+        <position name="Aluminium_4_v33" unit="mm" x="219.7059" y="238.8956" z="619.4523"/>
+        <position name="Aluminium_4_v34" unit="mm" x="219.1408" y="239.0471" z="619.4523"/>
+        <position name="Aluminium_4_v35" unit="mm" x="218.7271" y="239.4608" z="619.4523"/>
+        <position name="Aluminium_4_v36" unit="mm" x="218.5756" y="240.0259" z="619.4523"/>
+        <position name="Aluminium_4_v37" unit="mm" x="218.7271" y="240.5911" z="619.4523"/>
+        <position name="Aluminium_4_v38" unit="mm" x="219.1408" y="241.0048" z="619.4523"/>
+        <position name="Aluminium_4_v39" unit="mm" x="219.7059" y="241.1562" z="619.4523"/>
+        <position name="Aluminium_4_v40" unit="mm" x="220.2711" y="241.0048" z="619.4523"/>
+        <position name="Aluminium_4_v41" unit="mm" x="220.6848" y="240.5911" z="619.4523"/>
+        <position name="Aluminium_4_v42" unit="mm" x="220.8362" y="240.0259" z="619.4523"/>
+        <position name="Aluminium_4_v43" unit="mm" x="259.3671" y="239.4608" z="619.4523"/>
+        <position name="Aluminium_4_v44" unit="mm" x="259.2156" y="240.0259" z="619.4523"/>
+        <position name="Aluminium_4_v45" unit="mm" x="259.3671" y="240.5911" z="619.4523"/>
+        <position name="Aluminium_4_v46" unit="mm" x="259.7808" y="241.0048" z="619.4523"/>
+        <position name="Aluminium_4_v47" unit="mm" x="260.3459" y="241.1562" z="619.4523"/>
+        <position name="Aluminium_4_v48" unit="mm" x="260.9111" y="241.0048" z="619.4523"/>
+        <position name="Aluminium_4_v49" unit="mm" x="261.3248" y="240.5911" z="619.4523"/>
+        <position name="Aluminium_4_v50" unit="mm" x="261.4762" y="240.0259" z="619.4523"/>
+        <position name="Aluminium_4_v51" unit="mm" x="261.3248" y="239.4608" z="619.4523"/>
+        <position name="Aluminium_4_v52" unit="mm" x="260.9111" y="239.0471" z="619.4523"/>
+        <position name="Aluminium_4_v53" unit="mm" x="260.3459" y="238.8956" z="619.4523"/>
+        <position name="Aluminium_4_v54" unit="mm" x="259.7808" y="239.0471" z="619.4523"/>
+        <position name="Aluminium_4_v55" unit="mm" x="220.6848" y="239.4608" z="619.4523"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Aluminium_4-SOL">
+             <triangular vertex1="Aluminium_4_v0" vertex2="Aluminium_4_v1" vertex3="Aluminium_4_v2"/>
+             <triangular vertex1="Aluminium_4_v2" vertex2="Aluminium_4_v1" vertex3="Aluminium_4_v3"/>
+             <triangular vertex1="Aluminium_4_v4" vertex2="Aluminium_4_v0" vertex3="Aluminium_4_v5"/>
+             <triangular vertex1="Aluminium_4_v5" vertex2="Aluminium_4_v0" vertex3="Aluminium_4_v2"/>
+             <triangular vertex1="Aluminium_4_v6" vertex2="Aluminium_4_v4" vertex3="Aluminium_4_v7"/>
+             <triangular vertex1="Aluminium_4_v7" vertex2="Aluminium_4_v4" vertex3="Aluminium_4_v5"/>
+             <triangular vertex1="Aluminium_4_v1" vertex2="Aluminium_4_v6" vertex3="Aluminium_4_v3"/>
+             <triangular vertex1="Aluminium_4_v3" vertex2="Aluminium_4_v6" vertex3="Aluminium_4_v7"/>
+             <triangular vertex1="Aluminium_4_v8" vertex2="Aluminium_4_v9" vertex3="Aluminium_4_v1"/>
+             <triangular vertex1="Aluminium_4_v1" vertex2="Aluminium_4_v9" vertex3="Aluminium_4_v10"/>
+             <triangular vertex1="Aluminium_4_v11" vertex2="Aluminium_4_v12" vertex3="Aluminium_4_v0"/>
+             <triangular vertex1="Aluminium_4_v0" vertex2="Aluminium_4_v12" vertex3="Aluminium_4_v13"/>
+             <triangular vertex1="Aluminium_4_v0" vertex2="Aluminium_4_v13" vertex3="Aluminium_4_v1"/>
+             <triangular vertex1="Aluminium_4_v1" vertex2="Aluminium_4_v13" vertex3="Aluminium_4_v14"/>
+             <triangular vertex1="Aluminium_4_v1" vertex2="Aluminium_4_v14" vertex3="Aluminium_4_v8"/>
+             <triangular vertex1="Aluminium_4_v10" vertex2="Aluminium_4_v15" vertex3="Aluminium_4_v1"/>
+             <triangular vertex1="Aluminium_4_v1" vertex2="Aluminium_4_v15" vertex3="Aluminium_4_v16"/>
+             <triangular vertex1="Aluminium_4_v1" vertex2="Aluminium_4_v16" vertex3="Aluminium_4_v6"/>
+             <triangular vertex1="Aluminium_4_v6" vertex2="Aluminium_4_v16" vertex3="Aluminium_4_v17"/>
+             <triangular vertex1="Aluminium_4_v6" vertex2="Aluminium_4_v17" vertex3="Aluminium_4_v18"/>
+             <triangular vertex1="Aluminium_4_v18" vertex2="Aluminium_4_v19" vertex3="Aluminium_4_v6"/>
+             <triangular vertex1="Aluminium_4_v6" vertex2="Aluminium_4_v19" vertex3="Aluminium_4_v20"/>
+             <triangular vertex1="Aluminium_4_v6" vertex2="Aluminium_4_v20" vertex3="Aluminium_4_v4"/>
+             <triangular vertex1="Aluminium_4_v21" vertex2="Aluminium_4_v22" vertex3="Aluminium_4_v4"/>
+             <triangular vertex1="Aluminium_4_v22" vertex2="Aluminium_4_v23" vertex3="Aluminium_4_v4"/>
+             <triangular vertex1="Aluminium_4_v4" vertex2="Aluminium_4_v23" vertex3="Aluminium_4_v24"/>
+             <triangular vertex1="Aluminium_4_v4" vertex2="Aluminium_4_v24" vertex3="Aluminium_4_v0"/>
+             <triangular vertex1="Aluminium_4_v0" vertex2="Aluminium_4_v24" vertex3="Aluminium_4_v25"/>
+             <triangular vertex1="Aluminium_4_v0" vertex2="Aluminium_4_v25" vertex3="Aluminium_4_v11"/>
+             <triangular vertex1="Aluminium_4_v21" vertex2="Aluminium_4_v4" vertex3="Aluminium_4_v26"/>
+             <triangular vertex1="Aluminium_4_v26" vertex2="Aluminium_4_v4" vertex3="Aluminium_4_v20"/>
+             <triangular vertex1="Aluminium_4_v26" vertex2="Aluminium_4_v20" vertex3="Aluminium_4_v27"/>
+             <triangular vertex1="Aluminium_4_v27" vertex2="Aluminium_4_v20" vertex3="Aluminium_4_v28"/>
+             <triangular vertex1="Aluminium_4_v27" vertex2="Aluminium_4_v28" vertex3="Aluminium_4_v29"/>
+             <triangular vertex1="Aluminium_4_v29" vertex2="Aluminium_4_v28" vertex3="Aluminium_4_v30"/>
+             <triangular vertex1="Aluminium_4_v29" vertex2="Aluminium_4_v30" vertex3="Aluminium_4_v14"/>
+             <triangular vertex1="Aluminium_4_v14" vertex2="Aluminium_4_v30" vertex3="Aluminium_4_v31"/>
+             <triangular vertex1="Aluminium_4_v14" vertex2="Aluminium_4_v31" vertex3="Aluminium_4_v8"/>
+             <triangular vertex1="Aluminium_4_v5" vertex2="Aluminium_4_v32" vertex3="Aluminium_4_v7"/>
+             <triangular vertex1="Aluminium_4_v7" vertex2="Aluminium_4_v32" vertex3="Aluminium_4_v33"/>
+             <triangular vertex1="Aluminium_4_v7" vertex2="Aluminium_4_v33" vertex3="Aluminium_4_v34"/>
+             <triangular vertex1="Aluminium_4_v34" vertex2="Aluminium_4_v35" vertex3="Aluminium_4_v7"/>
+             <triangular vertex1="Aluminium_4_v7" vertex2="Aluminium_4_v35" vertex3="Aluminium_4_v36"/>
+             <triangular vertex1="Aluminium_4_v7" vertex2="Aluminium_4_v36" vertex3="Aluminium_4_v3"/>
+             <triangular vertex1="Aluminium_4_v3" vertex2="Aluminium_4_v36" vertex3="Aluminium_4_v37"/>
+             <triangular vertex1="Aluminium_4_v3" vertex2="Aluminium_4_v37" vertex3="Aluminium_4_v38"/>
+             <triangular vertex1="Aluminium_4_v38" vertex2="Aluminium_4_v39" vertex3="Aluminium_4_v3"/>
+             <triangular vertex1="Aluminium_4_v3" vertex2="Aluminium_4_v39" vertex3="Aluminium_4_v40"/>
+             <triangular vertex1="Aluminium_4_v3" vertex2="Aluminium_4_v40" vertex3="Aluminium_4_v2"/>
+             <triangular vertex1="Aluminium_4_v2" vertex2="Aluminium_4_v40" vertex3="Aluminium_4_v41"/>
+             <triangular vertex1="Aluminium_4_v2" vertex2="Aluminium_4_v41" vertex3="Aluminium_4_v42"/>
+             <triangular vertex1="Aluminium_4_v43" vertex2="Aluminium_4_v44" vertex3="Aluminium_4_v42"/>
+             <triangular vertex1="Aluminium_4_v44" vertex2="Aluminium_4_v45" vertex3="Aluminium_4_v42"/>
+             <triangular vertex1="Aluminium_4_v42" vertex2="Aluminium_4_v45" vertex3="Aluminium_4_v46"/>
+             <triangular vertex1="Aluminium_4_v42" vertex2="Aluminium_4_v46" vertex3="Aluminium_4_v2"/>
+             <triangular vertex1="Aluminium_4_v2" vertex2="Aluminium_4_v46" vertex3="Aluminium_4_v47"/>
+             <triangular vertex1="Aluminium_4_v2" vertex2="Aluminium_4_v47" vertex3="Aluminium_4_v48"/>
+             <triangular vertex1="Aluminium_4_v48" vertex2="Aluminium_4_v49" vertex3="Aluminium_4_v2"/>
+             <triangular vertex1="Aluminium_4_v2" vertex2="Aluminium_4_v49" vertex3="Aluminium_4_v50"/>
+             <triangular vertex1="Aluminium_4_v2" vertex2="Aluminium_4_v50" vertex3="Aluminium_4_v5"/>
+             <triangular vertex1="Aluminium_4_v5" vertex2="Aluminium_4_v50" vertex3="Aluminium_4_v51"/>
+             <triangular vertex1="Aluminium_4_v5" vertex2="Aluminium_4_v51" vertex3="Aluminium_4_v52"/>
+             <triangular vertex1="Aluminium_4_v52" vertex2="Aluminium_4_v53" vertex3="Aluminium_4_v5"/>
+             <triangular vertex1="Aluminium_4_v5" vertex2="Aluminium_4_v53" vertex3="Aluminium_4_v54"/>
+             <triangular vertex1="Aluminium_4_v5" vertex2="Aluminium_4_v54" vertex3="Aluminium_4_v32"/>
+             <triangular vertex1="Aluminium_4_v32" vertex2="Aluminium_4_v54" vertex3="Aluminium_4_v43"/>
+             <triangular vertex1="Aluminium_4_v32" vertex2="Aluminium_4_v43" vertex3="Aluminium_4_v55"/>
+             <triangular vertex1="Aluminium_4_v55" vertex2="Aluminium_4_v43" vertex3="Aluminium_4_v42"/>
+             <triangular vertex1="Aluminium_4_v39" vertex2="Aluminium_4_v9" vertex3="Aluminium_4_v40"/>
+             <triangular vertex1="Aluminium_4_v40" vertex2="Aluminium_4_v9" vertex3="Aluminium_4_v8"/>
+             <triangular vertex1="Aluminium_4_v40" vertex2="Aluminium_4_v8" vertex3="Aluminium_4_v41"/>
+             <triangular vertex1="Aluminium_4_v41" vertex2="Aluminium_4_v8" vertex3="Aluminium_4_v31"/>
+             <triangular vertex1="Aluminium_4_v41" vertex2="Aluminium_4_v31" vertex3="Aluminium_4_v42"/>
+             <triangular vertex1="Aluminium_4_v42" vertex2="Aluminium_4_v31" vertex3="Aluminium_4_v30"/>
+             <triangular vertex1="Aluminium_4_v42" vertex2="Aluminium_4_v30" vertex3="Aluminium_4_v55"/>
+             <triangular vertex1="Aluminium_4_v55" vertex2="Aluminium_4_v30" vertex3="Aluminium_4_v28"/>
+             <triangular vertex1="Aluminium_4_v55" vertex2="Aluminium_4_v28" vertex3="Aluminium_4_v32"/>
+             <triangular vertex1="Aluminium_4_v32" vertex2="Aluminium_4_v28" vertex3="Aluminium_4_v20"/>
+             <triangular vertex1="Aluminium_4_v32" vertex2="Aluminium_4_v20" vertex3="Aluminium_4_v33"/>
+             <triangular vertex1="Aluminium_4_v33" vertex2="Aluminium_4_v20" vertex3="Aluminium_4_v19"/>
+             <triangular vertex1="Aluminium_4_v33" vertex2="Aluminium_4_v19" vertex3="Aluminium_4_v34"/>
+             <triangular vertex1="Aluminium_4_v34" vertex2="Aluminium_4_v19" vertex3="Aluminium_4_v18"/>
+             <triangular vertex1="Aluminium_4_v34" vertex2="Aluminium_4_v18" vertex3="Aluminium_4_v35"/>
+             <triangular vertex1="Aluminium_4_v35" vertex2="Aluminium_4_v18" vertex3="Aluminium_4_v17"/>
+             <triangular vertex1="Aluminium_4_v35" vertex2="Aluminium_4_v17" vertex3="Aluminium_4_v36"/>
+             <triangular vertex1="Aluminium_4_v36" vertex2="Aluminium_4_v17" vertex3="Aluminium_4_v16"/>
+             <triangular vertex1="Aluminium_4_v36" vertex2="Aluminium_4_v16" vertex3="Aluminium_4_v37"/>
+             <triangular vertex1="Aluminium_4_v37" vertex2="Aluminium_4_v16" vertex3="Aluminium_4_v15"/>
+             <triangular vertex1="Aluminium_4_v37" vertex2="Aluminium_4_v15" vertex3="Aluminium_4_v38"/>
+             <triangular vertex1="Aluminium_4_v38" vertex2="Aluminium_4_v15" vertex3="Aluminium_4_v10"/>
+             <triangular vertex1="Aluminium_4_v38" vertex2="Aluminium_4_v10" vertex3="Aluminium_4_v39"/>
+             <triangular vertex1="Aluminium_4_v39" vertex2="Aluminium_4_v10" vertex3="Aluminium_4_v9"/>
+             <triangular vertex1="Aluminium_4_v47" vertex2="Aluminium_4_v12" vertex3="Aluminium_4_v48"/>
+             <triangular vertex1="Aluminium_4_v48" vertex2="Aluminium_4_v12" vertex3="Aluminium_4_v11"/>
+             <triangular vertex1="Aluminium_4_v48" vertex2="Aluminium_4_v11" vertex3="Aluminium_4_v49"/>
+             <triangular vertex1="Aluminium_4_v49" vertex2="Aluminium_4_v11" vertex3="Aluminium_4_v25"/>
+             <triangular vertex1="Aluminium_4_v49" vertex2="Aluminium_4_v25" vertex3="Aluminium_4_v50"/>
+             <triangular vertex1="Aluminium_4_v50" vertex2="Aluminium_4_v25" vertex3="Aluminium_4_v24"/>
+             <triangular vertex1="Aluminium_4_v50" vertex2="Aluminium_4_v24" vertex3="Aluminium_4_v51"/>
+             <triangular vertex1="Aluminium_4_v51" vertex2="Aluminium_4_v24" vertex3="Aluminium_4_v23"/>
+             <triangular vertex1="Aluminium_4_v51" vertex2="Aluminium_4_v23" vertex3="Aluminium_4_v52"/>
+             <triangular vertex1="Aluminium_4_v52" vertex2="Aluminium_4_v23" vertex3="Aluminium_4_v22"/>
+             <triangular vertex1="Aluminium_4_v52" vertex2="Aluminium_4_v22" vertex3="Aluminium_4_v53"/>
+             <triangular vertex1="Aluminium_4_v53" vertex2="Aluminium_4_v22" vertex3="Aluminium_4_v21"/>
+             <triangular vertex1="Aluminium_4_v53" vertex2="Aluminium_4_v21" vertex3="Aluminium_4_v54"/>
+             <triangular vertex1="Aluminium_4_v54" vertex2="Aluminium_4_v21" vertex3="Aluminium_4_v26"/>
+             <triangular vertex1="Aluminium_4_v54" vertex2="Aluminium_4_v26" vertex3="Aluminium_4_v43"/>
+             <triangular vertex1="Aluminium_4_v43" vertex2="Aluminium_4_v26" vertex3="Aluminium_4_v27"/>
+             <triangular vertex1="Aluminium_4_v43" vertex2="Aluminium_4_v27" vertex3="Aluminium_4_v44"/>
+             <triangular vertex1="Aluminium_4_v44" vertex2="Aluminium_4_v27" vertex3="Aluminium_4_v29"/>
+             <triangular vertex1="Aluminium_4_v44" vertex2="Aluminium_4_v29" vertex3="Aluminium_4_v45"/>
+             <triangular vertex1="Aluminium_4_v45" vertex2="Aluminium_4_v29" vertex3="Aluminium_4_v14"/>
+             <triangular vertex1="Aluminium_4_v45" vertex2="Aluminium_4_v14" vertex3="Aluminium_4_v46"/>
+             <triangular vertex1="Aluminium_4_v46" vertex2="Aluminium_4_v14" vertex3="Aluminium_4_v13"/>
+             <triangular vertex1="Aluminium_4_v46" vertex2="Aluminium_4_v13" vertex3="Aluminium_4_v47"/>
+             <triangular vertex1="Aluminium_4_v47" vertex2="Aluminium_4_v13" vertex3="Aluminium_4_v12"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Aluminium_4">
+            <materialref ref="Aluminium"/>
+            <solidref ref="Aluminium_4-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Aluminium_4"/>
+    </setup>
+</gdml>

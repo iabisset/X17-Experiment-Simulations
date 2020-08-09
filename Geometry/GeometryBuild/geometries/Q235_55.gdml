@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Q235_55_v0" unit="mm" x="241.2138" y="265.1438" z="149.2882"/>
+        <position name="Q235_55_v1" unit="mm" x="241.3098" y="267.1736" z="149.2882"/>
+        <position name="Q235_55_v2" unit="mm" x="236.9833" y="264.9872" z="149.2882"/>
+        <position name="Q235_55_v3" unit="mm" x="236.8571" y="267.0186" z="149.2882"/>
+        <position name="Q235_55_v4" unit="mm" x="232.839" y="264.123" z="149.2882"/>
+        <position name="Q235_55_v5" unit="mm" x="232.4896" y="266.1381" z="149.2882"/>
+        <position name="Q235_55_v6" unit="mm" x="228.8984" y="262.5759" z="149.2882"/>
+        <position name="Q235_55_v7" unit="mm" x="228.3246" y="264.556" z="149.2882"/>
+        <position name="Q235_55_v8" unit="mm" x="225.2732" y="260.3896" z="149.2882"/>
+        <position name="Q235_55_v9" unit="mm" x="224.4741" y="262.3146" z="149.2882"/>
+        <position name="Q235_55_v10" unit="mm" x="222.0662" y="257.6262" z="149.2882"/>
+        <position name="Q235_55_v11" unit="mm" x="221.0415" y="259.4742" z="149.2882"/>
+        <position name="Q235_55_v12" unit="mm" x="219.3681" y="254.3639" z="149.2882"/>
+        <position name="Q235_55_v13" unit="mm" x="218.1191" y="256.1111" z="149.2882"/>
+        <position name="Q235_55_v14" unit="mm" x="217.2556" y="250.6952" z="149.2882"/>
+        <position name="Q235_55_v15" unit="mm" x="215.7854" y="252.3158" z="149.2882"/>
+        <position name="Q235_55_v16" unit="mm" x="215.7885" y="246.7242" z="149.2882"/>
+        <position name="Q235_55_v17" unit="mm" x="214.1032" y="248.1902" z="149.2882"/>
+        <position name="Q235_55_v18" unit="mm" x="215.0083" y="242.5632" z="149.2882"/>
+        <position name="Q235_55_v19" unit="mm" x="213.1176" y="243.8452" z="149.2882"/>
+        <position name="Q235_55_v20" unit="mm" x="214.9371" y="238.3304" z="149.2882"/>
+        <position name="Q235_55_v21" unit="mm" x="212.8552" y="239.3976" z="149.2882"/>
+        <position name="Q235_55_v22" unit="mm" x="215.5771" y="234.1457" z="149.2882"/>
+        <position name="Q235_55_v23" unit="mm" x="213.3229" y="234.9668" z="149.2882"/>
+        <position name="Q235_55_v24" unit="mm" x="216.9101" y="230.1276" z="149.2882"/>
+        <position name="Q235_55_v25" unit="mm" x="214.5083" y="230.672" z="149.2882"/>
+        <position name="Q235_55_v26" unit="mm" x="218.8981" y="226.39" z="149.2882"/>
+        <position name="Q235_55_v27" unit="mm" x="216.3795" y="226.6286" z="149.2882"/>
+        <position name="Q235_55_v28" unit="mm" x="221.4851" y="223.0389" z="149.2882"/>
+        <position name="Q235_55_v29" unit="mm" x="218.8861" y="222.9452" z="149.2882"/>
+        <position name="Q235_55_v30" unit="mm" x="224.5975" y="220.1693" z="149.2882"/>
+        <position name="Q235_55_v31" unit="mm" x="221.9608" y="219.7209" z="149.2882"/>
+        <position name="Q235_55_v32" unit="mm" x="228.1472" y="217.8625" z="149.2882"/>
+        <position name="Q235_55_v33" unit="mm" x="225.521" y="217.0422" z="149.2882"/>
+        <position name="Q235_55_v34" unit="mm" x="232.0336" y="216.1839" z="149.2882"/>
+        <position name="Q235_55_v35" unit="mm" x="229.471" y="214.9812" z="149.2882"/>
+        <position name="Q235_55_v36" unit="mm" x="236.1465" y="215.181" z="149.2882"/>
+        <position name="Q235_55_v37" unit="mm" x="242.5763" y="267.084" z="149.2882"/>
+        <position name="Q235_55_v38" unit="mm" x="242.3856" y="265.061" z="149.2882"/>
+        <position name="Q235_55_v39" unit="mm" x="246.9628" y="266.3037" z="149.2882"/>
+        <position name="Q235_55_v40" unit="mm" x="246.552" y="264.3103" z="149.2882"/>
+        <position name="Q235_55_v41" unit="mm" x="251.1629" y="264.8173" z="149.2882"/>
+        <position name="Q235_55_v42" unit="mm" x="250.5333" y="262.8714" z="149.2882"/>
+        <position name="Q235_55_v43" unit="mm" x="255.0637" y="262.6646" z="149.2882"/>
+        <position name="Q235_55_v44" unit="mm" x="254.2169" y="260.785" z="149.2882"/>
+        <position name="Q235_55_v45" unit="mm" x="258.5604" y="259.9035" z="149.2882"/>
+        <position name="Q235_55_v46" unit="mm" x="257.4982" y="258.1102" z="149.2882"/>
+        <position name="Q235_55_v47" unit="mm" x="261.559" y="256.6082" z="149.2882"/>
+        <position name="Q235_55_v48" unit="mm" x="260.2844" y="254.9228" z="149.2882"/>
+        <position name="Q235_55_v49" unit="mm" x="263.9789" y="252.8672" z="149.2882"/>
+        <position name="Q235_55_v50" unit="mm" x="262.4963" y="251.3132" z="149.2882"/>
+        <position name="Q235_55_v51" unit="mm" x="265.7551" y="248.7812" z="149.2882"/>
+        <position name="Q235_55_v52" unit="mm" x="264.0714" y="247.3837" z="149.2882"/>
+        <position name="Q235_55_v53" unit="mm" x="266.8398" y="244.4599" z="149.2882"/>
+        <position name="Q235_55_v54" unit="mm" x="264.9649" y="243.2456" z="149.2882"/>
+        <position name="Q235_55_v55" unit="mm" x="267.2039" y="240.0194" z="149.2882"/>
+        <position name="Q235_55_v56" unit="mm" x="265.1516" y="239.0163" z="149.2882"/>
+        <position name="Q235_55_v57" unit="mm" x="266.8377" y="235.5791" z="149.2882"/>
+        <position name="Q235_55_v58" unit="mm" x="264.6262" y="234.8157" z="149.2882"/>
+        <position name="Q235_55_v59" unit="mm" x="265.7509" y="231.2583" z="149.2882"/>
+        <position name="Q235_55_v60" unit="mm" x="263.4035" y="230.7626" z="149.2882"/>
+        <position name="Q235_55_v61" unit="mm" x="263.9727" y="227.1732" z="149.2882"/>
+        <position name="Q235_55_v62" unit="mm" x="261.5183" y="226.9722" z="149.2882"/>
+        <position name="Q235_55_v63" unit="mm" x="261.5511" y="223.4334" z="149.2882"/>
+        <position name="Q235_55_v64" unit="mm" x="259.0239" y="223.5517" z="149.2882"/>
+        <position name="Q235_55_v65" unit="mm" x="258.5509" y="220.1395" z="149.2882"/>
+        <position name="Q235_55_v66" unit="mm" x="255.991" y="220.5981" z="149.2882"/>
+        <position name="Q235_55_v67" unit="mm" x="255.0529" y="217.3801" z="149.2882"/>
+        <position name="Q235_55_v68" unit="mm" x="252.5056" y="218.1952" z="149.2882"/>
+        <position name="Q235_55_v69" unit="mm" x="251.1511" y="215.2293" z="149.2882"/>
+        <position name="Q235_55_v70" unit="mm" x="248.6665" y="216.4111" z="149.2882"/>
+        <position name="Q235_55_v71" unit="mm" x="246.9503" y="213.7448" z="149.2882"/>
+        <position name="Q235_55_v72" unit="mm" x="244.5825" y="215.2962" z="149.2882"/>
+        <position name="Q235_55_v73" unit="mm" x="242.5634" y="212.9666" z="149.2882"/>
+        <position name="Q235_55_v74" unit="mm" x="240.3694" y="214.8823" z="149.2882"/>
+        <position name="Q235_55_v75" unit="mm" x="238.1083" y="212.9157" z="149.2882"/>
+        <position name="Q235_55_v76" unit="mm" x="233.7047" y="213.5933" z="149.2882"/>
+        <position name="Q235_55_v77" unit="mm" x="236.1465" y="215.181" z="142.0492"/>
+        <position name="Q235_55_v78" unit="mm" x="233.7047" y="213.5933" z="142.0492"/>
+        <position name="Q235_55_v79" unit="mm" x="232.0336" y="216.1839" z="142.0492"/>
+        <position name="Q235_55_v80" unit="mm" x="229.471" y="214.9812" z="142.0492"/>
+        <position name="Q235_55_v81" unit="mm" x="228.1472" y="217.8625" z="142.0492"/>
+        <position name="Q235_55_v82" unit="mm" x="225.521" y="217.0422" z="142.0492"/>
+        <position name="Q235_55_v83" unit="mm" x="224.5975" y="220.1693" z="142.0492"/>
+        <position name="Q235_55_v84" unit="mm" x="221.9608" y="219.7209" z="142.0492"/>
+        <position name="Q235_55_v85" unit="mm" x="221.4851" y="223.0389" z="142.0492"/>
+        <position name="Q235_55_v86" unit="mm" x="218.8861" y="222.9452" z="142.0492"/>
+        <position name="Q235_55_v87" unit="mm" x="218.8981" y="226.39" z="142.0492"/>
+        <position name="Q235_55_v88" unit="mm" x="216.3795" y="226.6286" z="142.0492"/>
+        <position name="Q235_55_v89" unit="mm" x="216.9101" y="230.1276" z="142.0492"/>
+        <position name="Q235_55_v90" unit="mm" x="214.5083" y="230.672" z="142.0492"/>
+        <position name="Q235_55_v91" unit="mm" x="215.5771" y="234.1457" z="142.0492"/>
+        <position name="Q235_55_v92" unit="mm" x="213.3229" y="234.9668" z="142.0492"/>
+        <position name="Q235_55_v93" unit="mm" x="214.9371" y="238.3304" z="142.0492"/>
+        <position name="Q235_55_v94" unit="mm" x="212.8552" y="239.3976" z="142.0492"/>
+        <position name="Q235_55_v95" unit="mm" x="215.0083" y="242.5632" z="142.0492"/>
+        <position name="Q235_55_v96" unit="mm" x="213.1176" y="243.8452" z="142.0492"/>
+        <position name="Q235_55_v97" unit="mm" x="215.7885" y="246.7242" z="142.0492"/>
+        <position name="Q235_55_v98" unit="mm" x="214.1032" y="248.1902" z="142.0492"/>
+        <position name="Q235_55_v99" unit="mm" x="217.2556" y="250.6952" z="142.0492"/>
+        <position name="Q235_55_v100" unit="mm" x="215.7854" y="252.3158" z="142.0492"/>
+        <position name="Q235_55_v101" unit="mm" x="219.3681" y="254.3639" z="142.0492"/>
+        <position name="Q235_55_v102" unit="mm" x="218.1191" y="256.1111" z="142.0492"/>
+        <position name="Q235_55_v103" unit="mm" x="222.0662" y="257.6262" z="142.0492"/>
+        <position name="Q235_55_v104" unit="mm" x="221.0415" y="259.4742" z="142.0492"/>
+        <position name="Q235_55_v105" unit="mm" x="225.2732" y="260.3896" z="142.0492"/>
+        <position name="Q235_55_v106" unit="mm" x="224.4741" y="262.3146" z="142.0492"/>
+        <position name="Q235_55_v107" unit="mm" x="228.8984" y="262.5759" z="142.0492"/>
+        <position name="Q235_55_v108" unit="mm" x="228.3246" y="264.556" z="142.0492"/>
+        <position name="Q235_55_v109" unit="mm" x="232.839" y="264.123" z="142.0492"/>
+        <position name="Q235_55_v110" unit="mm" x="232.4896" y="266.1381" z="142.0492"/>
+        <position name="Q235_55_v111" unit="mm" x="236.9833" y="264.9872" z="142.0492"/>
+        <position name="Q235_55_v112" unit="mm" x="236.8571" y="267.0186" z="142.0492"/>
+        <position name="Q235_55_v113" unit="mm" x="241.2138" y="265.1438" z="142.0492"/>
+        <position name="Q235_55_v114" unit="mm" x="241.3098" y="267.1736" z="142.0492"/>
+        <position name="Q235_55_v115" unit="mm" x="242.3856" y="265.061" z="142.0492"/>
+        <position name="Q235_55_v116" unit="mm" x="242.5763" y="267.084" z="142.0492"/>
+        <position name="Q235_55_v117" unit="mm" x="246.552" y="264.3103" z="142.0492"/>
+        <position name="Q235_55_v118" unit="mm" x="246.9628" y="266.3037" z="142.0492"/>
+        <position name="Q235_55_v119" unit="mm" x="250.5333" y="262.8714" z="142.0492"/>
+        <position name="Q235_55_v120" unit="mm" x="251.1629" y="264.8173" z="142.0492"/>
+        <position name="Q235_55_v121" unit="mm" x="254.2169" y="260.785" z="142.0492"/>
+        <position name="Q235_55_v122" unit="mm" x="255.0637" y="262.6646" z="142.0492"/>
+        <position name="Q235_55_v123" unit="mm" x="257.4982" y="258.1102" z="142.0492"/>
+        <position name="Q235_55_v124" unit="mm" x="258.5604" y="259.9035" z="142.0492"/>
+        <position name="Q235_55_v125" unit="mm" x="260.2844" y="254.9228" z="142.0492"/>
+        <position name="Q235_55_v126" unit="mm" x="261.559" y="256.6082" z="142.0492"/>
+        <position name="Q235_55_v127" unit="mm" x="262.4963" y="251.3132" z="142.0492"/>
+        <position name="Q235_55_v128" unit="mm" x="263.9789" y="252.8672" z="142.0492"/>
+        <position name="Q235_55_v129" unit="mm" x="264.0714" y="247.3837" z="142.0492"/>
+        <position name="Q235_55_v130" unit="mm" x="265.7551" y="248.7812" z="142.0492"/>
+        <position name="Q235_55_v131" unit="mm" x="264.9649" y="243.2456" z="142.0492"/>
+        <position name="Q235_55_v132" unit="mm" x="266.8398" y="244.4599" z="142.0492"/>
+        <position name="Q235_55_v133" unit="mm" x="265.1516" y="239.0163" z="142.0492"/>
+        <position name="Q235_55_v134" unit="mm" x="267.2039" y="240.0194" z="142.0492"/>
+        <position name="Q235_55_v135" unit="mm" x="264.6262" y="234.8157" z="142.0492"/>
+        <position name="Q235_55_v136" unit="mm" x="266.8377" y="235.5791" z="142.0492"/>
+        <position name="Q235_55_v137" unit="mm" x="263.4035" y="230.7626" z="142.0492"/>
+        <position name="Q235_55_v138" unit="mm" x="265.7509" y="231.2583" z="142.0492"/>
+        <position name="Q235_55_v139" unit="mm" x="261.5183" y="226.9722" z="142.0492"/>
+        <position name="Q235_55_v140" unit="mm" x="263.9727" y="227.1732" z="142.0492"/>
+        <position name="Q235_55_v141" unit="mm" x="259.0239" y="223.5517" z="142.0492"/>
+        <position name="Q235_55_v142" unit="mm" x="261.5511" y="223.4334" z="142.0492"/>
+        <position name="Q235_55_v143" unit="mm" x="255.991" y="220.5981" z="142.0492"/>
+        <position name="Q235_55_v144" unit="mm" x="258.5509" y="220.1395" z="142.0492"/>
+        <position name="Q235_55_v145" unit="mm" x="252.5056" y="218.1952" z="142.0492"/>
+        <position name="Q235_55_v146" unit="mm" x="255.0529" y="217.3801" z="142.0492"/>
+        <position name="Q235_55_v147" unit="mm" x="248.6665" y="216.4111" z="142.0492"/>
+        <position name="Q235_55_v148" unit="mm" x="251.1511" y="215.2293" z="142.0492"/>
+        <position name="Q235_55_v149" unit="mm" x="244.5825" y="215.2962" z="142.0492"/>
+        <position name="Q235_55_v150" unit="mm" x="246.9503" y="213.7448" z="142.0492"/>
+        <position name="Q235_55_v151" unit="mm" x="240.3694" y="214.8823" z="142.0492"/>
+        <position name="Q235_55_v152" unit="mm" x="242.5634" y="212.9666" z="142.0492"/>
+        <position name="Q235_55_v153" unit="mm" x="238.1083" y="212.9157" z="142.0492"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Q235_55-SOL">
+             <triangular vertex1="Q235_55_v0" vertex2="Q235_55_v1" vertex3="Q235_55_v2"/>
+             <triangular vertex1="Q235_55_v2" vertex2="Q235_55_v1" vertex3="Q235_55_v3"/>
+             <triangular vertex1="Q235_55_v2" vertex2="Q235_55_v3" vertex3="Q235_55_v4"/>
+             <triangular vertex1="Q235_55_v4" vertex2="Q235_55_v3" vertex3="Q235_55_v5"/>
+             <triangular vertex1="Q235_55_v4" vertex2="Q235_55_v5" vertex3="Q235_55_v6"/>
+             <triangular vertex1="Q235_55_v6" vertex2="Q235_55_v5" vertex3="Q235_55_v7"/>
+             <triangular vertex1="Q235_55_v6" vertex2="Q235_55_v7" vertex3="Q235_55_v8"/>
+             <triangular vertex1="Q235_55_v8" vertex2="Q235_55_v7" vertex3="Q235_55_v9"/>
+             <triangular vertex1="Q235_55_v8" vertex2="Q235_55_v9" vertex3="Q235_55_v10"/>
+             <triangular vertex1="Q235_55_v10" vertex2="Q235_55_v9" vertex3="Q235_55_v11"/>
+             <triangular vertex1="Q235_55_v10" vertex2="Q235_55_v11" vertex3="Q235_55_v12"/>
+             <triangular vertex1="Q235_55_v12" vertex2="Q235_55_v11" vertex3="Q235_55_v13"/>
+             <triangular vertex1="Q235_55_v12" vertex2="Q235_55_v13" vertex3="Q235_55_v14"/>
+             <triangular vertex1="Q235_55_v14" vertex2="Q235_55_v13" vertex3="Q235_55_v15"/>
+             <triangular vertex1="Q235_55_v14" vertex2="Q235_55_v15" vertex3="Q235_55_v16"/>
+             <triangular vertex1="Q235_55_v16" vertex2="Q235_55_v15" vertex3="Q235_55_v17"/>
+             <triangular vertex1="Q235_55_v16" vertex2="Q235_55_v17" vertex3="Q235_55_v18"/>
+             <triangular vertex1="Q235_55_v18" vertex2="Q235_55_v17" vertex3="Q235_55_v19"/>
+             <triangular vertex1="Q235_55_v18" vertex2="Q235_55_v19" vertex3="Q235_55_v20"/>
+             <triangular vertex1="Q235_55_v20" vertex2="Q235_55_v19" vertex3="Q235_55_v21"/>
+             <triangular vertex1="Q235_55_v20" vertex2="Q235_55_v21" vertex3="Q235_55_v22"/>
+             <triangular vertex1="Q235_55_v22" vertex2="Q235_55_v21" vertex3="Q235_55_v23"/>
+             <triangular vertex1="Q235_55_v22" vertex2="Q235_55_v23" vertex3="Q235_55_v24"/>
+             <triangular vertex1="Q235_55_v24" vertex2="Q235_55_v23" vertex3="Q235_55_v25"/>
+             <triangular vertex1="Q235_55_v24" vertex2="Q235_55_v25" vertex3="Q235_55_v26"/>
+             <triangular vertex1="Q235_55_v26" vertex2="Q235_55_v25" vertex3="Q235_55_v27"/>
+             <triangular vertex1="Q235_55_v26" vertex2="Q235_55_v27" vertex3="Q235_55_v28"/>
+             <triangular vertex1="Q235_55_v28" vertex2="Q235_55_v27" vertex3="Q235_55_v29"/>
+             <triangular vertex1="Q235_55_v28" vertex2="Q235_55_v29" vertex3="Q235_55_v30"/>
+             <triangular vertex1="Q235_55_v30" vertex2="Q235_55_v29" vertex3="Q235_55_v31"/>
+             <triangular vertex1="Q235_55_v30" vertex2="Q235_55_v31" vertex3="Q235_55_v32"/>
+             <triangular vertex1="Q235_55_v32" vertex2="Q235_55_v31" vertex3="Q235_55_v33"/>
+             <triangular vertex1="Q235_55_v32" vertex2="Q235_55_v33" vertex3="Q235_55_v34"/>
+             <triangular vertex1="Q235_55_v34" vertex2="Q235_55_v33" vertex3="Q235_55_v35"/>
+             <triangular vertex1="Q235_55_v34" vertex2="Q235_55_v35" vertex3="Q235_55_v36"/>
+             <triangular vertex1="Q235_55_v37" vertex2="Q235_55_v38" vertex3="Q235_55_v39"/>
+             <triangular vertex1="Q235_55_v39" vertex2="Q235_55_v38" vertex3="Q235_55_v40"/>
+             <triangular vertex1="Q235_55_v39" vertex2="Q235_55_v40" vertex3="Q235_55_v41"/>
+             <triangular vertex1="Q235_55_v41" vertex2="Q235_55_v40" vertex3="Q235_55_v42"/>
+             <triangular vertex1="Q235_55_v41" vertex2="Q235_55_v42" vertex3="Q235_55_v43"/>
+             <triangular vertex1="Q235_55_v43" vertex2="Q235_55_v42" vertex3="Q235_55_v44"/>
+             <triangular vertex1="Q235_55_v43" vertex2="Q235_55_v44" vertex3="Q235_55_v45"/>
+             <triangular vertex1="Q235_55_v45" vertex2="Q235_55_v44" vertex3="Q235_55_v46"/>
+             <triangular vertex1="Q235_55_v45" vertex2="Q235_55_v46" vertex3="Q235_55_v47"/>
+             <triangular vertex1="Q235_55_v47" vertex2="Q235_55_v46" vertex3="Q235_55_v48"/>
+             <triangular vertex1="Q235_55_v47" vertex2="Q235_55_v48" vertex3="Q235_55_v49"/>
+             <triangular vertex1="Q235_55_v49" vertex2="Q235_55_v48" vertex3="Q235_55_v50"/>
+             <triangular vertex1="Q235_55_v49" vertex2="Q235_55_v50" vertex3="Q235_55_v51"/>
+             <triangular vertex1="Q235_55_v51" vertex2="Q235_55_v50" vertex3="Q235_55_v52"/>
+             <triangular vertex1="Q235_55_v51" vertex2="Q235_55_v52" vertex3="Q235_55_v53"/>
+             <triangular vertex1="Q235_55_v53" vertex2="Q235_55_v52" vertex3="Q235_55_v54"/>
+             <triangular vertex1="Q235_55_v53" vertex2="Q235_55_v54" vertex3="Q235_55_v55"/>
+             <triangular vertex1="Q235_55_v55" vertex2="Q235_55_v54" vertex3="Q235_55_v56"/>
+             <triangular vertex1="Q235_55_v55" vertex2="Q235_55_v56" vertex3="Q235_55_v57"/>
+             <triangular vertex1="Q235_55_v57" vertex2="Q235_55_v56" vertex3="Q235_55_v58"/>
+             <triangular vertex1="Q235_55_v57" vertex2="Q235_55_v58" vertex3="Q235_55_v59"/>
+             <triangular vertex1="Q235_55_v59" vertex2="Q235_55_v58" vertex3="Q235_55_v60"/>
+             <triangular vertex1="Q235_55_v59" vertex2="Q235_55_v60" vertex3="Q235_55_v61"/>
+             <triangular vertex1="Q235_55_v61" vertex2="Q235_55_v60" vertex3="Q235_55_v62"/>
+             <triangular vertex1="Q235_55_v61" vertex2="Q235_55_v62" vertex3="Q235_55_v63"/>
+             <triangular vertex1="Q235_55_v63" vertex2="Q235_55_v62" vertex3="Q235_55_v64"/>
+             <triangular vertex1="Q235_55_v63" vertex2="Q235_55_v64" vertex3="Q235_55_v65"/>
+             <triangular vertex1="Q235_55_v65" vertex2="Q235_55_v64" vertex3="Q235_55_v66"/>
+             <triangular vertex1="Q235_55_v65" vertex2="Q235_55_v66" vertex3="Q235_55_v67"/>
+             <triangular vertex1="Q235_55_v67" vertex2="Q235_55_v66" vertex3="Q235_55_v68"/>
+             <triangular vertex1="Q235_55_v67" vertex2="Q235_55_v68" vertex3="Q235_55_v69"/>
+             <triangular vertex1="Q235_55_v69" vertex2="Q235_55_v68" vertex3="Q235_55_v70"/>
+             <triangular vertex1="Q235_55_v69" vertex2="Q235_55_v70" vertex3="Q235_55_v71"/>
+             <triangular vertex1="Q235_55_v71" vertex2="Q235_55_v70" vertex3="Q235_55_v72"/>
+             <triangular vertex1="Q235_55_v71" vertex2="Q235_55_v72" vertex3="Q235_55_v73"/>
+             <triangular vertex1="Q235_55_v73" vertex2="Q235_55_v72" vertex3="Q235_55_v74"/>
+             <triangular vertex1="Q235_55_v73" vertex2="Q235_55_v74" vertex3="Q235_55_v75"/>
+             <triangular vertex1="Q235_55_v75" vertex2="Q235_55_v74" vertex3="Q235_55_v36"/>
+             <triangular vertex1="Q235_55_v75" vertex2="Q235_55_v36" vertex3="Q235_55_v76"/>
+             <triangular vertex1="Q235_55_v76" vertex2="Q235_55_v36" vertex3="Q235_55_v35"/>
+             <triangular vertex1="Q235_55_v77" vertex2="Q235_55_v78" vertex3="Q235_55_v79"/>
+             <triangular vertex1="Q235_55_v79" vertex2="Q235_55_v78" vertex3="Q235_55_v80"/>
+             <triangular vertex1="Q235_55_v79" vertex2="Q235_55_v80" vertex3="Q235_55_v81"/>
+             <triangular vertex1="Q235_55_v81" vertex2="Q235_55_v80" vertex3="Q235_55_v82"/>
+             <triangular vertex1="Q235_55_v81" vertex2="Q235_55_v82" vertex3="Q235_55_v83"/>
+             <triangular vertex1="Q235_55_v83" vertex2="Q235_55_v82" vertex3="Q235_55_v84"/>
+             <triangular vertex1="Q235_55_v83" vertex2="Q235_55_v84" vertex3="Q235_55_v85"/>
+             <triangular vertex1="Q235_55_v85" vertex2="Q235_55_v84" vertex3="Q235_55_v86"/>
+             <triangular vertex1="Q235_55_v85" vertex2="Q235_55_v86" vertex3="Q235_55_v87"/>
+             <triangular vertex1="Q235_55_v87" vertex2="Q235_55_v86" vertex3="Q235_55_v88"/>
+             <triangular vertex1="Q235_55_v87" vertex2="Q235_55_v88" vertex3="Q235_55_v89"/>
+             <triangular vertex1="Q235_55_v89" vertex2="Q235_55_v88" vertex3="Q235_55_v90"/>
+             <triangular vertex1="Q235_55_v89" vertex2="Q235_55_v90" vertex3="Q235_55_v91"/>
+             <triangular vertex1="Q235_55_v91" vertex2="Q235_55_v90" vertex3="Q235_55_v92"/>
+             <triangular vertex1="Q235_55_v91" vertex2="Q235_55_v92" vertex3="Q235_55_v93"/>
+             <triangular vertex1="Q235_55_v93" vertex2="Q235_55_v92" vertex3="Q235_55_v94"/>
+             <triangular vertex1="Q235_55_v93" vertex2="Q235_55_v94" vertex3="Q235_55_v95"/>
+             <triangular vertex1="Q235_55_v95" vertex2="Q235_55_v94" vertex3="Q235_55_v96"/>
+             <triangular vertex1="Q235_55_v95" vertex2="Q235_55_v96" vertex3="Q235_55_v97"/>
+             <triangular vertex1="Q235_55_v97" vertex2="Q235_55_v96" vertex3="Q235_55_v98"/>
+             <triangular vertex1="Q235_55_v97" vertex2="Q235_55_v98" vertex3="Q235_55_v99"/>
+             <triangular vertex1="Q235_55_v99" vertex2="Q235_55_v98" vertex3="Q235_55_v100"/>
+             <triangular vertex1="Q235_55_v99" vertex2="Q235_55_v100" vertex3="Q235_55_v101"/>
+             <triangular vertex1="Q235_55_v101" vertex2="Q235_55_v100" vertex3="Q235_55_v102"/>
+             <triangular vertex1="Q235_55_v101" vertex2="Q235_55_v102" vertex3="Q235_55_v103"/>
+             <triangular vertex1="Q235_55_v103" vertex2="Q235_55_v102" vertex3="Q235_55_v104"/>
+             <triangular vertex1="Q235_55_v103" vertex2="Q235_55_v104" vertex3="Q235_55_v105"/>
+             <triangular vertex1="Q235_55_v105" vertex2="Q235_55_v104" vertex3="Q235_55_v106"/>
+             <triangular vertex1="Q235_55_v105" vertex2="Q235_55_v106" vertex3="Q235_55_v107"/>
+             <triangular vertex1="Q235_55_v107" vertex2="Q235_55_v106" vertex3="Q235_55_v108"/>
+             <triangular vertex1="Q235_55_v107" vertex2="Q235_55_v108" vertex3="Q235_55_v109"/>
+             <triangular vertex1="Q235_55_v109" vertex2="Q235_55_v108" vertex3="Q235_55_v110"/>
+             <triangular vertex1="Q235_55_v109" vertex2="Q235_55_v110" vertex3="Q235_55_v111"/>
+             <triangular vertex1="Q235_55_v111" vertex2="Q235_55_v110" vertex3="Q235_55_v112"/>
+             <triangular vertex1="Q235_55_v111" vertex2="Q235_55_v112" vertex3="Q235_55_v113"/>
+             <triangular vertex1="Q235_55_v113" vertex2="Q235_55_v112" vertex3="Q235_55_v114"/>
+             <triangular vertex1="Q235_55_v115" vertex2="Q235_55_v116" vertex3="Q235_55_v117"/>
+             <triangular vertex1="Q235_55_v117" vertex2="Q235_55_v116" vertex3="Q235_55_v118"/>
+             <triangular vertex1="Q235_55_v117" vertex2="Q235_55_v118" vertex3="Q235_55_v119"/>
+             <triangular vertex1="Q235_55_v119" vertex2="Q235_55_v118" vertex3="Q235_55_v120"/>
+             <triangular vertex1="Q235_55_v119" vertex2="Q235_55_v120" vertex3="Q235_55_v121"/>
+             <triangular vertex1="Q235_55_v121" vertex2="Q235_55_v120" vertex3="Q235_55_v122"/>
+             <triangular vertex1="Q235_55_v121" vertex2="Q235_55_v122" vertex3="Q235_55_v123"/>
+             <triangular vertex1="Q235_55_v123" vertex2="Q235_55_v122" vertex3="Q235_55_v124"/>
+             <triangular vertex1="Q235_55_v123" vertex2="Q235_55_v124" vertex3="Q235_55_v125"/>
+             <triangular vertex1="Q235_55_v125" vertex2="Q235_55_v124" vertex3="Q235_55_v126"/>
+             <triangular vertex1="Q235_55_v125" vertex2="Q235_55_v126" vertex3="Q235_55_v127"/>
+             <triangular vertex1="Q235_55_v127" vertex2="Q235_55_v126" vertex3="Q235_55_v128"/>
+             <triangular vertex1="Q235_55_v127" vertex2="Q235_55_v128" vertex3="Q235_55_v129"/>
+             <triangular vertex1="Q235_55_v129" vertex2="Q235_55_v128" vertex3="Q235_55_v130"/>
+             <triangular vertex1="Q235_55_v129" vertex2="Q235_55_v130" vertex3="Q235_55_v131"/>
+             <triangular vertex1="Q235_55_v131" vertex2="Q235_55_v130" vertex3="Q235_55_v132"/>
+             <triangular vertex1="Q235_55_v131" vertex2="Q235_55_v132" vertex3="Q235_55_v133"/>
+             <triangular vertex1="Q235_55_v133" vertex2="Q235_55_v132" vertex3="Q235_55_v134"/>
+             <triangular vertex1="Q235_55_v133" vertex2="Q235_55_v134" vertex3="Q235_55_v135"/>
+             <triangular vertex1="Q235_55_v135" vertex2="Q235_55_v134" vertex3="Q235_55_v136"/>
+             <triangular vertex1="Q235_55_v135" vertex2="Q235_55_v136" vertex3="Q235_55_v137"/>
+             <triangular vertex1="Q235_55_v137" vertex2="Q235_55_v136" vertex3="Q235_55_v138"/>
+             <triangular vertex1="Q235_55_v137" vertex2="Q235_55_v138" vertex3="Q235_55_v139"/>
+             <triangular vertex1="Q235_55_v139" vertex2="Q235_55_v138" vertex3="Q235_55_v140"/>
+             <triangular vertex1="Q235_55_v139" vertex2="Q235_55_v140" vertex3="Q235_55_v141"/>
+             <triangular vertex1="Q235_55_v141" vertex2="Q235_55_v140" vertex3="Q235_55_v142"/>
+             <triangular vertex1="Q235_55_v141" vertex2="Q235_55_v142" vertex3="Q235_55_v143"/>
+             <triangular vertex1="Q235_55_v143" vertex2="Q235_55_v142" vertex3="Q235_55_v144"/>
+             <triangular vertex1="Q235_55_v143" vertex2="Q235_55_v144" vertex3="Q235_55_v145"/>
+             <triangular vertex1="Q235_55_v145" vertex2="Q235_55_v144" vertex3="Q235_55_v146"/>
+             <triangular vertex1="Q235_55_v145" vertex2="Q235_55_v146" vertex3="Q235_55_v147"/>
+             <triangular vertex1="Q235_55_v147" vertex2="Q235_55_v146" vertex3="Q235_55_v148"/>
+             <triangular vertex1="Q235_55_v147" vertex2="Q235_55_v148" vertex3="Q235_55_v149"/>
+             <triangular vertex1="Q235_55_v149" vertex2="Q235_55_v148" vertex3="Q235_55_v150"/>
+             <triangular vertex1="Q235_55_v149" vertex2="Q235_55_v150" vertex3="Q235_55_v151"/>
+             <triangular vertex1="Q235_55_v151" vertex2="Q235_55_v150" vertex3="Q235_55_v152"/>
+             <triangular vertex1="Q235_55_v151" vertex2="Q235_55_v152" vertex3="Q235_55_v77"/>
+             <triangular vertex1="Q235_55_v77" vertex2="Q235_55_v152" vertex3="Q235_55_v153"/>
+             <triangular vertex1="Q235_55_v77" vertex2="Q235_55_v153" vertex3="Q235_55_v78"/>
+             <triangular vertex1="Q235_55_v1" vertex2="Q235_55_v114" vertex3="Q235_55_v112"/>
+             <triangular vertex1="Q235_55_v1" vertex2="Q235_55_v112" vertex3="Q235_55_v3"/>
+             <triangular vertex1="Q235_55_v3" vertex2="Q235_55_v112" vertex3="Q235_55_v110"/>
+             <triangular vertex1="Q235_55_v3" vertex2="Q235_55_v110" vertex3="Q235_55_v5"/>
+             <triangular vertex1="Q235_55_v5" vertex2="Q235_55_v110" vertex3="Q235_55_v108"/>
+             <triangular vertex1="Q235_55_v5" vertex2="Q235_55_v108" vertex3="Q235_55_v7"/>
+             <triangular vertex1="Q235_55_v7" vertex2="Q235_55_v108" vertex3="Q235_55_v106"/>
+             <triangular vertex1="Q235_55_v7" vertex2="Q235_55_v106" vertex3="Q235_55_v9"/>
+             <triangular vertex1="Q235_55_v9" vertex2="Q235_55_v106" vertex3="Q235_55_v104"/>
+             <triangular vertex1="Q235_55_v9" vertex2="Q235_55_v104" vertex3="Q235_55_v11"/>
+             <triangular vertex1="Q235_55_v11" vertex2="Q235_55_v104" vertex3="Q235_55_v102"/>
+             <triangular vertex1="Q235_55_v11" vertex2="Q235_55_v102" vertex3="Q235_55_v13"/>
+             <triangular vertex1="Q235_55_v13" vertex2="Q235_55_v102" vertex3="Q235_55_v100"/>
+             <triangular vertex1="Q235_55_v13" vertex2="Q235_55_v100" vertex3="Q235_55_v15"/>
+             <triangular vertex1="Q235_55_v15" vertex2="Q235_55_v100" vertex3="Q235_55_v98"/>
+             <triangular vertex1="Q235_55_v15" vertex2="Q235_55_v98" vertex3="Q235_55_v17"/>
+             <triangular vertex1="Q235_55_v17" vertex2="Q235_55_v98" vertex3="Q235_55_v96"/>
+             <triangular vertex1="Q235_55_v17" vertex2="Q235_55_v96" vertex3="Q235_55_v19"/>
+             <triangular vertex1="Q235_55_v19" vertex2="Q235_55_v96" vertex3="Q235_55_v94"/>
+             <triangular vertex1="Q235_55_v19" vertex2="Q235_55_v94" vertex3="Q235_55_v21"/>
+             <triangular vertex1="Q235_55_v21" vertex2="Q235_55_v94" vertex3="Q235_55_v92"/>
+             <triangular vertex1="Q235_55_v21" vertex2="Q235_55_v92" vertex3="Q235_55_v23"/>
+             <triangular vertex1="Q235_55_v23" vertex2="Q235_55_v92" vertex3="Q235_55_v90"/>
+             <triangular vertex1="Q235_55_v23" vertex2="Q235_55_v90" vertex3="Q235_55_v25"/>
+             <triangular vertex1="Q235_55_v25" vertex2="Q235_55_v90" vertex3="Q235_55_v88"/>
+             <triangular vertex1="Q235_55_v25" vertex2="Q235_55_v88" vertex3="Q235_55_v27"/>
+             <triangular vertex1="Q235_55_v27" vertex2="Q235_55_v88" vertex3="Q235_55_v86"/>
+             <triangular vertex1="Q235_55_v27" vertex2="Q235_55_v86" vertex3="Q235_55_v29"/>
+             <triangular vertex1="Q235_55_v29" vertex2="Q235_55_v86" vertex3="Q235_55_v84"/>
+             <triangular vertex1="Q235_55_v29" vertex2="Q235_55_v84" vertex3="Q235_55_v31"/>
+             <triangular vertex1="Q235_55_v31" vertex2="Q235_55_v84" vertex3="Q235_55_v82"/>
+             <triangular vertex1="Q235_55_v31" vertex2="Q235_55_v82" vertex3="Q235_55_v33"/>
+             <triangular vertex1="Q235_55_v33" vertex2="Q235_55_v82" vertex3="Q235_55_v80"/>
+             <triangular vertex1="Q235_55_v33" vertex2="Q235_55_v80" vertex3="Q235_55_v35"/>
+             <triangular vertex1="Q235_55_v35" vertex2="Q235_55_v80" vertex3="Q235_55_v78"/>
+             <triangular vertex1="Q235_55_v35" vertex2="Q235_55_v78" vertex3="Q235_55_v76"/>
+             <triangular vertex1="Q235_55_v76" vertex2="Q235_55_v78" vertex3="Q235_55_v153"/>
+             <triangular vertex1="Q235_55_v76" vertex2="Q235_55_v153" vertex3="Q235_55_v75"/>
+             <triangular vertex1="Q235_55_v75" vertex2="Q235_55_v153" vertex3="Q235_55_v152"/>
+             <triangular vertex1="Q235_55_v75" vertex2="Q235_55_v152" vertex3="Q235_55_v73"/>
+             <triangular vertex1="Q235_55_v73" vertex2="Q235_55_v152" vertex3="Q235_55_v150"/>
+             <triangular vertex1="Q235_55_v73" vertex2="Q235_55_v150" vertex3="Q235_55_v71"/>
+             <triangular vertex1="Q235_55_v71" vertex2="Q235_55_v150" vertex3="Q235_55_v148"/>
+             <triangular vertex1="Q235_55_v71" vertex2="Q235_55_v148" vertex3="Q235_55_v69"/>
+             <triangular vertex1="Q235_55_v69" vertex2="Q235_55_v148" vertex3="Q235_55_v146"/>
+             <triangular vertex1="Q235_55_v69" vertex2="Q235_55_v146" vertex3="Q235_55_v67"/>
+             <triangular vertex1="Q235_55_v67" vertex2="Q235_55_v146" vertex3="Q235_55_v144"/>
+             <triangular vertex1="Q235_55_v67" vertex2="Q235_55_v144" vertex3="Q235_55_v65"/>
+             <triangular vertex1="Q235_55_v65" vertex2="Q235_55_v144" vertex3="Q235_55_v142"/>
+             <triangular vertex1="Q235_55_v65" vertex2="Q235_55_v142" vertex3="Q235_55_v63"/>
+             <triangular vertex1="Q235_55_v63" vertex2="Q235_55_v142" vertex3="Q235_55_v140"/>
+             <triangular vertex1="Q235_55_v63" vertex2="Q235_55_v140" vertex3="Q235_55_v61"/>
+             <triangular vertex1="Q235_55_v61" vertex2="Q235_55_v140" vertex3="Q235_55_v138"/>
+             <triangular vertex1="Q235_55_v61" vertex2="Q235_55_v138" vertex3="Q235_55_v59"/>
+             <triangular vertex1="Q235_55_v59" vertex2="Q235_55_v138" vertex3="Q235_55_v136"/>
+             <triangular vertex1="Q235_55_v59" vertex2="Q235_55_v136" vertex3="Q235_55_v57"/>
+             <triangular vertex1="Q235_55_v57" vertex2="Q235_55_v136" vertex3="Q235_55_v134"/>
+             <triangular vertex1="Q235_55_v57" vertex2="Q235_55_v134" vertex3="Q235_55_v55"/>
+             <triangular vertex1="Q235_55_v55" vertex2="Q235_55_v134" vertex3="Q235_55_v132"/>
+             <triangular vertex1="Q235_55_v55" vertex2="Q235_55_v132" vertex3="Q235_55_v53"/>
+             <triangular vertex1="Q235_55_v53" vertex2="Q235_55_v132" vertex3="Q235_55_v130"/>
+             <triangular vertex1="Q235_55_v53" vertex2="Q235_55_v130" vertex3="Q235_55_v51"/>
+             <triangular vertex1="Q235_55_v51" vertex2="Q235_55_v130" vertex3="Q235_55_v128"/>
+             <triangular vertex1="Q235_55_v51" vertex2="Q235_55_v128" vertex3="Q235_55_v49"/>
+             <triangular vertex1="Q235_55_v49" vertex2="Q235_55_v128" vertex3="Q235_55_v126"/>
+             <triangular vertex1="Q235_55_v49" vertex2="Q235_55_v126" vertex3="Q235_55_v47"/>
+             <triangular vertex1="Q235_55_v47" vertex2="Q235_55_v126" vertex3="Q235_55_v124"/>
+             <triangular vertex1="Q235_55_v47" vertex2="Q235_55_v124" vertex3="Q235_55_v45"/>
+             <triangular vertex1="Q235_55_v45" vertex2="Q235_55_v124" vertex3="Q235_55_v122"/>
+             <triangular vertex1="Q235_55_v45" vertex2="Q235_55_v122" vertex3="Q235_55_v43"/>
+             <triangular vertex1="Q235_55_v43" vertex2="Q235_55_v122" vertex3="Q235_55_v120"/>
+             <triangular vertex1="Q235_55_v43" vertex2="Q235_55_v120" vertex3="Q235_55_v41"/>
+             <triangular vertex1="Q235_55_v41" vertex2="Q235_55_v120" vertex3="Q235_55_v118"/>
+             <triangular vertex1="Q235_55_v41" vertex2="Q235_55_v118" vertex3="Q235_55_v39"/>
+             <triangular vertex1="Q235_55_v39" vertex2="Q235_55_v118" vertex3="Q235_55_v116"/>
+             <triangular vertex1="Q235_55_v39" vertex2="Q235_55_v116" vertex3="Q235_55_v37"/>
+             <triangular vertex1="Q235_55_v38" vertex2="Q235_55_v115" vertex3="Q235_55_v40"/>
+             <triangular vertex1="Q235_55_v40" vertex2="Q235_55_v115" vertex3="Q235_55_v117"/>
+             <triangular vertex1="Q235_55_v40" vertex2="Q235_55_v117" vertex3="Q235_55_v42"/>
+             <triangular vertex1="Q235_55_v42" vertex2="Q235_55_v117" vertex3="Q235_55_v119"/>
+             <triangular vertex1="Q235_55_v42" vertex2="Q235_55_v119" vertex3="Q235_55_v44"/>
+             <triangular vertex1="Q235_55_v44" vertex2="Q235_55_v119" vertex3="Q235_55_v121"/>
+             <triangular vertex1="Q235_55_v44" vertex2="Q235_55_v121" vertex3="Q235_55_v46"/>
+             <triangular vertex1="Q235_55_v46" vertex2="Q235_55_v121" vertex3="Q235_55_v123"/>
+             <triangular vertex1="Q235_55_v46" vertex2="Q235_55_v123" vertex3="Q235_55_v48"/>
+             <triangular vertex1="Q235_55_v48" vertex2="Q235_55_v123" vertex3="Q235_55_v125"/>
+             <triangular vertex1="Q235_55_v48" vertex2="Q235_55_v125" vertex3="Q235_55_v50"/>
+             <triangular vertex1="Q235_55_v50" vertex2="Q235_55_v125" vertex3="Q235_55_v127"/>
+             <triangular vertex1="Q235_55_v50" vertex2="Q235_55_v127" vertex3="Q235_55_v52"/>
+             <triangular vertex1="Q235_55_v52" vertex2="Q235_55_v127" vertex3="Q235_55_v129"/>
+             <triangular vertex1="Q235_55_v52" vertex2="Q235_55_v129" vertex3="Q235_55_v54"/>
+             <triangular vertex1="Q235_55_v54" vertex2="Q235_55_v129" vertex3="Q235_55_v131"/>
+             <triangular vertex1="Q235_55_v54" vertex2="Q235_55_v131" vertex3="Q235_55_v56"/>
+             <triangular vertex1="Q235_55_v56" vertex2="Q235_55_v131" vertex3="Q235_55_v133"/>
+             <triangular vertex1="Q235_55_v56" vertex2="Q235_55_v133" vertex3="Q235_55_v58"/>
+             <triangular vertex1="Q235_55_v58" vertex2="Q235_55_v133" vertex3="Q235_55_v135"/>
+             <triangular vertex1="Q235_55_v58" vertex2="Q235_55_v135" vertex3="Q235_55_v60"/>
+             <triangular vertex1="Q235_55_v60" vertex2="Q235_55_v135" vertex3="Q235_55_v137"/>
+             <triangular vertex1="Q235_55_v60" vertex2="Q235_55_v137" vertex3="Q235_55_v62"/>
+             <triangular vertex1="Q235_55_v62" vertex2="Q235_55_v137" vertex3="Q235_55_v139"/>
+             <triangular vertex1="Q235_55_v62" vertex2="Q235_55_v139" vertex3="Q235_55_v64"/>
+             <triangular vertex1="Q235_55_v64" vertex2="Q235_55_v139" vertex3="Q235_55_v141"/>
+             <triangular vertex1="Q235_55_v64" vertex2="Q235_55_v141" vertex3="Q235_55_v66"/>
+             <triangular vertex1="Q235_55_v66" vertex2="Q235_55_v141" vertex3="Q235_55_v143"/>
+             <triangular vertex1="Q235_55_v66" vertex2="Q235_55_v143" vertex3="Q235_55_v68"/>
+             <triangular vertex1="Q235_55_v68" vertex2="Q235_55_v143" vertex3="Q235_55_v145"/>
+             <triangular vertex1="Q235_55_v68" vertex2="Q235_55_v145" vertex3="Q235_55_v70"/>
+             <triangular vertex1="Q235_55_v70" vertex2="Q235_55_v145" vertex3="Q235_55_v147"/>
+             <triangular vertex1="Q235_55_v70" vertex2="Q235_55_v147" vertex3="Q235_55_v72"/>
+             <triangular vertex1="Q235_55_v72" vertex2="Q235_55_v147" vertex3="Q235_55_v149"/>
+             <triangular vertex1="Q235_55_v72" vertex2="Q235_55_v149" vertex3="Q235_55_v74"/>
+             <triangular vertex1="Q235_55_v74" vertex2="Q235_55_v149" vertex3="Q235_55_v151"/>
+             <triangular vertex1="Q235_55_v74" vertex2="Q235_55_v151" vertex3="Q235_55_v36"/>
+             <triangular vertex1="Q235_55_v36" vertex2="Q235_55_v151" vertex3="Q235_55_v77"/>
+             <triangular vertex1="Q235_55_v36" vertex2="Q235_55_v77" vertex3="Q235_55_v34"/>
+             <triangular vertex1="Q235_55_v34" vertex2="Q235_55_v77" vertex3="Q235_55_v79"/>
+             <triangular vertex1="Q235_55_v34" vertex2="Q235_55_v79" vertex3="Q235_55_v32"/>
+             <triangular vertex1="Q235_55_v32" vertex2="Q235_55_v79" vertex3="Q235_55_v81"/>
+             <triangular vertex1="Q235_55_v32" vertex2="Q235_55_v81" vertex3="Q235_55_v30"/>
+             <triangular vertex1="Q235_55_v30" vertex2="Q235_55_v81" vertex3="Q235_55_v83"/>
+             <triangular vertex1="Q235_55_v30" vertex2="Q235_55_v83" vertex3="Q235_55_v28"/>
+             <triangular vertex1="Q235_55_v28" vertex2="Q235_55_v83" vertex3="Q235_55_v85"/>
+             <triangular vertex1="Q235_55_v28" vertex2="Q235_55_v85" vertex3="Q235_55_v26"/>
+             <triangular vertex1="Q235_55_v26" vertex2="Q235_55_v85" vertex3="Q235_55_v87"/>
+             <triangular vertex1="Q235_55_v26" vertex2="Q235_55_v87" vertex3="Q235_55_v24"/>
+             <triangular vertex1="Q235_55_v24" vertex2="Q235_55_v87" vertex3="Q235_55_v89"/>
+             <triangular vertex1="Q235_55_v24" vertex2="Q235_55_v89" vertex3="Q235_55_v22"/>
+             <triangular vertex1="Q235_55_v22" vertex2="Q235_55_v89" vertex3="Q235_55_v91"/>
+             <triangular vertex1="Q235_55_v22" vertex2="Q235_55_v91" vertex3="Q235_55_v20"/>
+             <triangular vertex1="Q235_55_v20" vertex2="Q235_55_v91" vertex3="Q235_55_v93"/>
+             <triangular vertex1="Q235_55_v20" vertex2="Q235_55_v93" vertex3="Q235_55_v18"/>
+             <triangular vertex1="Q235_55_v18" vertex2="Q235_55_v93" vertex3="Q235_55_v95"/>
+             <triangular vertex1="Q235_55_v18" vertex2="Q235_55_v95" vertex3="Q235_55_v16"/>
+             <triangular vertex1="Q235_55_v16" vertex2="Q235_55_v95" vertex3="Q235_55_v97"/>
+             <triangular vertex1="Q235_55_v16" vertex2="Q235_55_v97" vertex3="Q235_55_v14"/>
+             <triangular vertex1="Q235_55_v14" vertex2="Q235_55_v97" vertex3="Q235_55_v99"/>
+             <triangular vertex1="Q235_55_v14" vertex2="Q235_55_v99" vertex3="Q235_55_v12"/>
+             <triangular vertex1="Q235_55_v12" vertex2="Q235_55_v99" vertex3="Q235_55_v101"/>
+             <triangular vertex1="Q235_55_v12" vertex2="Q235_55_v101" vertex3="Q235_55_v10"/>
+             <triangular vertex1="Q235_55_v10" vertex2="Q235_55_v101" vertex3="Q235_55_v103"/>
+             <triangular vertex1="Q235_55_v10" vertex2="Q235_55_v103" vertex3="Q235_55_v8"/>
+             <triangular vertex1="Q235_55_v8" vertex2="Q235_55_v103" vertex3="Q235_55_v105"/>
+             <triangular vertex1="Q235_55_v8" vertex2="Q235_55_v105" vertex3="Q235_55_v6"/>
+             <triangular vertex1="Q235_55_v6" vertex2="Q235_55_v105" vertex3="Q235_55_v107"/>
+             <triangular vertex1="Q235_55_v6" vertex2="Q235_55_v107" vertex3="Q235_55_v4"/>
+             <triangular vertex1="Q235_55_v4" vertex2="Q235_55_v107" vertex3="Q235_55_v109"/>
+             <triangular vertex1="Q235_55_v4" vertex2="Q235_55_v109" vertex3="Q235_55_v2"/>
+             <triangular vertex1="Q235_55_v2" vertex2="Q235_55_v109" vertex3="Q235_55_v111"/>
+             <triangular vertex1="Q235_55_v2" vertex2="Q235_55_v111" vertex3="Q235_55_v0"/>
+             <triangular vertex1="Q235_55_v0" vertex2="Q235_55_v111" vertex3="Q235_55_v113"/>
+             <triangular vertex1="Q235_55_v38" vertex2="Q235_55_v37" vertex3="Q235_55_v115"/>
+             <triangular vertex1="Q235_55_v115" vertex2="Q235_55_v37" vertex3="Q235_55_v116"/>
+             <triangular vertex1="Q235_55_v113" vertex2="Q235_55_v114" vertex3="Q235_55_v0"/>
+             <triangular vertex1="Q235_55_v0" vertex2="Q235_55_v114" vertex3="Q235_55_v1"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Q235_55">
+            <materialref ref="Q235"/>
+            <solidref ref="Q235_55-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Q235_55"/>
+    </setup>
+</gdml>

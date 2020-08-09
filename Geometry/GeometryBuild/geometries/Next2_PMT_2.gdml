@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gdml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+
+    <define>
+        <position name="Next2_PMT_2_v0" unit="mm" x="221.0348" y="240.8943" z="479.7422"/>
+        <position name="Next2_PMT_2_v1" unit="mm" x="221.291" y="240.1135" z="619.4422"/>
+        <position name="Next2_PMT_2_v2" unit="mm" x="221.291" y="240.1135" z="479.7422"/>
+        <position name="Next2_PMT_2_v3" unit="mm" x="221.1224" y="239.3093" z="619.4422"/>
+        <position name="Next2_PMT_2_v4" unit="mm" x="221.1224" y="239.3093" z="479.7422"/>
+        <position name="Next2_PMT_2_v5" unit="mm" x="220.5743" y="238.697" z="619.4422"/>
+        <position name="Next2_PMT_2_v6" unit="mm" x="220.5743" y="238.697" z="479.7422"/>
+        <position name="Next2_PMT_2_v7" unit="mm" x="219.7935" y="238.4408" z="619.4422"/>
+        <position name="Next2_PMT_2_v8" unit="mm" x="219.7935" y="238.4408" z="479.7422"/>
+        <position name="Next2_PMT_2_v9" unit="mm" x="218.9893" y="238.6094" z="619.4422"/>
+        <position name="Next2_PMT_2_v10" unit="mm" x="218.9893" y="238.6094" z="479.7422"/>
+        <position name="Next2_PMT_2_v11" unit="mm" x="218.377" y="239.1575" z="619.4422"/>
+        <position name="Next2_PMT_2_v12" unit="mm" x="218.377" y="239.1575" z="479.7422"/>
+        <position name="Next2_PMT_2_v13" unit="mm" x="218.1208" y="239.9383" z="619.4422"/>
+        <position name="Next2_PMT_2_v14" unit="mm" x="218.1208" y="239.9383" z="479.7422"/>
+        <position name="Next2_PMT_2_v15" unit="mm" x="218.2894" y="240.7426" z="619.4422"/>
+        <position name="Next2_PMT_2_v16" unit="mm" x="218.2894" y="240.7426" z="479.7422"/>
+        <position name="Next2_PMT_2_v17" unit="mm" x="218.8375" y="241.3548" z="619.4422"/>
+        <position name="Next2_PMT_2_v18" unit="mm" x="218.8375" y="241.3548" z="479.7422"/>
+        <position name="Next2_PMT_2_v19" unit="mm" x="219.6183" y="241.611" z="619.4422"/>
+        <position name="Next2_PMT_2_v20" unit="mm" x="219.6183" y="241.611" z="479.7422"/>
+        <position name="Next2_PMT_2_v21" unit="mm" x="220.4226" y="241.4424" z="619.4422"/>
+        <position name="Next2_PMT_2_v22" unit="mm" x="220.4226" y="241.4424" z="479.7422"/>
+        <position name="Next2_PMT_2_v23" unit="mm" x="221.0348" y="240.8943" z="619.4422"/>
+        <position name="Next2_PMT_2_v24" unit="mm" x="220.4992" y="239.6246" z="619.4422"/>
+        <position name="Next2_PMT_2_v25" unit="mm" x="220.5936" y="240.075" z="619.4422"/>
+        <position name="Next2_PMT_2_v26" unit="mm" x="220.4501" y="240.5122" z="619.4422"/>
+        <position name="Next2_PMT_2_v27" unit="mm" x="220.1073" y="240.8192" z="619.4422"/>
+        <position name="Next2_PMT_2_v28" unit="mm" x="219.6569" y="240.9136" z="619.4422"/>
+        <position name="Next2_PMT_2_v29" unit="mm" x="219.2196" y="240.7701" z="619.4422"/>
+        <position name="Next2_PMT_2_v30" unit="mm" x="218.9127" y="240.4273" z="619.4422"/>
+        <position name="Next2_PMT_2_v31" unit="mm" x="218.8183" y="239.9769" z="619.4422"/>
+        <position name="Next2_PMT_2_v32" unit="mm" x="218.9617" y="239.5396" z="619.4422"/>
+        <position name="Next2_PMT_2_v33" unit="mm" x="219.3046" y="239.2327" z="619.4422"/>
+        <position name="Next2_PMT_2_v34" unit="mm" x="219.755" y="239.1383" z="619.4422"/>
+        <position name="Next2_PMT_2_v35" unit="mm" x="220.1922" y="239.2817" z="619.4422"/>
+        <position name="Next2_PMT_2_v36" unit="mm" x="219.755" y="239.1383" z="479.7422"/>
+        <position name="Next2_PMT_2_v37" unit="mm" x="219.3046" y="239.2327" z="479.7422"/>
+        <position name="Next2_PMT_2_v38" unit="mm" x="218.9617" y="239.5396" z="479.7422"/>
+        <position name="Next2_PMT_2_v39" unit="mm" x="218.8183" y="239.9769" z="479.7422"/>
+        <position name="Next2_PMT_2_v40" unit="mm" x="218.9127" y="240.4273" z="479.7422"/>
+        <position name="Next2_PMT_2_v41" unit="mm" x="219.2196" y="240.7701" z="479.7422"/>
+        <position name="Next2_PMT_2_v42" unit="mm" x="219.6569" y="240.9136" z="479.7422"/>
+        <position name="Next2_PMT_2_v43" unit="mm" x="220.1073" y="240.8192" z="479.7422"/>
+        <position name="Next2_PMT_2_v44" unit="mm" x="220.4501" y="240.5122" z="479.7422"/>
+        <position name="Next2_PMT_2_v45" unit="mm" x="220.5936" y="240.075" z="479.7422"/>
+        <position name="Next2_PMT_2_v46" unit="mm" x="220.4992" y="239.6246" z="479.7422"/>
+        <position name="Next2_PMT_2_v47" unit="mm" x="220.1922" y="239.2817" z="479.7422"/>
+        <position name="Next2_PMT_2_v48" unit="mm" x="219.7059" y="240.0259" z="486.6263"/>
+        <position name="Next2_PMT_2_v49" unit="mm" x="220.5936" y="240.075" z="486.0922"/>
+        <position name="Next2_PMT_2_v50" unit="mm" x="220.4992" y="239.6246" z="486.0922"/>
+        <position name="Next2_PMT_2_v51" unit="mm" x="220.4501" y="240.5122" z="486.0922"/>
+        <position name="Next2_PMT_2_v52" unit="mm" x="219.755" y="239.1383" z="486.0922"/>
+        <position name="Next2_PMT_2_v53" unit="mm" x="219.3046" y="239.2327" z="486.0922"/>
+        <position name="Next2_PMT_2_v54" unit="mm" x="220.1922" y="239.2817" z="486.0922"/>
+        <position name="Next2_PMT_2_v55" unit="mm" x="218.8183" y="239.9769" z="486.0922"/>
+        <position name="Next2_PMT_2_v56" unit="mm" x="218.9127" y="240.4273" z="486.0922"/>
+        <position name="Next2_PMT_2_v57" unit="mm" x="218.9617" y="239.5396" z="486.0922"/>
+        <position name="Next2_PMT_2_v58" unit="mm" x="219.6569" y="240.9136" z="486.0922"/>
+        <position name="Next2_PMT_2_v59" unit="mm" x="220.1073" y="240.8192" z="486.0922"/>
+        <position name="Next2_PMT_2_v60" unit="mm" x="219.2196" y="240.7701" z="486.0922"/>
+        <position name="Next2_PMT_2_v61" unit="mm" x="219.7059" y="240.0259" z="612.558"/>
+        <position name="Next2_PMT_2_v62" unit="mm" x="219.3046" y="239.2327" z="613.0922"/>
+        <position name="Next2_PMT_2_v63" unit="mm" x="219.755" y="239.1383" z="613.0922"/>
+        <position name="Next2_PMT_2_v64" unit="mm" x="218.9617" y="239.5396" z="613.0922"/>
+        <position name="Next2_PMT_2_v65" unit="mm" x="220.4992" y="239.6246" z="613.0922"/>
+        <position name="Next2_PMT_2_v66" unit="mm" x="220.5936" y="240.075" z="613.0922"/>
+        <position name="Next2_PMT_2_v67" unit="mm" x="220.1922" y="239.2817" z="613.0922"/>
+        <position name="Next2_PMT_2_v68" unit="mm" x="220.1073" y="240.8192" z="613.0922"/>
+        <position name="Next2_PMT_2_v69" unit="mm" x="219.6569" y="240.9136" z="613.0922"/>
+        <position name="Next2_PMT_2_v70" unit="mm" x="220.4501" y="240.5122" z="613.0922"/>
+        <position name="Next2_PMT_2_v71" unit="mm" x="218.9127" y="240.4273" z="613.0922"/>
+        <position name="Next2_PMT_2_v72" unit="mm" x="218.8183" y="239.9769" z="613.0922"/>
+        <position name="Next2_PMT_2_v73" unit="mm" x="219.2196" y="240.7701" z="613.0922"/>
+    </define>
+
+    <solids>
+        <tessellated aunit="deg" lunit="mm" name="Next2_PMT_2-SOL">
+             <triangular vertex1="Next2_PMT_2_v0" vertex2="Next2_PMT_2_v1" vertex3="Next2_PMT_2_v2"/>
+             <triangular vertex1="Next2_PMT_2_v2" vertex2="Next2_PMT_2_v1" vertex3="Next2_PMT_2_v3"/>
+             <triangular vertex1="Next2_PMT_2_v2" vertex2="Next2_PMT_2_v3" vertex3="Next2_PMT_2_v4"/>
+             <triangular vertex1="Next2_PMT_2_v4" vertex2="Next2_PMT_2_v3" vertex3="Next2_PMT_2_v5"/>
+             <triangular vertex1="Next2_PMT_2_v4" vertex2="Next2_PMT_2_v5" vertex3="Next2_PMT_2_v6"/>
+             <triangular vertex1="Next2_PMT_2_v6" vertex2="Next2_PMT_2_v5" vertex3="Next2_PMT_2_v7"/>
+             <triangular vertex1="Next2_PMT_2_v6" vertex2="Next2_PMT_2_v7" vertex3="Next2_PMT_2_v8"/>
+             <triangular vertex1="Next2_PMT_2_v8" vertex2="Next2_PMT_2_v7" vertex3="Next2_PMT_2_v9"/>
+             <triangular vertex1="Next2_PMT_2_v8" vertex2="Next2_PMT_2_v9" vertex3="Next2_PMT_2_v10"/>
+             <triangular vertex1="Next2_PMT_2_v10" vertex2="Next2_PMT_2_v9" vertex3="Next2_PMT_2_v11"/>
+             <triangular vertex1="Next2_PMT_2_v10" vertex2="Next2_PMT_2_v11" vertex3="Next2_PMT_2_v12"/>
+             <triangular vertex1="Next2_PMT_2_v12" vertex2="Next2_PMT_2_v11" vertex3="Next2_PMT_2_v13"/>
+             <triangular vertex1="Next2_PMT_2_v12" vertex2="Next2_PMT_2_v13" vertex3="Next2_PMT_2_v14"/>
+             <triangular vertex1="Next2_PMT_2_v14" vertex2="Next2_PMT_2_v13" vertex3="Next2_PMT_2_v15"/>
+             <triangular vertex1="Next2_PMT_2_v14" vertex2="Next2_PMT_2_v15" vertex3="Next2_PMT_2_v16"/>
+             <triangular vertex1="Next2_PMT_2_v16" vertex2="Next2_PMT_2_v15" vertex3="Next2_PMT_2_v17"/>
+             <triangular vertex1="Next2_PMT_2_v16" vertex2="Next2_PMT_2_v17" vertex3="Next2_PMT_2_v18"/>
+             <triangular vertex1="Next2_PMT_2_v18" vertex2="Next2_PMT_2_v17" vertex3="Next2_PMT_2_v19"/>
+             <triangular vertex1="Next2_PMT_2_v18" vertex2="Next2_PMT_2_v19" vertex3="Next2_PMT_2_v20"/>
+             <triangular vertex1="Next2_PMT_2_v20" vertex2="Next2_PMT_2_v19" vertex3="Next2_PMT_2_v21"/>
+             <triangular vertex1="Next2_PMT_2_v20" vertex2="Next2_PMT_2_v21" vertex3="Next2_PMT_2_v22"/>
+             <triangular vertex1="Next2_PMT_2_v22" vertex2="Next2_PMT_2_v21" vertex3="Next2_PMT_2_v23"/>
+             <triangular vertex1="Next2_PMT_2_v22" vertex2="Next2_PMT_2_v23" vertex3="Next2_PMT_2_v0"/>
+             <triangular vertex1="Next2_PMT_2_v0" vertex2="Next2_PMT_2_v23" vertex3="Next2_PMT_2_v1"/>
+             <triangular vertex1="Next2_PMT_2_v24" vertex2="Next2_PMT_2_v3" vertex3="Next2_PMT_2_v25"/>
+             <triangular vertex1="Next2_PMT_2_v25" vertex2="Next2_PMT_2_v3" vertex3="Next2_PMT_2_v1"/>
+             <triangular vertex1="Next2_PMT_2_v25" vertex2="Next2_PMT_2_v1" vertex3="Next2_PMT_2_v26"/>
+             <triangular vertex1="Next2_PMT_2_v26" vertex2="Next2_PMT_2_v1" vertex3="Next2_PMT_2_v23"/>
+             <triangular vertex1="Next2_PMT_2_v26" vertex2="Next2_PMT_2_v23" vertex3="Next2_PMT_2_v27"/>
+             <triangular vertex1="Next2_PMT_2_v27" vertex2="Next2_PMT_2_v23" vertex3="Next2_PMT_2_v21"/>
+             <triangular vertex1="Next2_PMT_2_v27" vertex2="Next2_PMT_2_v21" vertex3="Next2_PMT_2_v28"/>
+             <triangular vertex1="Next2_PMT_2_v28" vertex2="Next2_PMT_2_v21" vertex3="Next2_PMT_2_v19"/>
+             <triangular vertex1="Next2_PMT_2_v28" vertex2="Next2_PMT_2_v19" vertex3="Next2_PMT_2_v29"/>
+             <triangular vertex1="Next2_PMT_2_v29" vertex2="Next2_PMT_2_v19" vertex3="Next2_PMT_2_v17"/>
+             <triangular vertex1="Next2_PMT_2_v29" vertex2="Next2_PMT_2_v17" vertex3="Next2_PMT_2_v30"/>
+             <triangular vertex1="Next2_PMT_2_v30" vertex2="Next2_PMT_2_v17" vertex3="Next2_PMT_2_v15"/>
+             <triangular vertex1="Next2_PMT_2_v30" vertex2="Next2_PMT_2_v15" vertex3="Next2_PMT_2_v31"/>
+             <triangular vertex1="Next2_PMT_2_v31" vertex2="Next2_PMT_2_v15" vertex3="Next2_PMT_2_v13"/>
+             <triangular vertex1="Next2_PMT_2_v31" vertex2="Next2_PMT_2_v13" vertex3="Next2_PMT_2_v32"/>
+             <triangular vertex1="Next2_PMT_2_v32" vertex2="Next2_PMT_2_v13" vertex3="Next2_PMT_2_v11"/>
+             <triangular vertex1="Next2_PMT_2_v32" vertex2="Next2_PMT_2_v11" vertex3="Next2_PMT_2_v33"/>
+             <triangular vertex1="Next2_PMT_2_v33" vertex2="Next2_PMT_2_v11" vertex3="Next2_PMT_2_v9"/>
+             <triangular vertex1="Next2_PMT_2_v33" vertex2="Next2_PMT_2_v9" vertex3="Next2_PMT_2_v34"/>
+             <triangular vertex1="Next2_PMT_2_v34" vertex2="Next2_PMT_2_v9" vertex3="Next2_PMT_2_v7"/>
+             <triangular vertex1="Next2_PMT_2_v34" vertex2="Next2_PMT_2_v7" vertex3="Next2_PMT_2_v35"/>
+             <triangular vertex1="Next2_PMT_2_v35" vertex2="Next2_PMT_2_v7" vertex3="Next2_PMT_2_v5"/>
+             <triangular vertex1="Next2_PMT_2_v35" vertex2="Next2_PMT_2_v5" vertex3="Next2_PMT_2_v24"/>
+             <triangular vertex1="Next2_PMT_2_v24" vertex2="Next2_PMT_2_v5" vertex3="Next2_PMT_2_v3"/>
+             <triangular vertex1="Next2_PMT_2_v36" vertex2="Next2_PMT_2_v8" vertex3="Next2_PMT_2_v37"/>
+             <triangular vertex1="Next2_PMT_2_v37" vertex2="Next2_PMT_2_v8" vertex3="Next2_PMT_2_v10"/>
+             <triangular vertex1="Next2_PMT_2_v37" vertex2="Next2_PMT_2_v10" vertex3="Next2_PMT_2_v38"/>
+             <triangular vertex1="Next2_PMT_2_v38" vertex2="Next2_PMT_2_v10" vertex3="Next2_PMT_2_v12"/>
+             <triangular vertex1="Next2_PMT_2_v38" vertex2="Next2_PMT_2_v12" vertex3="Next2_PMT_2_v39"/>
+             <triangular vertex1="Next2_PMT_2_v39" vertex2="Next2_PMT_2_v12" vertex3="Next2_PMT_2_v14"/>
+             <triangular vertex1="Next2_PMT_2_v39" vertex2="Next2_PMT_2_v14" vertex3="Next2_PMT_2_v40"/>
+             <triangular vertex1="Next2_PMT_2_v40" vertex2="Next2_PMT_2_v14" vertex3="Next2_PMT_2_v16"/>
+             <triangular vertex1="Next2_PMT_2_v40" vertex2="Next2_PMT_2_v16" vertex3="Next2_PMT_2_v41"/>
+             <triangular vertex1="Next2_PMT_2_v41" vertex2="Next2_PMT_2_v16" vertex3="Next2_PMT_2_v18"/>
+             <triangular vertex1="Next2_PMT_2_v41" vertex2="Next2_PMT_2_v18" vertex3="Next2_PMT_2_v42"/>
+             <triangular vertex1="Next2_PMT_2_v42" vertex2="Next2_PMT_2_v18" vertex3="Next2_PMT_2_v20"/>
+             <triangular vertex1="Next2_PMT_2_v42" vertex2="Next2_PMT_2_v20" vertex3="Next2_PMT_2_v43"/>
+             <triangular vertex1="Next2_PMT_2_v43" vertex2="Next2_PMT_2_v20" vertex3="Next2_PMT_2_v22"/>
+             <triangular vertex1="Next2_PMT_2_v43" vertex2="Next2_PMT_2_v22" vertex3="Next2_PMT_2_v44"/>
+             <triangular vertex1="Next2_PMT_2_v44" vertex2="Next2_PMT_2_v22" vertex3="Next2_PMT_2_v0"/>
+             <triangular vertex1="Next2_PMT_2_v44" vertex2="Next2_PMT_2_v0" vertex3="Next2_PMT_2_v45"/>
+             <triangular vertex1="Next2_PMT_2_v45" vertex2="Next2_PMT_2_v0" vertex3="Next2_PMT_2_v2"/>
+             <triangular vertex1="Next2_PMT_2_v45" vertex2="Next2_PMT_2_v2" vertex3="Next2_PMT_2_v46"/>
+             <triangular vertex1="Next2_PMT_2_v46" vertex2="Next2_PMT_2_v2" vertex3="Next2_PMT_2_v4"/>
+             <triangular vertex1="Next2_PMT_2_v46" vertex2="Next2_PMT_2_v4" vertex3="Next2_PMT_2_v47"/>
+             <triangular vertex1="Next2_PMT_2_v47" vertex2="Next2_PMT_2_v4" vertex3="Next2_PMT_2_v6"/>
+             <triangular vertex1="Next2_PMT_2_v47" vertex2="Next2_PMT_2_v6" vertex3="Next2_PMT_2_v36"/>
+             <triangular vertex1="Next2_PMT_2_v36" vertex2="Next2_PMT_2_v6" vertex3="Next2_PMT_2_v8"/>
+             <triangular vertex1="Next2_PMT_2_v48" vertex2="Next2_PMT_2_v49" vertex3="Next2_PMT_2_v50"/>
+             <triangular vertex1="Next2_PMT_2_v51" vertex2="Next2_PMT_2_v49" vertex3="Next2_PMT_2_v48"/>
+             <triangular vertex1="Next2_PMT_2_v48" vertex2="Next2_PMT_2_v52" vertex3="Next2_PMT_2_v53"/>
+             <triangular vertex1="Next2_PMT_2_v54" vertex2="Next2_PMT_2_v52" vertex3="Next2_PMT_2_v48"/>
+             <triangular vertex1="Next2_PMT_2_v50" vertex2="Next2_PMT_2_v54" vertex3="Next2_PMT_2_v48"/>
+             <triangular vertex1="Next2_PMT_2_v48" vertex2="Next2_PMT_2_v55" vertex3="Next2_PMT_2_v56"/>
+             <triangular vertex1="Next2_PMT_2_v57" vertex2="Next2_PMT_2_v55" vertex3="Next2_PMT_2_v48"/>
+             <triangular vertex1="Next2_PMT_2_v53" vertex2="Next2_PMT_2_v57" vertex3="Next2_PMT_2_v48"/>
+             <triangular vertex1="Next2_PMT_2_v48" vertex2="Next2_PMT_2_v58" vertex3="Next2_PMT_2_v59"/>
+             <triangular vertex1="Next2_PMT_2_v60" vertex2="Next2_PMT_2_v58" vertex3="Next2_PMT_2_v48"/>
+             <triangular vertex1="Next2_PMT_2_v56" vertex2="Next2_PMT_2_v60" vertex3="Next2_PMT_2_v48"/>
+             <triangular vertex1="Next2_PMT_2_v59" vertex2="Next2_PMT_2_v51" vertex3="Next2_PMT_2_v48"/>
+             <triangular vertex1="Next2_PMT_2_v51" vertex2="Next2_PMT_2_v44" vertex3="Next2_PMT_2_v49"/>
+             <triangular vertex1="Next2_PMT_2_v49" vertex2="Next2_PMT_2_v44" vertex3="Next2_PMT_2_v45"/>
+             <triangular vertex1="Next2_PMT_2_v49" vertex2="Next2_PMT_2_v45" vertex3="Next2_PMT_2_v50"/>
+             <triangular vertex1="Next2_PMT_2_v50" vertex2="Next2_PMT_2_v45" vertex3="Next2_PMT_2_v46"/>
+             <triangular vertex1="Next2_PMT_2_v50" vertex2="Next2_PMT_2_v46" vertex3="Next2_PMT_2_v54"/>
+             <triangular vertex1="Next2_PMT_2_v54" vertex2="Next2_PMT_2_v46" vertex3="Next2_PMT_2_v47"/>
+             <triangular vertex1="Next2_PMT_2_v54" vertex2="Next2_PMT_2_v47" vertex3="Next2_PMT_2_v52"/>
+             <triangular vertex1="Next2_PMT_2_v52" vertex2="Next2_PMT_2_v47" vertex3="Next2_PMT_2_v36"/>
+             <triangular vertex1="Next2_PMT_2_v52" vertex2="Next2_PMT_2_v36" vertex3="Next2_PMT_2_v53"/>
+             <triangular vertex1="Next2_PMT_2_v53" vertex2="Next2_PMT_2_v36" vertex3="Next2_PMT_2_v37"/>
+             <triangular vertex1="Next2_PMT_2_v53" vertex2="Next2_PMT_2_v37" vertex3="Next2_PMT_2_v57"/>
+             <triangular vertex1="Next2_PMT_2_v57" vertex2="Next2_PMT_2_v37" vertex3="Next2_PMT_2_v38"/>
+             <triangular vertex1="Next2_PMT_2_v57" vertex2="Next2_PMT_2_v38" vertex3="Next2_PMT_2_v55"/>
+             <triangular vertex1="Next2_PMT_2_v55" vertex2="Next2_PMT_2_v38" vertex3="Next2_PMT_2_v39"/>
+             <triangular vertex1="Next2_PMT_2_v55" vertex2="Next2_PMT_2_v39" vertex3="Next2_PMT_2_v56"/>
+             <triangular vertex1="Next2_PMT_2_v56" vertex2="Next2_PMT_2_v39" vertex3="Next2_PMT_2_v40"/>
+             <triangular vertex1="Next2_PMT_2_v56" vertex2="Next2_PMT_2_v40" vertex3="Next2_PMT_2_v60"/>
+             <triangular vertex1="Next2_PMT_2_v60" vertex2="Next2_PMT_2_v40" vertex3="Next2_PMT_2_v41"/>
+             <triangular vertex1="Next2_PMT_2_v60" vertex2="Next2_PMT_2_v41" vertex3="Next2_PMT_2_v58"/>
+             <triangular vertex1="Next2_PMT_2_v58" vertex2="Next2_PMT_2_v41" vertex3="Next2_PMT_2_v42"/>
+             <triangular vertex1="Next2_PMT_2_v58" vertex2="Next2_PMT_2_v42" vertex3="Next2_PMT_2_v59"/>
+             <triangular vertex1="Next2_PMT_2_v59" vertex2="Next2_PMT_2_v42" vertex3="Next2_PMT_2_v43"/>
+             <triangular vertex1="Next2_PMT_2_v59" vertex2="Next2_PMT_2_v43" vertex3="Next2_PMT_2_v51"/>
+             <triangular vertex1="Next2_PMT_2_v51" vertex2="Next2_PMT_2_v43" vertex3="Next2_PMT_2_v44"/>
+             <triangular vertex1="Next2_PMT_2_v61" vertex2="Next2_PMT_2_v62" vertex3="Next2_PMT_2_v63"/>
+             <triangular vertex1="Next2_PMT_2_v64" vertex2="Next2_PMT_2_v62" vertex3="Next2_PMT_2_v61"/>
+             <triangular vertex1="Next2_PMT_2_v61" vertex2="Next2_PMT_2_v65" vertex3="Next2_PMT_2_v66"/>
+             <triangular vertex1="Next2_PMT_2_v67" vertex2="Next2_PMT_2_v65" vertex3="Next2_PMT_2_v61"/>
+             <triangular vertex1="Next2_PMT_2_v63" vertex2="Next2_PMT_2_v67" vertex3="Next2_PMT_2_v61"/>
+             <triangular vertex1="Next2_PMT_2_v61" vertex2="Next2_PMT_2_v68" vertex3="Next2_PMT_2_v69"/>
+             <triangular vertex1="Next2_PMT_2_v70" vertex2="Next2_PMT_2_v68" vertex3="Next2_PMT_2_v61"/>
+             <triangular vertex1="Next2_PMT_2_v66" vertex2="Next2_PMT_2_v70" vertex3="Next2_PMT_2_v61"/>
+             <triangular vertex1="Next2_PMT_2_v61" vertex2="Next2_PMT_2_v71" vertex3="Next2_PMT_2_v72"/>
+             <triangular vertex1="Next2_PMT_2_v73" vertex2="Next2_PMT_2_v71" vertex3="Next2_PMT_2_v61"/>
+             <triangular vertex1="Next2_PMT_2_v69" vertex2="Next2_PMT_2_v73" vertex3="Next2_PMT_2_v61"/>
+             <triangular vertex1="Next2_PMT_2_v72" vertex2="Next2_PMT_2_v64" vertex3="Next2_PMT_2_v61"/>
+             <triangular vertex1="Next2_PMT_2_v64" vertex2="Next2_PMT_2_v32" vertex3="Next2_PMT_2_v62"/>
+             <triangular vertex1="Next2_PMT_2_v62" vertex2="Next2_PMT_2_v32" vertex3="Next2_PMT_2_v33"/>
+             <triangular vertex1="Next2_PMT_2_v62" vertex2="Next2_PMT_2_v33" vertex3="Next2_PMT_2_v63"/>
+             <triangular vertex1="Next2_PMT_2_v63" vertex2="Next2_PMT_2_v33" vertex3="Next2_PMT_2_v34"/>
+             <triangular vertex1="Next2_PMT_2_v63" vertex2="Next2_PMT_2_v34" vertex3="Next2_PMT_2_v67"/>
+             <triangular vertex1="Next2_PMT_2_v67" vertex2="Next2_PMT_2_v34" vertex3="Next2_PMT_2_v35"/>
+             <triangular vertex1="Next2_PMT_2_v67" vertex2="Next2_PMT_2_v35" vertex3="Next2_PMT_2_v65"/>
+             <triangular vertex1="Next2_PMT_2_v65" vertex2="Next2_PMT_2_v35" vertex3="Next2_PMT_2_v24"/>
+             <triangular vertex1="Next2_PMT_2_v65" vertex2="Next2_PMT_2_v24" vertex3="Next2_PMT_2_v66"/>
+             <triangular vertex1="Next2_PMT_2_v66" vertex2="Next2_PMT_2_v24" vertex3="Next2_PMT_2_v25"/>
+             <triangular vertex1="Next2_PMT_2_v66" vertex2="Next2_PMT_2_v25" vertex3="Next2_PMT_2_v70"/>
+             <triangular vertex1="Next2_PMT_2_v70" vertex2="Next2_PMT_2_v25" vertex3="Next2_PMT_2_v26"/>
+             <triangular vertex1="Next2_PMT_2_v70" vertex2="Next2_PMT_2_v26" vertex3="Next2_PMT_2_v68"/>
+             <triangular vertex1="Next2_PMT_2_v68" vertex2="Next2_PMT_2_v26" vertex3="Next2_PMT_2_v27"/>
+             <triangular vertex1="Next2_PMT_2_v68" vertex2="Next2_PMT_2_v27" vertex3="Next2_PMT_2_v69"/>
+             <triangular vertex1="Next2_PMT_2_v69" vertex2="Next2_PMT_2_v27" vertex3="Next2_PMT_2_v28"/>
+             <triangular vertex1="Next2_PMT_2_v69" vertex2="Next2_PMT_2_v28" vertex3="Next2_PMT_2_v73"/>
+             <triangular vertex1="Next2_PMT_2_v73" vertex2="Next2_PMT_2_v28" vertex3="Next2_PMT_2_v29"/>
+             <triangular vertex1="Next2_PMT_2_v73" vertex2="Next2_PMT_2_v29" vertex3="Next2_PMT_2_v71"/>
+             <triangular vertex1="Next2_PMT_2_v71" vertex2="Next2_PMT_2_v29" vertex3="Next2_PMT_2_v30"/>
+             <triangular vertex1="Next2_PMT_2_v71" vertex2="Next2_PMT_2_v30" vertex3="Next2_PMT_2_v72"/>
+             <triangular vertex1="Next2_PMT_2_v72" vertex2="Next2_PMT_2_v30" vertex3="Next2_PMT_2_v31"/>
+             <triangular vertex1="Next2_PMT_2_v72" vertex2="Next2_PMT_2_v31" vertex3="Next2_PMT_2_v64"/>
+             <triangular vertex1="Next2_PMT_2_v64" vertex2="Next2_PMT_2_v31" vertex3="Next2_PMT_2_v32"/>
+        </tessellated>
+    </solids>
+
+    <structure>
+        <volume name="Next2_PMT_2">
+            <materialref ref="PMT"/>
+            <solidref ref="Next2_PMT_2-SOL"/>
+        </volume>
+    </structure>
+
+    <setup name="Default" version="1.0">
+        <world ref="Next2_PMT_2"/>
+    </setup>
+</gdml>

@@ -1,0 +1,1 @@
+This directory contains an example of the preliminary simulations conducted towards the beginning of the project to ensure correct usage of Geant4. This simulation fires 4 GeV muons at a rectangular prism detector and logs energy deposition.

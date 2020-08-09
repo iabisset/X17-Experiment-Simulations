@@ -1,0 +1,8 @@
+/home/iain/Documents/geant4/Senior-Design-Simulation-Code/Electron_BackScatter/BackScatterBuild/CMakeFiles/install/strip.dir
+/home/iain/Documents/geant4/Senior-Design-Simulation-Code/Electron_BackScatter/BackScatterBuild/CMakeFiles/install/local.dir
+/home/iain/Documents/geant4/Senior-Design-Simulation-Code/Electron_BackScatter/BackScatterBuild/CMakeFiles/install.dir
+/home/iain/Documents/geant4/Senior-Design-Simulation-Code/Electron_BackScatter/BackScatterBuild/CMakeFiles/list_install_components.dir
+/home/iain/Documents/geant4/Senior-Design-Simulation-Code/Electron_BackScatter/BackScatterBuild/CMakeFiles/rebuild_cache.dir
+/home/iain/Documents/geant4/Senior-Design-Simulation-Code/Electron_BackScatter/BackScatterBuild/CMakeFiles/edit_cache.dir
+/home/iain/Documents/geant4/Senior-Design-Simulation-Code/Electron_BackScatter/BackScatterBuild/CMakeFiles/B1.dir
+/home/iain/Documents/geant4/Senior-Design-Simulation-Code/Electron_BackScatter/BackScatterBuild/CMakeFiles/exampleB1.dir
