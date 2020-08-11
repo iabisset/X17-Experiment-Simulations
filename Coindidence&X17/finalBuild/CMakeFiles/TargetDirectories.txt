@@ -1,0 +1,8 @@
+/home/iain/Documents/geant4/X17-Experiment-Simulations/Coindidence&X17/finalBuild/CMakeFiles/install/strip.dir
+/home/iain/Documents/geant4/X17-Experiment-Simulations/Coindidence&X17/finalBuild/CMakeFiles/install/local.dir
+/home/iain/Documents/geant4/X17-Experiment-Simulations/Coindidence&X17/finalBuild/CMakeFiles/install.dir
+/home/iain/Documents/geant4/X17-Experiment-Simulations/Coindidence&X17/finalBuild/CMakeFiles/list_install_components.dir
+/home/iain/Documents/geant4/X17-Experiment-Simulations/Coindidence&X17/finalBuild/CMakeFiles/rebuild_cache.dir
+/home/iain/Documents/geant4/X17-Experiment-Simulations/Coindidence&X17/finalBuild/CMakeFiles/edit_cache.dir
+/home/iain/Documents/geant4/X17-Experiment-Simulations/Coindidence&X17/finalBuild/CMakeFiles/B1.dir
+/home/iain/Documents/geant4/X17-Experiment-Simulations/Coindidence&X17/finalBuild/CMakeFiles/exampleB1.dir
