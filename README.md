@@ -1,6 +1,6 @@
 # X17-Experiment-Simulations
 
-This repository contains the simulation code for the UdeM X17 done over the course of my Senior Design project and the summer afterwards. This text document summarizes all the folders contained in this repository, but more information can be found in the individual folders and code comments. Each folder contains a directory for the source code and a directory containing the program compiled from the source code. To run the software, one must have an installation of geant4 on their system with appropriate data libraries for decay physics, gamma levels, etc. If there are any questions, please contact me at iain.bisset1@gmail.com
+This repository contains the simulation code for the UdeM X17 experiment done over the course of my Senior Design project and the summer afterwards. This text document summarizes all the folders contained in this repository, but more information can be found in the individual folders and code comments. Each folder contains a directory for the source code and a directory containing the program compiled from the source code. To run the software, one must have an installation of geant4 on their system with appropriate data libraries for decay physics, gamma levels, etc. If there are any questions, please contact me at iain.bisset1@gmail.com
 
 # Preliminary Simulations
 
