@@ -80,6 +80,3 @@
 /vis/viewer/set/autoRefresh true
 /vis/viewer/refresh
 /vis/verbose warnings
-/vis/disable
-/tracking/storeTrajectory 0
-/run/beamOn 360000

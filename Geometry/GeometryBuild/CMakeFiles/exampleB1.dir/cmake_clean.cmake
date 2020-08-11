@@ -7,8 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/exampleB1.dir/src/B1RunAction.cc.o"
   "CMakeFiles/exampleB1.dir/src/B1SteppingAction.cc.o"
   "CMakeFiles/exampleB1.dir/src/QBBCUpdate.cc.o"
-  "exampleB1.pdb"
   "exampleB1"
+  "exampleB1.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

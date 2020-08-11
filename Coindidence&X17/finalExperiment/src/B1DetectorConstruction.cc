@@ -202,6 +202,8 @@ fParser.Read("chamber.gdml");
 fParser.Read("restReduced.gdml");
 fParser.Read("carbon.gdml");
 
+// Declare logical volumes
+
 G4LogicalVolume* bar1 = fParser.GetVolume("bar1");
 G4LogicalVolume* bar2 = fParser.GetVolume("bar2");
 G4LogicalVolume* bar3 = fParser.GetVolume("bar3");
@@ -225,6 +227,8 @@ G4LogicalVolume* chamber = fParser.GetVolume("chamber");
 G4LogicalVolume* rest = fParser.GetVolume("restReduced");
 
 
+// Set materials. Scintillators are polystyrene, DAPHNE chamber is approximated as elemental aluminium.
+
 bar1->SetMaterial(poly);
 bar2->SetMaterial(poly);
 bar3->SetMaterial(poly);
@@ -246,6 +250,8 @@ chamber->SetMaterial(Al);
 carbon->SetMaterial(carb);
 rest->SetMaterial(Al);
 
+
+// The bars are based on identical files, and must be rotated individually.
 
 G4RotationMatrix* rotat = new G4RotationMatrix();
 G4RotationMatrix* rotat2 = new G4RotationMatrix();
@@ -277,6 +283,8 @@ rotat12->rotateZ(12*22.5*deg);
 rotat13->rotateZ(13*22.5*deg);
 rotat14->rotateZ(14*22.5*deg);
 rotat15->rotateZ(15*22.5*deg);
+
+// Place volumes in environment
 
 
 new G4PVPlacement(0, G4ThreeVector(0, 0, 0), bar1, "bar1", logicEnv, false, 0, checkOverlaps);

@@ -53,7 +53,7 @@
 #include "G4StoppingPhysics.hh"
 #include "G4EmLivermorePhysics.hh"
 
-#include "G4DataQuestionaire.hh"
+
 #include "G4HadronInelasticQBBC.hh"
 #include "G4HadronElasticPhysics.hh"
 #include "G4HadronElasticPhysicsXS.hh"
@@ -65,7 +65,7 @@
 
 QBBCUpdate::QBBCUpdate( G4int ver, const G4String&)
 {
-  G4DataQuestionaire it(photon, neutronxs);
+ 
   G4cout << "<<< Reference Physics List QBBC " <<G4endl;
 
   defaultCutValue = 0.7*mm;
