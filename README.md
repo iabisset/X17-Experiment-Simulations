@@ -24,7 +24,7 @@ Implementation of the hypothetical boson took some time, as I tried several meth
 
 The simulation works by tracking energy depositions in each of the 18 scintillators event-by-event and storing the data in text files. The positions of electron and positron hits on the DAPHNE chamber are recorded and used in post-processing to calculate the angle between the electron and positron in each event. A mathematica file is used to process the data and generate histograms of detected angular correlations, gating on disparity paramater values with a magnitude less than 0.5 . 
 
-One concern in the experiment that was addressed in this simulation is the effect of external pair creation on the measured angular distribution, given the presence of a carbon tube between the decays and the DAPHNE chamber. Doing an analysis in the simulation shows only about 0.65% of detected electron-positron pairs come from pair creation sources other than IPC. 
+One concern in the experiment that was addressed in this simulation is the effect of external pair creation on the measured angular distribution, given the presence of a carbon tube between the decays and the DAPHNE chamber. Doing an analysis in the simulation shows only about 0.65% of detected electron-positron pairs come from pair creation sources other than IPC or boson decays. 
 
 # Note on bugs
 
